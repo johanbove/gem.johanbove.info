@@ -1,0 +1,65 @@
+# Johan's Gemini Capsule
+
+Estd. November 2020 in Düsseldorf, Germany
+
+Last modified: 2020-11-21T21:46
+
+=> logs.gmi Daily Log
+
+
+## 1. About Me
+
+This is Johan's first Gemini capsule. Bare with me while I explore the _Geminispace_.
+
+Everything is currently hand-crafted in Vim.
+
+### 1.1 My Sites
+
+I am easily found online. Here are my personal spaces.
+
+My homepage also has all the information to reach out to me.
+
+=> https://johanbove.info My Home Page
+=> https://social.johanbove.info My Social Site
+=> gopher://gopher.johanbove.info:70 My Gopherhole (since 2019)
+
+### 1.2 Contact
+
+E-mail: hello@johanbove.info
+PGP: 4AAE 11D0 B6A8 D5E8 (@johanbove on Keybase)
+
+=> https://johanbove.info/E44E71105E920276ED1693294AAE11D0B6A8D5E8.asc PGP Public Key
+
+
+## 2. Links
+
+A collection of hopefully interesting related sites.
+
+### 2.1 Gemini Info
+
+=> gemini://gemini.circumlunar.space/docs/faq.gmi Project Gemini FAQ
+=> https://thedorkweb.substack.com/p/gopher-gemini-and-the-smol-internet
+
+### 2.2 Gemini Software
+
+=> gemini://gem.vectorpoem.com/server.gmi "How I set up this Gemini host"
+=> https://git.sr.ht/~sircmpwn/gmnisrv
+=> https://tildegit.org/solderpunk/molly-brown
+=> gemini://skyjake.fi/lagrange/ Lagrange Desktop GUI for Gemini
+
+## 3. Plans
+
+Sharing the ideas I have for this site.
+
+* [x] Set up my own - basic - Gemini server.
+* [ ] Copy the content from my Gopherhole here.
+* [ ] Set up a publish system to include the files from my Gopherhole here.
+* [ ] Move the Gemini server to a more robust, complete system like "Molly Brown".
+* [ ] Find out how TLS Client certificates can be used to authenticate.
+* [ ] Find out how to make Gemini pages dynamic. How to post data?
+
+More to come later for sure...
+Thanks for visiting.
+
+- Johan
+

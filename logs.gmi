@@ -1,0 +1,13 @@
+# Daily Log
+
+Keeping a log file for my Gemini experience.
+
+## 2020-11-21, Saturday
+
+* Getting started with Gemini.
+* Reading all the documentation.
+* Set up the gemini://gem.johanbove.info redirect.
+* Installed the _gmnisrv_ server on my Raspberry Pi 3
+* Followed the instructions by Vectorpoem.
+* Created initial home page and this log.
+
