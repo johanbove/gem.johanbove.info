@@ -10,4 +10,4 @@ Keeping a log file for my Gemini experience.
 * Installed the _gmnisrv_ server on my Raspberry Pi 3
 * Followed the instructions by Vectorpoem.
 * Created initial home page and this log.
-
+* Subscribed to the Gemini mailing list.
