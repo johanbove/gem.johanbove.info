@@ -2,4 +2,6 @@
 
 Thinking this is a great idea! Especially since I had some trouble setting up "Gemfeed" earlier today. Being able to provide a standardized way of a "gemlog" will make it super convenient to subscribe to other logs.
 
+I do however should plan for a real "atoms" feed some day.
+
 => gemini://gemini.circumlunar.space/docs/companion/subscription.gmi
