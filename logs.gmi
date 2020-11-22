@@ -5,9 +5,10 @@ Keeping a log file for my Gemini experience.
 ## 2020-11-21, Sunday
 
 * Looking at setting up a "gemlog".
-* Installing https://tildegit.org/solderpunk/gemfeed.
+* Installing Solderpunk's "Gemfeed".
 * Want to learn how to do TLS client authentication.
 * Editing from Visual Studio Code on Windows instead of Vim so I can use emojis. Hey it's 2020 after all. 🙄
+* Considering installing "Go" on the Raspberry Pi 3.
 
 ---
 

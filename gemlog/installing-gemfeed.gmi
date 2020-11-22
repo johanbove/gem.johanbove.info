@@ -1,0 +1,122 @@
+# Installing "Gemfeed"
+
+Wanted to set up an Atoms feed for my new Gemini Capsule and wanted to give Solarpunk's Gemfeed a try.
+
+Here is a log of my experience setting things up on a Raspberry Pi 3 running Raspbian.
+
+
+Unfortunately installing gemfeed didn't work right away so I'm now compiling python 3.8 on the Raspberry Pi with the hope this will fix it. But alas, it didn't.
+
+Trying to fix the install error with installing Cython.
+
+```
+pip install Cython --install-option="--no-cython-compile"
+```
+
+This doesn't work. The "gemfeed" setup.py script keeps failing at:
+
+```
+fatal error: xlocale.h
+```
+
+The full build log:
+
+```
+sudo python3 ./setup.py install
+/usr/lib/python3/dist-packages/setuptools/dist.py:333: UserWarning: Normalizing '1.1.0-dev' to '1.1.0.dev0'
+  normalized_version,
+running install
+running bdist_egg
+running egg_info
+writing dependency_links to gemfeed.egg-info/dependency_links.txt
+writing requirements to gemfeed.egg-info/requires.txt
+writing entry points to gemfeed.egg-info/entry_points.txt
+writing gemfeed.egg-info/PKG-INFO
+writing top-level names to gemfeed.egg-info/top_level.txt
+reading manifest file 'gemfeed.egg-info/SOURCES.txt'
+writing manifest file 'gemfeed.egg-info/SOURCES.txt'
+installing library code to build/bdist.linux-armv7l/egg
+running install_lib
+running build_py
+creating build/bdist.linux-armv7l/egg
+copying build/lib/gemfeed.py -> build/bdist.linux-armv7l/egg
+byte-compiling build/bdist.linux-armv7l/egg/gemfeed.py to gemfeed.cpython-35.pyc
+creating build/bdist.linux-armv7l/egg/EGG-INFO
+copying gemfeed.egg-info/PKG-INFO -> build/bdist.linux-armv7l/egg/EGG-INFO
+copying gemfeed.egg-info/SOURCES.txt -> build/bdist.linux-armv7l/egg/EGG-INFO
+copying gemfeed.egg-info/dependency_links.txt -> build/bdist.linux-armv7l/egg/EGG-INFO
+copying gemfeed.egg-info/entry_points.txt -> build/bdist.linux-armv7l/egg/EGG-INFO
+copying gemfeed.egg-info/requires.txt -> build/bdist.linux-armv7l/egg/EGG-INFO
+copying gemfeed.egg-info/top_level.txt -> build/bdist.linux-armv7l/egg/EGG-INFO
+zip_safe flag not set; analyzing archive contents...
+creating 'dist/gemfeed-1.1.0.dev0-py3.5.egg' and adding 'build/bdist.linux-armv7l/egg' to it
+removing 'build/bdist.linux-armv7l/egg' (and everything under it)
+Processing gemfeed-1.1.0.dev0-py3.5.egg
+Removing /usr/local/lib/python3.5/dist-packages/gemfeed-1.1.0.dev0-py3.5.egg
+Copying gemfeed-1.1.0.dev0-py3.5.egg to /usr/local/lib/python3.5/dist-packages
+gemfeed 1.1.0.dev0 is already the active version in easy-install.pth
+Installing gemfeed script to /usr/local/bin
+
+Installed /usr/local/lib/python3.5/dist-packages/gemfeed-1.1.0.dev0-py3.5.egg
+Processing dependencies for gemfeed==1.1.0.dev0
+Searching for lxml
+Reading https://pypi.python.org/simple/lxml/
+Downloading https://files.pythonhosted.org/packages/c5/2f/a0d8aa3eee6d53d5723d89e1fc32eee11e76801b424e30b55c7aa6302b01/lxml-4.6.1.tar.gz#sha256=c152b2e93b639d1f36ec5a8ca24cde4a8eefb2b6b83668fcd8e83a67badcb367
+Best match: lxml 4.6.1
+Processing lxml-4.6.1.tar.gz
+Writing /tmp/easy_install-urydzh4r/lxml-4.6.1/setup.cfg
+Running lxml-4.6.1/setup.py -q bdist_egg --dist-dir /tmp/easy_install-urydzh4r/lxml-4.6.1/egg-dist-tmp-u5r_xrvl
+Building lxml version 4.6.1.
+Building without Cython.
+Building against libxml2 2.9.4 and libxslt 1.1.29
+In file included from /usr/include/libxslt/xsltInternals.h:24:0,
+                 from src/lxml/etree.c:735:
+/usr/include/libxslt/xsltlocale.h:20:21: fatal error: xlocale.h: Datei oder Verzeichnis nicht gefunden
+ #include <xlocale.h>
+                     ^
+compilation terminated.
+Compile failed: command 'arm-linux-gnueabihf-gcc' failed with exit status 1
+/tmp/easy_install-urydzh4r/lxml-4.6.1/temp/xmlXPathInith_winkct.c:2:1: warning: return type defaults to ‘int’ [-Wimplicit-int]
+ main (int argc, char **argv) {
+ ^~~~
+error: Setup script exited with error: command 'arm-linux-gnueabihf-gcc' failed with exit status 1
+```
+
+Trying again with:
+
+```
+pip install Cython
+```
+
+This changes nothing. Still getting the "Building without Cython.".
+
+And installing gcc:
+
+```
+sudo apt-get install gcc
+```
+
+Already installed.
+
+Trying:
+
+```
+sudo python3 -m pip install --upgrade pip
+```
+
+Returns:
+
+```
+Successfully installed pip-20.2.4
+```
+
+Still no luck and I am giving up after trying to get this to run after an hour.
+
+### Links
+
+=> https://tildegit.org/solderpunk/gemfeed
+=> https://www.ramoonus.nl/2019/10/23/how-to-install-python-3-8-on-raspberry-pi/ 
+=> https://www.jeremymorgan.com/tutorials/raspberry-pi/install-go-raspberry-pi/
+=> https://pypi.org/project/Cython/
+=> https://raspberry-valley.azurewebsites.net/Python-Default-Version/
+=> https://www.linuxquestions.org/questions/slackware-14/no-luck-with-libc-on-current-xlocale-h-missing-4175612648/
