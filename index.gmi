@@ -2,7 +2,7 @@
 
 Estd. November 2020 in Düsseldorf, Germany
 
-Last modified: 2020-11-22 at 19:23
+Last modified: 2020-11-22 at 23:53
 
 => gemlog/ Gem Log
 => journal.gmi Site Journal
@@ -43,9 +43,9 @@ A collection of hopefully interesting related sites.
 ### 2.2 Gemini Software
 
 => gemini://gem.vectorpoem.com/server.gmi "How I set up this Gemini host" by Vectorpoem
-=> https://git.sr.ht/~sircmpwn/gmnisrv
-=> https://tildegit.org/solderpunk/molly-brown
-=> gemini://skyjake.fi/lagrange/ Lagrange Desktop GUI for Gemini
+=> https://git.sr.ht/~sircmpwn/gmnisrv gmnisrv Basic server
+=> https://tildegit.org/solderpunk/molly-brown Molly-Brown Gemini server in Go
+=> gemini://skyjake.fi/lagrange/ Lagrange is a desktop GUI for Gemini
 => gemini://twins.rocketnine.space/ Twins Gemini Server (running this site)
 
 ## 3. Plans
@@ -55,8 +55,8 @@ Sharing the ideas I have for this site.
 * ✔ Set up my own - basic - Gemini server.
 * ✔ Move the Gemini server to a more robust, complete system.
 * ✔ Find out how to make Gemini pages dynamic.
-* Link the content from my Gopherhole here.
-* Find out how TLS Client certificates can be used to authenticate.
+* Link the content from my Gopherhole here. Or copy it over?
+* Find out how TLS Client certificates can be used to authenticate. -> See Molly Brown.
 
 More to come later for sure...
 Thanks for visiting! 😎

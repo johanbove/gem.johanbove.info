@@ -10,6 +10,7 @@ Keeping a log file for my Gemini experience.
 * Editing from Visual Studio Code on Windows instead of Vim so I can use emojis. Hey it's 2020 after all. 🙄
 * Installed "Golang" on the Raspberry Pi 3.
 * Changed the Gemini server to "Twins". Powerful features and easy install. In Go.
+* Moving servers was really easy. Thinking of giving Molly a go next week.
 * Enjoying _Lagrange_ as my Gemini client gui on Windows 10. It has a Wonderful design.
 * Read the Gemini companion docs for robots.txt and subscriptions.
 * Created bash shell scripts for quick publishing and posting in /gemlog. Refining as I go along.
