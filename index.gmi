@@ -46,7 +46,7 @@ A collection of hopefully interesting related sites.
 => https://git.sr.ht/~sircmpwn/gmnisrv
 => https://tildegit.org/solderpunk/molly-brown
 => gemini://skyjake.fi/lagrange/ Lagrange Desktop GUI for Gemini
-=> gemini://twins.rocketnine.space/ Twins Gemini Server
+=> gemini://twins.rocketnine.space/ Twins Gemini Server (running this site)
 
 ## 3. Plans
 

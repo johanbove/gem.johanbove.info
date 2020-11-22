@@ -4,7 +4,6 @@ Wanted to set up an Atoms feed for my new Gemini Capsule and wanted to give Sola
 
 Here is a log of my experience setting things up on a Raspberry Pi 3 running Raspbian.
 
-
 Unfortunately installing gemfeed didn't work right away so I'm now compiling python 3.8 on the Raspberry Pi with the hope this will fix it. But alas, it didn't.
 
 Trying to fix the install error with installing Cython.
