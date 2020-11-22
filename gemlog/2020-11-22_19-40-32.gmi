@@ -1,8 +1,8 @@
 # Gemini bash commands
 
-These are my bash commands to quickly add content to this site:
+These are my bash commands to quickly add content to this site.
 
-Saved as gemini.sh
+Saved as _gemini.sh_:
 
 ```
 # Gemini Space
