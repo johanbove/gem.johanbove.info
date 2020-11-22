@@ -52,11 +52,11 @@ A collection of hopefully interesting related sites.
 
 Sharing the ideas I have for this site.
 
-* [x] Set up my own - basic - Gemini server.
-* [x] Move the Gemini server to a more robust, complete system.
-* [x] Find out how to make Gemini pages dynamic.
-* [ ] Link the content from my Gopherhole here.
-* [ ] Find out how TLS Client certificates can be used to authenticate.
+* ✔ Set up my own - basic - Gemini server.
+* ✔ Move the Gemini server to a more robust, complete system.
+* ✔ Find out how to make Gemini pages dynamic.
+* Link the content from my Gopherhole here.
+* Find out how TLS Client certificates can be used to authenticate.
 
 More to come later for sure...
 Thanks for visiting! 😎
