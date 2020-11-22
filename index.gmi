@@ -2,18 +2,18 @@
 
 Estd. November 2020 in Düsseldorf, Germany
 
-Last modified: 2020-11-21T23:50
+Last modified: 2020-11-22 at 19:23
 
-=> logs.gmi Daily Log
-=> gemlog/ Gemlog
+=> gemlog/ Gem Log
+=> journal.gmi Site Journal
 
-## 1. About Me
+## 1. About
 
-This is Johan's first Gemini capsule. Bare with me while I explore the _Geminispace_.
+This is Johan's first Gemini capsule. Bare with him while I explore the _Geminispace_.
 
-Everything is currently hand-crafted in Vim.
+Everything is currently hand-crafted in Vim. This site contains mostly logs and journal on Johan's experience with getting started with Gemini.
 
-### 1.1 My Sites
+### 1.1 Other sites
 
 I am easily found online. Here are my personal spaces.
 
@@ -53,14 +53,13 @@ A collection of hopefully interesting related sites.
 Sharing the ideas I have for this site.
 
 * [x] Set up my own - basic - Gemini server.
-* [ ] Copy the content from my Gopherhole here.
-* [ ] Set up a publish system to include the files from my Gopherhole here.
-* [ ] Move the Gemini server to a more robust, complete system like "Molly Brown".
+* [x] Move the Gemini server to a more robust, complete system.
+* [x] Find out how to make Gemini pages dynamic.
+* [ ] Link the content from my Gopherhole here.
 * [ ] Find out how TLS Client certificates can be used to authenticate.
-* [ ] Find out how to make Gemini pages dynamic. How to post data?
 
 More to come later for sure...
-Thanks for visiting.
+Thanks for visiting! 😎
 
 - Johan
 
