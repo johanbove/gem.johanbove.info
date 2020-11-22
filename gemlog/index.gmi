@@ -3,6 +3,6 @@
 Short notes and blog posts.
 
 => installing-gemfeed.gmi "Installing Gemfeed"
-=> 2020-11-22T1726.gmi
-=> 2020-11-22T1857.gmi
-=> 2020-11-22T1940.gmi
+=> 2020-11-22T1726.gmi "Why use Python why you can Go?"
+=> 2020-11-22T1857.gmi "Installed Twins Gemini server"
+=> 2020-11-22T1940.gmi "Gemini bash commands"
