@@ -1,5 +1,7 @@
 # Gemlog
 
+Short notes and blog posts.
+
 => installing-gemfeed.gmi "Installing Gemfeed fiasco"
 => 2020-11-22_17-26-00.gmi
 => 2020-11-22_18-57-00.gmi
