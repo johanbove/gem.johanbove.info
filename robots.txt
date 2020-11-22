@@ -1,0 +1,9 @@
+# https://www.robotstxt.org/robotstxt.html
+
+# Nope to Google
+User-agent: Google
+Disallow: /
+
+# okay for all others
+User-agent: *
+Disallow: 

@@ -2,7 +2,7 @@
 
 Short notes and blog posts.
 
-=> installing-gemfeed.gmi "Installing Gemfeed fiasco"
-=> 2020-11-22_17-26-00.gmi
-=> 2020-11-22_18-57-00.gmi
-=> 2020-11-22_19-40-32.gmi
+=> installing-gemfeed.gmi "Installing Gemfeed"
+=> 2020-11-22T1726.gmi
+=> 2020-11-22T1857.gmi
+=> 2020-11-22T1940.gmi
