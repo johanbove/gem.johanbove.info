@@ -1,1 +1,10 @@
 # Why use Python when you can Go?
+
+Python apps can be confusing. Which version to they need, Python 2 or 3?
+Do I need to install pip? How do I build and install the app?
+
+Got a bit of a complication this afternoon with an application trying to get it installed and running on Raspberry Pi.
+
+So I tried working setting up Golang and I'm planning to see if can start programming an Atoms feed generator for this gemblog with it.
+
+It would be also probably be a good idea for me to use Golang instead of bash shell scripts in order to create new posts and publish here. Perhaps that would not be necessary; it would be intersesting to try anyway.
