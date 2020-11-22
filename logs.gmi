@@ -9,6 +9,7 @@ Keeping a log file for my Gemini experience.
 * Want to learn how to do TLS client authentication.
 * Editing from Visual Studio Code on Windows instead of Vim so I can use emojis. Hey it's 2020 after all. 🙄
 * Considering installing "Go" on the Raspberry Pi 3.
+* Going to try to change the Gemini server to "Twins".
 
 ---
 

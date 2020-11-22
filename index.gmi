@@ -42,10 +42,11 @@ A collection of hopefully interesting related sites.
 
 ### 2.2 Gemini Software
 
-=> gemini://gem.vectorpoem.com/server.gmi "How I set up this Gemini host"
+=> gemini://gem.vectorpoem.com/server.gmi "How I set up this Gemini host" by Vectorpoem
 => https://git.sr.ht/~sircmpwn/gmnisrv
 => https://tildegit.org/solderpunk/molly-brown
 => gemini://skyjake.fi/lagrange/ Lagrange Desktop GUI for Gemini
+=> gemini://twins.rocketnine.space/ Twins Gemini Server
 
 ## 3. Plans
 
