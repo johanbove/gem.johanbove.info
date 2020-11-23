@@ -18,5 +18,5 @@ Gemini is a new internet protocol which:
 ## Setup
 ### post receive hook
 
-GIT_WORK_TREE=/home/johan/gemini/gem.johanbove.info git checkout -f
+    GIT_WORK_TREE=/home/johan/gemini/gem.johanbove.info git checkout -f
 
