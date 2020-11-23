@@ -1,3 +1,6 @@
 # Installed Twins Gemini server
 
+"Twins" is programmed in Golang.
+
 => gemini://twins.rocketnine.space/
+=> https://gitlab.com/tslocum/twins Repository
