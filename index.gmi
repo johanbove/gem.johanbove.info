@@ -2,11 +2,12 @@
 
 Estd. November 2020 in Düsseldorf, Germany
 
-Last modified: 2020-11-23 at 17:20
+Last modified: 2020-11-23 at 17:45
 
+=> about.gmi  About
 => gemlog/ Gem Log
 => journal.gmi Site Journal
-=> about.gmi  About
+=> gemroll.gmi Gemroll
 
 ## 1. Intro
 
@@ -56,6 +57,7 @@ Sharing the ideas I have for this site.
 * ✔ Set up my own - basic - Gemini server.
 * ✔ Move the Gemini server to a more robust, complete system.
 * ✔ Find out how to make Gemini pages dynamic.
+* ✔ Add a Gemroll.
 * Link the content from my Gopherhole here. Or copy it over?
 * Find out how TLS Client certificates can be used to authenticate. -> See Molly Brown.
 

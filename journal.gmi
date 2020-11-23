@@ -2,6 +2,11 @@
 
 Keeping a log file for my Gemini experience.
 
+## 2020-11-23, Monday
+
+* Created the Indieweb.org/Gemini entry.
+* Added a Gemroll.
+
 ## 2020-11-22, Sunday
 
 * I've set my "gemlog" at /gemlog.
@@ -15,8 +20,6 @@ Keeping a log file for my Gemini experience.
 * Read the Gemini companion docs for robots.txt and subscriptions.
 * Created bash shell scripts for quick publishing and posting in /gemlog. Refining as I go along.
 
----
-
 ## 2020-11-21, Saturday
 
 * Getting started with Gemini.
@@ -26,5 +29,3 @@ Keeping a log file for my Gemini experience.
 * Followed the instructions by Vectorpoem.
 * Created initial home page and this log.
 * Subscribed to the Gemini mailing list.
-
----
