@@ -2,22 +2,28 @@
 
 These are my bash commands to quickly add content to this site.
 
-Saved as _gemini.sh_:
+Saved as `gemini.sh`:
 
 ```
 # Gemini Space
 
-# alias geminipublish='git add . && git commit -a -m "Update content" && git push origin'
-alias geminipublish='function _geminipublish() {
-    cd ~/gemini/gem.johanbove.info;
-    git add .;
-    git commit -a -m "Update content";
-    git push origin;
-};_geminipublish'
+function _geminipublish() {
+  cd ~/gemini/gem.johanbove.info;
+  git add .;
+  git commit -a -m "Update content";
+  git push origin;
+};
 
 # Quick way to post something on the Gemini site
-alias geminipost='function _geminipost() {
-	timestamp=$(date +%Y-%m-%d_%H-%M-%S);
-	touch ~/gemini/gem.johanbove.info/gemlog/$timestamp.gmi;
-};_geminipost'
+function _geminipost() {
+  timestamp=$(date +%Y-%m-%dT%H%M);
+  shorttimestamp=$(date +%Y-%m-%d);
+  echo "#$1" > ~/gemini/gem.johanbove.info/gemlog/$timestamp.gmi;
+  echo -e "=> $timestamp.gmi $shorttimestamp - $1\n" >> ~/gemini/gem.johanbove.info/gemlog/index.gmi
+};
+
+alias geminipublish='_geminipublish'
+
+alias geminipost='_geminipost'
+
 ```
