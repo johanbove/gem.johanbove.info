@@ -5,10 +5,9 @@ Estd. November 2020 in Düsseldorf, Germany
 Last modified: 2020-11-23 at 17:45
 
 => about.gmi  About
-=> gemlog/ Gem Log
-=> journal.gmi Site Journal
-=> gemroll.gmi Gemroll
-=> links.gmi Gemini Links
+=> gemlog/ Gemlog
+=> journal.gmi Journal
+=> links.gmi Links
 
 ## Intro
 
