@@ -2,6 +2,7 @@
 
 Short notes and blog posts by Johan Bové.
 
+=> 2020-11-23T1209.gmi 2020-11-23 - Wondering what KicksCondor would do with Gemini?
 => installing-gemfeed.gmi 2020-11-22 - Installing Gemfeed
 => 2020-11-22T1726.gmi 2020-11-22 - Why use Python when you can Go?
 => 2020-11-22T1857.gmi 2020-11-22 - Installed Twins Gemini server
