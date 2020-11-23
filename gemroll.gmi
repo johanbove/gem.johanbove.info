@@ -1,0 +1,7 @@
+# Johan's Gemroll
+
+Links to cool Geminispaces.
+
+=> gemini://gemini.circumlunar.space:1965/~solderpunk/ Solderpunk
+=> gemini://breadpunk.club/~bagel/ Nico's Site
+=> gemini://gemini.circumlunar.space/users/hundredrabbits/ Hunderdrabbits
