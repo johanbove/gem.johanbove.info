@@ -6,12 +6,13 @@ Last modified: 2020-11-23 at 09:16
 
 => gemlog/ Gem Log
 => journal.gmi Site Journal
+=> about.gmi  About
 
-## 1. About
+## 1. Intro
 
 This is Johan's first Gemini capsule. Bare with him while I explore the _Geminispace_.
 
-Everything is currently hand-crafted in Vim. This site contains mostly logs and journal on Johan's experience with getting started with Gemini.
+Everything is currently hand-crafted text. This site contains mostly logs and journal on Johan's experience with getting started with Gemini.
 
 ### 1.1 Other sites
 
