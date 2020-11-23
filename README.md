@@ -1,6 +1,8 @@
 # Johan's Gemini Capsule
 
-This is my Capsule hosted at gemini://gem.johanbove.info
+This is my own Geminispace "capsule" hosted at gemini://gem.johanbove.info
+
+The site is currently running on a Raspberry Pi 3 at my own house.
 
 ## What is Gemini?
 
