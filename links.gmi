@@ -1,0 +1,23 @@
+# My Gemini Links
+
+A collection of hopefully interesting related sites.
+
+## Gemini Info
+
+=> gemini://gemini.circumlunar.space/docs/faq.gmi Project Gemini FAQ
+
+## Gemini Articles
+
+=> https://thedorkweb.substack.com/p/gopher-gemini-and-the-smol-internet
+
+## Gemini Software
+
+=> gemini://gem.vectorpoem.com/server.gmi "How I set up this Gemini host" by Vectorpoem
+=> https://git.sr.ht/~sircmpwn/gmnisrv gmnisrv Basic server
+=> https://tildegit.org/solderpunk/molly-brown Molly-Brown Gemini server in Go
+=> gemini://skyjake.fi/lagrange/ Lagrange is a desktop GUI for Gemini
+=> gemini://twins.rocketnine.space/ Twins Gemini Server (running this site)
+
+## Cool Gemini Capsules
+
+=> gemini://konpeito.media/ Lo-fi Music Capsule

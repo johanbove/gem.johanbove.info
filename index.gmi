@@ -8,14 +8,15 @@ Last modified: 2020-11-23 at 17:45
 => gemlog/ Gem Log
 => journal.gmi Site Journal
 => gemroll.gmi Gemroll
+=> links.gmi Gemini Links
 
-## 1. Intro
+## Intro
 
 This is Johan's first Gemini capsule. Bare with him while I explore the _Geminispace_.
 
 Everything is currently hand-crafted text. This site contains mostly logs and journal on Johan's experience with getting started with Gemini.
 
-### 1.1 Other sites
+## Elsewhere
 
 I am easily found online. Here are my personal spaces.
 
@@ -25,32 +26,14 @@ My homepage also has all the information to reach out to me.
 => https://social.johanbove.info My Social Site
 => gopher://gopher.johanbove.info:70 My Gopherhole (since 2019)
 
-### 1.2 Contact
+## Contact
 
 E-mail: hello@johanbove.info
 PGP: 4AAE 11D0 B6A8 D5E8 (@johanbove on Keybase)
 
 => https://johanbove.info/E44E71105E920276ED1693294AAE11D0B6A8D5E8.asc PGP Public Key
 
-
-## 2. Links
-
-A collection of hopefully interesting related sites.
-
-### 2.1 Gemini Info
-
-=> gemini://gemini.circumlunar.space/docs/faq.gmi Project Gemini FAQ
-=> https://thedorkweb.substack.com/p/gopher-gemini-and-the-smol-internet
-
-### 2.2 Gemini Software
-
-=> gemini://gem.vectorpoem.com/server.gmi "How I set up this Gemini host" by Vectorpoem
-=> https://git.sr.ht/~sircmpwn/gmnisrv gmnisrv Basic server
-=> https://tildegit.org/solderpunk/molly-brown Molly-Brown Gemini server in Go
-=> gemini://skyjake.fi/lagrange/ Lagrange is a desktop GUI for Gemini
-=> gemini://twins.rocketnine.space/ Twins Gemini Server (running this site)
-
-## 3. Plans
+## Plans
 
 Sharing the ideas I have for this site.
 
