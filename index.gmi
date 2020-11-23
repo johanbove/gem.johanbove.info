@@ -2,7 +2,7 @@
 
 Estd. November 2020 in Düsseldorf, Germany
 
-Last modified: 2020-11-23 at 09:16
+Last modified: 2020-11-23 at 17:20
 
 => gemlog/ Gem Log
 => journal.gmi Site Journal
