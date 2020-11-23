@@ -15,7 +15,8 @@ I bike to work whenever I can, even when it rains.
 I love to learn about new technology, especially Internet and Web-related innovations.
 
 I like sci-fi movies and books but read mostly non-fictional literature and articles.
-My work introduction
+
+## My work introduction
 
 Throughout my career as a web developer I have gathered relevant and hands-on professional experience building performant Web sites and Web applications.
 
