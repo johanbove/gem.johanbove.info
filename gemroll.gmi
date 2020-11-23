@@ -2,6 +2,8 @@
 
 Links to cool Geminispaces.
 
-=> gemini://gemini.circumlunar.space:1965/~solderpunk/ Solderpunk
+=> gemini://gemini.circumlunar.space:1965/~solderpunk/ Solderpunk, BDFL of Gemini Protocol
 => gemini://breadpunk.club/~bagel/ Nico's Site
-=> gemini://gemini.circumlunar.space/users/hundredrabbits/ Hunderdrabbits
+=> gemini://gemini.circumlunar.space/users/hundredrabbits/ Hunderdrabbits Digital Collective
+=> gemini://gmi.skyjake.fi/gemlog/ Skyjake is the creator of Lagrange
+=> gemini://konpeito.media/ Lo-fi Music Capsule
