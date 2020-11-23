@@ -8,5 +8,5 @@ Short notes and blog posts by Johan Bové.
 => 2020-11-22T1857.gmi 2020-11-22 - Installed Twins Gemini server
 => 2020-11-22T1940.gmi 2020-11-22 - Gemini bash commands
 => 2020-11-22T2329.gmi 2020-11-22 - Reading about Gemini subscription
-=> 2020-11-23T2316.gmi "Towards a solarpunk future"
+=> 2020-11-23T2316.gmi 2020-11-23 - Towards a solarpunk future
 
