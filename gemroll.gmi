@@ -7,3 +7,4 @@ Links to cool Geminispaces.
 => gemini://gemini.circumlunar.space/users/hundredrabbits/ Hunderdrabbits Digital Collective
 => gemini://gmi.skyjake.fi/gemlog/ Skyjake is the creator of Lagrange
 => gemini://konpeito.media/ Lo-fi Music Capsule
+=> gemini://tilde.team/~emilis/ Emilis's Capsule

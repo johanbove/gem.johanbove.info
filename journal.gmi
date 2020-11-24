@@ -6,6 +6,7 @@ Keeping a log file for my Gemini experience.
 
 * Experiencing trouble with the *Twins* Gemini server after file updates. Perhaps something went wrong with my deployment process?
 * Switching back to *gminsrv* to see if it has similar issues. Perhaps twins is having some trouble keeping up with requests?
+* Impressed by the make build script to generate gemroll shared by Emilis. Going to give this a go later.
 
 ## 2020-11-23, Monday
 
