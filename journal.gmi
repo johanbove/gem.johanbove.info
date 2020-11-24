@@ -2,7 +2,7 @@
 
 Keeping a log file for my Gemini experience.
 
-## 2020-11-23, Tuesday
+## 2020-11-24, Tuesday
 
 * Experiencing trouble with the *Twins* Gemini server after file updates. Perhaps something went wrong with my deployment process?
 * Switching back to *gminsrv* to see if it has similar issues. Perhaps twins is having some trouble keeping up with requests?
