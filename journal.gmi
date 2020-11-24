@@ -2,6 +2,10 @@
 
 Keeping a log file for my Gemini experience.
 
+## 2020-11-23, Tuesday
+
+* Experiencing trouble with the Twins server after file updates. Perhaps something went wrong with my deployment process?
+
 ## 2020-11-23, Monday
 
 * Created the Indieweb.org/Gemini entry.
