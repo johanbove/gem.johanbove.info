@@ -5,7 +5,7 @@ Keeping a log file for my Gemini experience.
 ## 2020-11-23, Monday
 
 * Created the Indieweb.org/Gemini entry.
-* Added a Gemroll.
+* Added a Gemroll and links page.
 
 ## 2020-11-22, Sunday
 

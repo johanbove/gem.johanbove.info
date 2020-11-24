@@ -30,7 +30,7 @@ My homepage also has all the information to reach out to me.
 E-mail: hello@johanbove.info
 PGP: 4AAE 11D0 B6A8 D5E8 (@johanbove on Keybase)
 
-=> https://johanbove.info/E44E71105E920276ED1693294AAE11D0B6A8D5E8.asc PGP Public Key
+=> files/E44E71105E920276ED1693294AAE11D0B6A8D5E8.asc PGP Public Key
 
 ## Plans
 
