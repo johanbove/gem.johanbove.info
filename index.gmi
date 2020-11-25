@@ -1,8 +1,10 @@
-# Johan's Gemini Capsule
+# Caltivating Online Matters
+
+Johan's Gemini Capsule
 
 Estd. November 2020 in Düsseldorf, Germany
 
-  Last modified: 2020-11-25
+  Last modified: 2020-11-26
 
 => about.gmi  About
 => gemlog/ Gemlog
@@ -13,21 +15,23 @@ Estd. November 2020 in Düsseldorf, Germany
 
 ## Intro
 
-This is Johan's first Gemini capsule. Bare with him while I explore the _Geminispace_.
+This is Johan's first Gemini capsule. Please join him while he explores the newly discovered _Geminispace_.
 
-Everything is currently hand-crafted text. This site contains mostly logs and journal on Johan's experience with getting started with Gemini.
+Everything you see here is hand-crafted text. This site contains mostly logs and journal on Johan's experience with getting started with Gemini.
 
 ## Elsewhere
 
-I am easily found online. Here are my personal spaces.
+Johan is easily found online.
 
-My homepage also has all the information to reach out to me.
+His homepage has all the information you need to know and contact him.
 
-=> https://johanbove.info My Home Page
-=> https://social.johanbove.info My Social Site
-=> gopher://gopher.johanbove.info:70 My Gopherhole (since 2019)
+=> https://johanbove.info His HTTPS Home Page
+=> https://social.johanbove.info His Social Site
+=> gopher://gopher.johanbove.info:70 His Gopherhole (since 2019)
 
 ## Contact
+
+The preferred way of reaching out to him is by classic e-mail. 
 
 E-mail: hello@johanbove.info
 PGP: 4AAE 11D0 B6A8 D5E8 (@johanbove on Keybase)
@@ -35,6 +39,8 @@ PGP: 4AAE 11D0 B6A8 D5E8 (@johanbove on Keybase)
 => files/E44E71105E920276ED1693294AAE11D0B6A8D5E8.asc PGP Public Key
 
 ## Plans
+
+Enough third person introduction already. 
 
 Sharing the ideas I have for this site.
 
