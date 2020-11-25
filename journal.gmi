@@ -10,8 +10,8 @@ Bullet-journal style notes, tidbits and blurbs.
 * How does Star Wars credit work in The Mandalorian? He lands on this planet and needs to get his ship fixed and asks "How is my credit here?" and people just know. How does that work?
 * Missed out on meetings because of a nap... argh. 
 * Feels good to be able to help out a friend figuring out which NAS to get.
-* Something my dyslexia really flares up, especially when I'm anxious and nervous. I literally would write a sentence and forget whole words.
-* How do you keep your project's dependencies up-to-date?
+* At certain times my dyslexia really flares up, especially when I'm anxious and nervous. I literally would write a sentence and forget whole words.
+* How do you keep your project's dependencies up-to-date? JavaScript projects have become incredibly complex. I still remember the good old days where JavaScript was only used to flip a gif image on an image map mouse-over.
 
 ## 2020-11-24, Tuesday
 
