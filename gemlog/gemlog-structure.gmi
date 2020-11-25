@@ -14,15 +14,15 @@ B. Or organized in folders:
 
 C. Or is a human readable descriptive file name necessary, without a timestamp?
 
-  /gemlog/my-post-about-carrots.gmi
+  /gemlog/i-love-carrots.gmi
 
 D. Or a combination of the above:
 
-  /gemlog/YYYY/MM/my-post-about-carrots.gmi
+  /gemlog/YYYY/MM/i-love-carrots.gmi
 
 E. Or this:
 
-  /gemlog/YYY-MM-my-post-about-carrots.gmi
+  /gemlog/YYY-MM-i-love-carrots.gmi
 
 Currently I'm using option A.
 
