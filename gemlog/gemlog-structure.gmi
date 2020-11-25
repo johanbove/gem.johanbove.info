@@ -1,0 +1,28 @@
+# Considering a gemlog structure
+
+What would be the better structure for permalinks in my Gemlog?
+
+Here are some ideas.
+
+A. Each entry has a unique file name with the date stamp:
+
+  /gemlog/YYYY-MM-DDTHHmm.gmi
+
+B. Or organized in folders:
+
+  /gemlog/YYYY/MM/HHmm.gmi
+
+C. Or is a human readable descriptive file name necessary, without a timestamp?
+
+  /gemlog/my-post-about-carrots.gmi
+
+D. Or a combination of the above:
+
+  /gemlog/YYYY/MM/my-post-about-carrots.gmi
+
+E. Or this:
+
+  /gemlog/YYY-MM-my-post-about-carrots.gmi
+
+Currently I'm using option A.
+

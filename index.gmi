@@ -2,10 +2,10 @@
 
 Estd. November 2020 in Düsseldorf, Germany
 
-  Last modified: 2020-11-24
+  Last modified: 2020-11-25
 
 => about.gmi  About
-=> gemlog/ Gemlog
+=> gemlog Gemlog
 => journal.gmi Journal
 => links.gmi Links
 

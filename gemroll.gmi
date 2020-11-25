@@ -1,6 +1,6 @@
 # Johan's Gemroll
 
-Links to cool Geminispaces.
+Links to cool Geminispaces and gemlogs.
 
 => gemini://gemini.circumlunar.space:1965/~solderpunk/ Solderpunk, BDFL of Gemini Protocol
 => gemini://breadpunk.club/~bagel/ Nico's Site
@@ -8,3 +8,4 @@ Links to cool Geminispaces.
 => gemini://gmi.skyjake.fi/gemlog/ Skyjake is the creator of Lagrange
 => gemini://konpeito.media/ Lo-fi Music Capsule
 => gemini://tilde.team/~emilis/ Emilis's Capsule
+=> gemini.circumlunar.space/users/shufei/phlog/Shufei-ThisAndThat-Weiphlog.gmi Shufei's Weiphlog
