@@ -2,6 +2,11 @@
 
 Keeping a log file for my Gemini experience.
 
+## 2020-11-25, Wednesday
+
+* Contemplating a structure for my gemlog.
+* Really impressed by Gemini. I had fun with Gopher too, but feel more at home here in Geminispace. It's just easier to get started. No more Gophermaps and finicky formatting FTW!
+
 ## 2020-11-24, Tuesday
 
 * Experiencing trouble with the *Twins* Gemini server after file updates. Perhaps something went wrong with my deployment process?
