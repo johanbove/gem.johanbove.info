@@ -6,6 +6,6 @@ Links to cool Geminispaces and gemlogs.
 => gemini://breadpunk.club/~bagel/ Nico's Site
 => gemini://gemini.circumlunar.space/users/hundredrabbits/ Hunderdrabbits Digital Collective
 => gemini://gmi.skyjake.fi/gemlog/ Skyjake is the creator of Lagrange
-=> gemini://konpeito.media/ Lo-fi Music Capsule
+=> gemini://konpeito.media/ KONPEITO is a quarterly Lo-fi hip hop & chill bootleg mixtape
 => gemini://tilde.team/~emilis/ Emilis's Capsule
 => gemini.circumlunar.space/users/shufei/phlog/Shufei-ThisAndThat-Weiphlog.gmi Shufei's Weiphlog
