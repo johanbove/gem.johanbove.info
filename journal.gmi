@@ -1,13 +1,17 @@
-# Site Journal
+# Johan's Journal
 
-Keeping a log file for my Gemini experience.
+Bullet-journal style notes, tidbits and blurbs.
 
 ## 2020-11-25, Wednesday
 
-* Contemplating a structure for my gemlog.
+* Contemplating a structure for my gemlog. Not sure how to name the files. Do I keep everything in a single folder or date-structure it?
 * Really impressed by Gemini. I had fun with Gopher too, but feel more at home here in Geminispace. It's just easier to get started. No more Gophermaps and finicky formatting FTW!
-* thinkg the gateway issues from yesterday could be related to simply too high of a load on the litte Raspberry Pi. How to tell?
-* How does Star Wars credit work in The Mandalorian? "How is my credit here?"
+* Thinking the gateway issues from yesterday could be related to simply too high of a load on the litte Raspberry Pi. How to tell?
+* How does Star Wars credit work in The Mandalorian? He lands on this planet and needs to get his ship fixed and asks "How is my credit here?" and people just know. How does that work?
+* Missed out on meetings because of a nap... argh. 
+* Feels good to be able to help out a friend figuring out which NAS to get.
+* Something my dyslexia really flares up, especially when I'm anxious and nervous. I literally would write a sentence and forget whole words.
+* How do you keep your project's dependencies up-to-date?
 
 ## 2020-11-24, Tuesday
 
