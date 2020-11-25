@@ -6,6 +6,8 @@ Keeping a log file for my Gemini experience.
 
 * Contemplating a structure for my gemlog.
 * Really impressed by Gemini. I had fun with Gopher too, but feel more at home here in Geminispace. It's just easier to get started. No more Gophermaps and finicky formatting FTW!
+* thinkg the gateway issues from yesterday could be related to simply too high of a load on the litte Raspberry Pi. How to tell?
+* How does Star Wars credit work in The Mandalorian? "How is my credit here?"
 
 ## 2020-11-24, Tuesday
 
