@@ -2,6 +2,12 @@
 
 Bullet-journal style notes, tidbits and blurbs.
 
+## 2020-11-26, Thursday
+
+* Reading the Gemini Mailing list archive to catch up with the format is a good way to spend time while you're waiting for your build to finish.
+
+=> https://lists.orbitalfox.eu/listinfo/gemini The Gemini application layer protocol Mailing List
+
 ## 2020-11-25, Wednesday
 
 * Contemplating a structure for my gemlog. Not sure how to name the files. Do I keep everything in a single folder or date-structure it?
