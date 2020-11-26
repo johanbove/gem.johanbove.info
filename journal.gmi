@@ -5,13 +5,14 @@ Bullet-journal style notes, tidbits and blurbs.
 ## 2020-11-26, Thursday
 
 * Oh hi 👋 Windows Terminal, long time no upgrade and update. Why do you want these files in chmod 755 when WSL wants them in 644? Argh! Problems when trying to mix up two different systems together.
-* Seems like I need to add a flag to git ocnfig core `filemode = false` to fix that.
+* Fixed it by setting `git config --global core.fileMode false`.
 * Id like to think of Gemini as the spaced out, more relax little nephew (or niece) from Gopher.
 * I like *Nico's Gemini Capsule* structure as a wiki with files organized using tags. Going to check out their site generator.
 * The *Amfora gemini client* is a pretty cool command line client. Feels up to par with Lynx already.
 * It's that time of the year again where I pump myself full of sugar just to cope with the lack of daylight.
 * Reading the *Gemini Mailing List* archive to catch up with the format is a good way to spend time while you're waiting for your build to finish.
 
+=> https://medium.com/@tahteche/how-git-treats-changes-in-file-permissions-f71874ca239d "How git treats changes in the file permissions"
 => gemini://breadpunk.club/~bagel/ Nico's Gemini Capsule
 => https://github.com/makeworld-the-better-one/amfora Amfora Gemini Client
 => https://lists.orbitalfox.eu/listinfo/gemini The Gemini application layer protocol Mailing List
