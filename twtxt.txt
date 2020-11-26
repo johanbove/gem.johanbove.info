@@ -155,3 +155,4 @@
 2020-11-26T00:00:04+01:00	Getting started with [Restic](https://restic.readthedocs.io/en/latest/) for my backup needs. It's really neat and fast.
 2020-11-26T15:21:22+0100	JavaScript applications have become not-to-be-kidding complex lately. I guess that's why I am longing for simpler days.
 2020-11-26T15:45:08+0100	@<kas https://enotty.dk/twtxt.txt> What's happening with your feed? Where is your new one?
+2020-11-26T15:49:05+0100	@<prologic https://prologic.github.io/twtxt.txt> Could you make the polling of your server a little slower please? Thanks.
