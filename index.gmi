@@ -23,11 +23,12 @@ Everything you see here is hand-crafted text. This site contains mostly logs and
 
 Johan is easily found on the Internet. 
 
-His homepage has all the information you need to know and contact him.
+Here are his online presences about him.
 
-=> https://johanbove.info His HTTPS Home Page
-=> https://social.johanbove.info His Social Site
-=> gopher://gopher.johanbove.info:70 His Gopherhole (since 2019)
+=> https://johanbove.info HTTPS Home Page
+=> https://social.johanbove.info Social Site
+=> gopher://gopher.johanbove.info:70 Gopherhole (since 2019)
+=> gemini://gem.johanbove.info This Gemini capsule
 
 ## Contact
 
