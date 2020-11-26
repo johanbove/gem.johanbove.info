@@ -152,3 +152,5 @@
 2020-11-25T23:32:05+01:00	Now also to be found on Gemini at gemini://gem.johanbove.info - the future looks light and bright!.
 2020-11-25T23:42:47+01:00	@<uninformativ https://www.uninformativ.de/twtxt.txt> Welcome to Twtxt! Liking your introduction article and your Gopherhole is awesome.
 2020-11-25T23:49:54+01:00	Can I interest you in the latest edition of _Tales From The Dork Web_ when it's about _Gopher, Gemini and The Smol Internet_? https://thedorkweb.substack.com/p/gopher-gemini-and-the-smol-internet
+2020-11-26T00:00:04+01:00	Getting started with [Restic](https://restic.readthedocs.io/en/latest/) for my backup needs. It's really neat and fast.
+2020-11-26T15:21:22+0100	JavaScript applications have become not-to-be-kidding complex lately. I guess that's why I am longing for simpler days.
