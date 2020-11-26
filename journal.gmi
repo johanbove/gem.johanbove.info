@@ -4,6 +4,7 @@ Bullet-journal style notes, tidbits and blurbs.
 
 ## 2020-11-26, Thursday
 
+* Oh hi 👋 Windows Terminal, long time no upgrade and update. Why do you want these files in chmod 755 when WSL wants them in 644? Argh! Problems when trying to mix up two different systems together.
 * Id like to think of Gemini as the spaced out, more relax little nephew (or niece) from Gopher.
 * I like *Nico's Gemini Capsule* structure as a wiki with files organized using tags. Going to check out their site generator.
 * The *Amfora gemini client* is a pretty cool command line client. Feels up to par with Lynx already.
