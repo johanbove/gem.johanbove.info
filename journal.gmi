@@ -4,12 +4,12 @@ Bullet-journal style notes, tidbits and blurbs.
 
 ## 2020-11-26, Thursday
 
-* I like Nico's capsule structure organise as a wiki with files organized using tags. Would make sense for me too.
-* The Amfora gemini client is pretty cool from the command line.
+* I like *Nico's Gemini Capsule* structure as a wiki with files organized using tags. Going to check out their site generator.
+* The *Amfora gemini client* is a pretty cool command line client. Feels up to par with Lynx already.
 * It's that time of the year again where I pump myself full of sugar just to cope with the lack of daylight.
 * Reading the *Gemini Mailing List* archive to catch up with the format is a good way to spend time while you're waiting for your build to finish.
 
-=> gemini://breadpunk.club/~bagel/ Nico's Gemini Space
+=> gemini://breadpunk.club/~bagel/ Nico's Gemini Capsule
 => https://github.com/makeworld-the-better-one/amfora Amfora Gemini Client
 => https://lists.orbitalfox.eu/listinfo/gemini The Gemini application layer protocol Mailing List
 
