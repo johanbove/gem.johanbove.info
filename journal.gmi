@@ -4,9 +4,11 @@ Bullet-journal style notes, tidbits and blurbs.
 
 ## 2020-11-26, Thursday
 
+* The Amfora gemini client is pretty cool from the command line.
 * It's that time of the year again where I pump myself full of sugar just to cope with the lack of daylight.
 * Reading the *Gemini Mailing List* archive to catch up with the format is a good way to spend time while you're waiting for your build to finish.
 
+=> https://github.com/makeworld-the-better-one/amfora Amfora Gemini Client
 => https://lists.orbitalfox.eu/listinfo/gemini The Gemini application layer protocol Mailing List
 
 ## 2020-11-25, Wednesday
