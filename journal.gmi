@@ -42,6 +42,8 @@ Bullet-journal style notes, tidbits and blurbs.
 * Created the Indieweb.org/Gemini entry.
 * Added a Gemroll and links page.
 
+=> https://indieweb.org/Gemini
+
 ## 2020-11-22, Sunday
 
 * I've set my "gemlog" at /gemlog.
@@ -55,12 +57,17 @@ Bullet-journal style notes, tidbits and blurbs.
 * Read the Gemini companion docs for robots.txt and subscriptions.
 * Created bash shell scripts for quick publishing and posting in /gemlog. Refining as I go along.
 
+=> gemini://gmi.skyjake.fi/lagrange/ Lagrange Gemini Client
+
 ## 2020-11-21, Saturday
 
 * Getting started with Gemini.
 * Reading all the documentation.
-* Set up the gemini://gem.johanbove.info redirect.
+* Set up the gemini://gem.johanbove.info CNAME.
 * Installed the _gmnisrv_ server on my Raspberry Pi 3
 * Followed the instructions by Vectorpoem.
 * Created initial home page and this log.
 * Subscribed to the Gemini mailing list.
+
+=> gemini://gemini.circumlunar.space/ Project Gemini
+=> links.gmi Links
