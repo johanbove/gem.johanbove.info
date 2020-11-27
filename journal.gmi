@@ -43,6 +43,7 @@ Bullet-journal style notes, tidbits and blurbs.
 * Added a Gemroll and links page.
 
 => https://indieweb.org/Gemini
+=> gemroll.gmi My Gemroll
 
 ## 2020-11-22, Sunday
 
