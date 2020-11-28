@@ -2,6 +2,7 @@
 
 Links to cool Geminispaces and gemlogs.
 
+=> gemini://gemini.ctrl-c.club/ A collective of personal gemrolls.
 => gemini://port1965.eu Kas's Gemini Capsule
 => gemini://gemini.circumlunar.space:1965/~solderpunk/ Solderpunk, BDFL of Gemini Protocol
 => gemini://breadpunk.club/~bagel/ Nico's Site
