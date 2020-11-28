@@ -10,4 +10,4 @@ Links to cool Geminispaces and gemlogs.
 => gemini://gmi.skyjake.fi/gemlog/ Skyjake is the creator of Lagrange
 => gemini://konpeito.media/ KONPEITO is a quarterly Lo-fi hip hop & chill bootleg mixtape
 => gemini://tilde.team/~emilis/ Emilis's Capsule
-=> gemini.circumlunar.space/users/shufei/phlog/Shufei-ThisAndThat-Weiphlog.gmi Shufei's Weiphlog
+=> gemini://gemini.circumlunar.space/users/shufei/phlog/Shufei-ThisAndThat-Weiphlog.gmi Shufei's Weiphlog
