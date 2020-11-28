@@ -12,6 +12,7 @@ Estd. November 2020 in Düsseldorf, Germany
 => links.gmi Links
 => twtxt.txt Twtxt
 => books.gmi Books
+=> quotes.gmi Quotes
 
 ## Intro
 
