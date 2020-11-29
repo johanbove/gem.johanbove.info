@@ -4,8 +4,8 @@ I'm streaming music through Deezer when I'm not listening to my own music collec
 
 When I do, then you can see on my Last.fm account what I have been listening to.
 
-=> https://deezer.com
 => https://www.last.fm/user/Joe-1 Joe-1 on Last.fm
+=> https://deezer.com
 
 I'm often listening to the exceptional _Radio Paradise_ web stream.
 
