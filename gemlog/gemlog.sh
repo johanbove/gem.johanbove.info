@@ -146,10 +146,10 @@ EOF
 
 => / go home
 
-=> $feed_base_url$gemlog_feed this gemlog has an atom feed at: $feed_base_url$gemlog_feed
-=> $feed_web_url$gemlog_feed or through the web at: $feed_web_url$gemlog_feed
+=> $feed_base_url$gemlog_feed Gemini atom feed
+=> $feed_web_url$gemlog_feed Web atom feed
 
-=> $gemlog_sh_link generated with gemlog.sh
+=> $gemlog_sh_link Generated with gemlog.sh
 EOF
 	} 3>&1 >"$indexfile"
 

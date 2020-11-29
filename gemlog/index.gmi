@@ -19,7 +19,7 @@ Short notes and blog posts by Johan Bové.
 
 => / go home
 
-=> gemini://gem.johanbove.info/gemlog/atom.xml this gemlog has an atom feed at: gemini://gem.johanbove.info/gemlog/atom.xml
-=> https://portal.mozz.us/gemini/gem.johanbove.info/gemlog/atom.xml or through the web at: https://portal.mozz.us/gemini/gem.johanbove.info/gemlog/atom.xml
+=> gemini://gem.johanbove.info/gemlog/atom.xml Gemini atom feed
+=> https://portal.mozz.us/gemini/gem.johanbove.info/gemlog/atom.xml Web atom feed
 
-=> https://tildegit.org/nytpu/gemlog.sh generated with gemlog.sh
+=> https://tildegit.org/nytpu/gemlog.sh Generated with gemlog.sh
