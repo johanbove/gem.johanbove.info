@@ -11,6 +11,7 @@ Links to cool Geminispaces and gemlogs.
 => gemini://konpeito.media/ KONPEITO is a quarterly Lo-fi hip hop & chill bootleg mixtape
 => gemini://tilde.team/~emilis/ Emilis's Capsule
 => gemini://gemini.circumlunar.space/users/shufei/phlog/Shufei-ThisAndThat-Weiphlog.gmi Shufei's Weiphlog
+=> gemini://drewdevault.com/ Drew Devault's site
 
 ──────────────────
 
