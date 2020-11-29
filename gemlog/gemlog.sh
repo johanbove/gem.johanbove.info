@@ -146,8 +146,8 @@ EOF
 
 => / go home
 
-=> $feed_base_url$gemlog_feed Gemini atom feed
-=> $feed_web_url$gemlog_feed Web atom feed
+=> $feed_base_url$gemlog_feed Atom feed through Gemini
+=> $feed_web_url$gemlog_feed Atom feed through HTTPS
 
 => $gemlog_sh_link Generated with gemlog.sh
 EOF
