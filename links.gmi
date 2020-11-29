@@ -23,4 +23,4 @@ Other capsules and sites in no particular order.
 
 => https://tildegit.org/solderpunk/molly-brown Molly-Brown Gemini server in Go
 => https://git.sr.ht/~sircmpwn/gmnisrv gmnisrv Basic server
-=> gemini://twins.rocketnine.space/ Twins Gemini Server (running this site)
+=> gemini://twins.rocketnine.space/ Twins Gemini Server

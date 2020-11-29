@@ -4,7 +4,7 @@ Johan's Gemini Capsule
 
 Estd. November 2020 in Düsseldorf, Germany
 
-  Last modified: 2020-11-27
+  Last modified: 2020-11-28
 
 => about.gmi  About
 => gemlog/ Gemlog
@@ -30,11 +30,15 @@ Here are his online presences about him.
 => https://social.johanbove.info Social Site
 => gopher://gopher.johanbove.info:70 Gopherhole (since 2019)
 => gemini://gem.johanbove.info This Gemini capsule
+=> https://github.com/johanbove
+=> ssb://4xhlgf4udogis5oqidujn97ckvbexloikiigminjhq0=.ed25519/ @johan on Secure Scuttlebutt 
+
 
 ## Contact
 
 The preferred way of reaching out to him is by classic e-mail. 
 
+IRC Freenode: jbove
 E-mail: hello@johanbove.info
 PGP: 4AAE 11D0 B6A8 D5E8 (@johanbove on Keybase)
 

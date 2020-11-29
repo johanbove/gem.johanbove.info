@@ -2,7 +2,7 @@
 
 Links to cool Geminispaces and gemlogs.
 
-=> gemini://gemini.ctrl-c.club/ A collective of personal gemrolls.
+=> gemini://gemini.ctrl-c.club/ The ctrl-c Club is A collective of personal gemrolls.
 => gemini://port1965.eu Kas's Gemini Capsule
 => gemini://gemini.circumlunar.space:1965/~solderpunk/ Solderpunk, BDFL of Gemini Protocol
 => gemini://breadpunk.club/~bagel/ Nico's Site
@@ -10,4 +10,4 @@ Links to cool Geminispaces and gemlogs.
 => gemini://gmi.skyjake.fi/gemlog/ Skyjake is the creator of Lagrange
 => gemini://konpeito.media/ KONPEITO is a quarterly Lo-fi hip hop & chill bootleg mixtape
 => gemini://tilde.team/~emilis/ Emilis's Capsule
-=> gemini.circumlunar.space/users/shufei/phlog/Shufei-ThisAndThat-Weiphlog.gmi Shufei's Weiphlog
+=> gemini://gemini.circumlunar.space/users/shufei/phlog/Shufei-ThisAndThat-Weiphlog.gmi Shufei's Weiphlog
