@@ -5,8 +5,9 @@ Short notes and blog posts by Johan Bové.
 
 ## 2020
 
+=> gemini://gem.johanbove.info/gemlog/2020-11-29-rakhim-blogging.gmi 2020-11-29 — "Blogging" by Rakhim
 => gemini://gem.johanbove.info/gemlog/2020-11-23-solarpunk.gmi 2020-11-23 — "Towards a Solarpunk future"
-=> gemini://gem.johanbove.info/gemlog/2020-11-23-kickscondor.gmi 2020-11-23 — Wondering if Kickscondor has plans to do something with Gemini?
+=> gemini://gem.johanbove.info/gemlog/2020-11-23-kickscondor.gmi 2020-11-23 — What if Kickscondor was on Gemini?
 => gemini://gem.johanbove.info/gemlog/2020-11-22-why-use-python-vs-go.gmi 2020-11-22 — Why use Python when you can Go?
 => gemini://gem.johanbove.info/gemlog/2020-11-22-twins-gemini-server.gmi 2020-11-22 — Installed Twins Gemini server
 => gemini://gem.johanbove.info/gemlog/2020-11-22-installing-gemfeed.gmi 2020-11-22 — Installing "Gemfeed"

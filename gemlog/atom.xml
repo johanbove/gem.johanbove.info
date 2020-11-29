@@ -4,7 +4,7 @@
   <subtitle>Short notes and blog posts by Johan Bové.</subtitle>
   <link rel='self' href='gemini://gem.johanbove.info/gemlog/atom.xml'/>
   <link rel='alternate' href='gemini://gem.johanbove.info/gemlog/index.gmi'/>
-  <updated>2020-11-29T15:53:31+01:00</updated>
+  <updated>2020-11-29T18:42:57+01:00</updated>
   <author>
     <name>Johan</name>
     <email>hello@johanbove.info</email>
@@ -15,6 +15,14 @@
   <rights>© Johan - CC BY 4.0</rights>
 
   <entry>
+    <title>"Blogging" by Rakhim</title>
+    <id>gemini://gem.johanbove.info/gemlog/2020-11-29-rakhim-blogging.gmi</id>
+    <link rel='alternate' href='gemini://gem.johanbove.info/gemlog/2020-11-29-rakhim-blogging.gmi'/>
+    <updated>2020-11-29T12:00:00+01:00</updated>
+    <summary>You need a gemini client to view this post. If you have one installed, here is the link to the post: gemini://gem.johanbove.info/gemlog/2020-11-29-rakhim-blogging.gmi</summary>
+  </entry>
+
+  <entry>
     <title>"Towards a Solarpunk future"</title>
     <id>gemini://gem.johanbove.info/gemlog/2020-11-23-solarpunk.gmi</id>
     <link rel='alternate' href='gemini://gem.johanbove.info/gemlog/2020-11-23-solarpunk.gmi'/>
@@ -23,7 +31,7 @@
   </entry>
 
   <entry>
-    <title>Wondering if Kickscondor has plans to do something with Gemini?</title>
+    <title>What if Kickscondor was on Gemini?</title>
     <id>gemini://gem.johanbove.info/gemlog/2020-11-23-kickscondor.gmi</id>
     <link rel='alternate' href='gemini://gem.johanbove.info/gemlog/2020-11-23-kickscondor.gmi'/>
     <updated>2020-11-23T12:00:00+01:00</updated>

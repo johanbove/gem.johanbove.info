@@ -1,63 +1,13 @@
-# Captivating Online Matters
+# Johan's Gemlog
 
-## Johan's Gemini Capsule
+Short notes and blog posts by Johan Bové.
 
-Estd. November 2020 in Düsseldorf, Germany
-
-  Last modified: 2020-11-29
-
-=> about.gmi About
-=> gemlog/ Gemlog
-=> journal.gmi Journal
-=> plans.gmi Plans
-=> links.gmi Links
-=> twtxt.txt Twtxt
-=> books.gmi Books
-=> quotes.gmi Quotes
-=> playlist.gmi Playlist
-
-## Intro
-
-This is Johan's first Gemini capsule. Please join him while he explores the newly discovered _Geminispace_.
-
-Everything you see here is hand-crafted text. This site contains mostly logs and journal on Johan's experience with getting started with Gemini.
-
-## Contact
-
-The preferred way of reaching out to him is by classic e-mail. 
-
-IRC Freenode: jbove
-E-mail: hello@johanbove.info
-PGP: 4AAE 11D0 B6A8 D5E8
-
-Keybase: @johanbove
-Twitter: @johanbove
-
-=> files/E44E71105E920276ED1693294AAE11D0B6A8D5E8.asc PGP Public Key
-
-## Elsewhere
-
-Johan is easily found on the Internet. 
-
-Here are his online presences about him.
-
-=> https://johanbove.info HTTPS Home Page
-=> https://social.johanbove.info Social Site
-=> gopher://gopher.johanbove.info:70 Gopherhole (since 2019)
-=> gemini://gem.johanbove.info This Gemini capsule
-=> https://github.com/johanbove
-=> ssb://4xhlgf4udogis5oqidujn97ckvbexloikiigminjhq0=.ed25519/ @johan on Secure Scuttlebutt 
-
-
-More to come later for sure...
-Thanks for visiting! 😎
-
-- Johan
 
 ──────────────────
 
-The general copyright license for all content here is, unless exceptions apply:
+=> / go home
 
-Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+=> gemini://gem.johanbove.info/gemlog/atom.xml this gemlog has an atom feed at: gemini://gem.johanbove.info/gemlog/atom.xml
+=> https://portal.mozz.us/gemini/gem.johanbove.info/gemlog/atom.xml or through the web at: https://portal.mozz.us/gemini/gem.johanbove.info/gemlog/atom.xml
 
-=> https://creativecommons.org/licenses/by-sa/4.0/
+=> https://tildegit.org/nytpu/gemlog.sh generated with gemlog.sh
