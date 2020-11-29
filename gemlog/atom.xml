@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Johan's Gemlog</title>
+  <subtitle>Short notes and blog posts by Johan Bové.</subtitle>
+  <link rel='self' href='gemini://gem.johanbove.info/gemlog/atom.xml'/>
+  <link rel='alternate' href='gemini://gem.johanbove.info/gemlog/index.gmi'/>
+  <updated>2020-11-29T15:53:31+01:00</updated>
+  <author>
+    <name>Johan</name>
+    <email>hello@johanbove.info</email>
+    <uri>gemini://gem.johanbove.info/</uri>
+  </author>
+  <id>gemini://gem.johanbove.info/gemlog/</id>
+  <generator uri='https://tildegit.org/nytpu/gemlog.sh'>gemlog.sh</generator>
+  <rights>© Johan - CC BY 4.0</rights>
+
+  <entry>
+    <title>"Towards a Solarpunk future"</title>
+    <id>gemini://gem.johanbove.info/gemlog/2020-11-23-solarpunk.gmi</id>
+    <link rel='alternate' href='gemini://gem.johanbove.info/gemlog/2020-11-23-solarpunk.gmi'/>
+    <updated>2020-11-23T12:00:00+01:00</updated>
+    <summary>You need a gemini client to view this post. If you have one installed, here is the link to the post: gemini://gem.johanbove.info/gemlog/2020-11-23-solarpunk.gmi</summary>
+  </entry>
+
+  <entry>
+    <title>Wondering if Kickscondor has plans to do something with Gemini?</title>
+    <id>gemini://gem.johanbove.info/gemlog/2020-11-23-kickscondor.gmi</id>
+    <link rel='alternate' href='gemini://gem.johanbove.info/gemlog/2020-11-23-kickscondor.gmi'/>
+    <updated>2020-11-23T12:00:00+01:00</updated>
+    <summary>You need a gemini client to view this post. If you have one installed, here is the link to the post: gemini://gem.johanbove.info/gemlog/2020-11-23-kickscondor.gmi</summary>
+  </entry>
+
+  <entry>
+    <title>Why use Python when you can Go?</title>
+    <id>gemini://gem.johanbove.info/gemlog/2020-11-22-why-use-python-vs-go.gmi</id>
+    <link rel='alternate' href='gemini://gem.johanbove.info/gemlog/2020-11-22-why-use-python-vs-go.gmi'/>
+    <updated>2020-11-22T12:00:00+01:00</updated>
+    <summary>You need a gemini client to view this post. If you have one installed, here is the link to the post: gemini://gem.johanbove.info/gemlog/2020-11-22-why-use-python-vs-go.gmi</summary>
+  </entry>
+
+  <entry>
+    <title>Installed Twins Gemini server</title>
+    <id>gemini://gem.johanbove.info/gemlog/2020-11-22-twins-gemini-server.gmi</id>
+    <link rel='alternate' href='gemini://gem.johanbove.info/gemlog/2020-11-22-twins-gemini-server.gmi'/>
+    <updated>2020-11-22T12:00:00+01:00</updated>
+    <summary>You need a gemini client to view this post. If you have one installed, here is the link to the post: gemini://gem.johanbove.info/gemlog/2020-11-22-twins-gemini-server.gmi</summary>
+  </entry>
+
+  <entry>
+    <title>Installing "Gemfeed"</title>
+    <id>gemini://gem.johanbove.info/gemlog/2020-11-22-installing-gemfeed.gmi</id>
+    <link rel='alternate' href='gemini://gem.johanbove.info/gemlog/2020-11-22-installing-gemfeed.gmi'/>
+    <updated>2020-11-22T12:00:00+01:00</updated>
+    <summary>You need a gemini client to view this post. If you have one installed, here is the link to the post: gemini://gem.johanbove.info/gemlog/2020-11-22-installing-gemfeed.gmi</summary>
+  </entry>
+
+  <entry>
+    <title>Reading about Gemini subscription</title>
+    <id>gemini://gem.johanbove.info/gemlog/2020-11-22-gemini-subscription.gmi</id>
+    <link rel='alternate' href='gemini://gem.johanbove.info/gemlog/2020-11-22-gemini-subscription.gmi'/>
+    <updated>2020-11-22T12:00:00+01:00</updated>
+    <summary>You need a gemini client to view this post. If you have one installed, here is the link to the post: gemini://gem.johanbove.info/gemlog/2020-11-22-gemini-subscription.gmi</summary>
+  </entry>
+
+  <entry>
+    <title>Gemini bash commands</title>
+    <id>gemini://gem.johanbove.info/gemlog/2020-11-22-gemini-bash-scripts.gmi</id>
+    <link rel='alternate' href='gemini://gem.johanbove.info/gemlog/2020-11-22-gemini-bash-scripts.gmi'/>
+    <updated>2020-11-22T12:00:00+01:00</updated>
+    <summary>You need a gemini client to view this post. If you have one installed, here is the link to the post: gemini://gem.johanbove.info/gemlog/2020-11-22-gemini-bash-scripts.gmi</summary>
+  </entry>
+</feed>
