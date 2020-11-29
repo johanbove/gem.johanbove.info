@@ -7,9 +7,11 @@ Bullet-journal style notes, tidbits and blurbs.
 * Publishing my gemlog with the gemlog.sh script by nytpu with one addition to publish to my twtxt.txt feed.
 * Changed the file names in the gemlog to be human readable.
 * Decided to set the copyright license for this content to CC BY-SA 4.0
+* Reading Drew Devault's Gemini capsule. He explains it well what Gemini is about in his blogpost.
 
 => https://tildegit.org/nytpu/gemlog.sh "gemlog.sh" by nytpu
 => https://creativecommons.org/licenses/by-sa/4.0/
+=> gemini://drewdevault.com/2020/11/01/What-is-Gemini-anyway.gmi
 
 ## 2020-11-26, Thursday
 
