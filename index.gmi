@@ -1,6 +1,6 @@
 # Captivating Online Matters
 
-Johan's Gemini Capsule
+## Johan's Gemini Capsule
 
 Estd. November 2020 in Düsseldorf, Germany
 
@@ -27,7 +27,10 @@ The preferred way of reaching out to him is by classic e-mail.
 
 IRC Freenode: jbove
 E-mail: hello@johanbove.info
-PGP: 4AAE 11D0 B6A8 D5E8 (@johanbove on Keybase)
+PGP: 4AAE 11D0 B6A8 D5E8
+
+Keybase: @johanbove
+Twitter: @johanbove
 
 => files/E44E71105E920276ED1693294AAE11D0B6A8D5E8.asc PGP Public Key
 
