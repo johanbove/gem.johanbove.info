@@ -1,0 +1,15 @@
+# Plans
+
+Sharing the ideas I have for this site.
+
+* ✔ Set up my own - basic - Gemini server.
+* ✔ Move the Gemini server to a more robust, complete system.
+* ✔ Find out how to make Gemini pages dynamic.
+* ✔ Add a Gemroll.
+* Link the content from my Gopherhole here. Or copy it over?
+* Find out how TLS Client certificates can be used to authenticate. -> See Molly Brown.
+* Update this site's TLS certificate to use TLS 1.3 instead of TLS 1.2
+
+──────────────────
+
+=> / go home

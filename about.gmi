@@ -27,3 +27,7 @@ When creating web applications, I take special consideration for security, acces
 I keep a Known site through which from time-to-time I try to share something interesting on the World Wide Web.
 
 IndieWeb, Known CMS, Vue.js, de-centralization, Secure Scuttlebutt, Gemini, Beaker Browser, …
+
+──────────────────
+
+=> / go home

@@ -2,6 +2,15 @@
 
 Bullet-journal style notes, tidbits and blurbs.
 
+## 2020-11-29, Sunday
+
+* Publishing my gemlog with the gemlog.sh script by nytpu with one addition to publish to my twtxt.txt feed.
+* Changed the file names in the gemlog to be human readable.
+* Decided to set the copyright license for this content to CC BY-SA 4.0
+
+=> https://tildegit.org/nytpu/gemlog.sh "gemlog.sh" by nytpu
+=> https://creativecommons.org/licenses/by-sa/4.0/
+
 ## 2020-11-26, Thursday
 
 * Darn, I fell into a Finger protocol rabbit/gopher hole after visting baud.baby's gopherhole. And now I'm learning all about the _inetd_ Super-Server.
@@ -72,3 +81,7 @@ Bullet-journal style notes, tidbits and blurbs.
 
 => gemini://gemini.circumlunar.space/ Project Gemini
 => links.gmi Links
+
+──────────────────
+
+=> / go home
