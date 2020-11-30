@@ -15,7 +15,7 @@ Bullet-journal style notes, tidbits and blurbs.
 => https://github.com/kr1sp1n/awesome-gemini Awesome Gemini
 => https://hackernoon.com/last-night-a-distributed-cooperative-organization-saved-my-life-a-brief-introduction-to-discos-4u5cv2zmn "A brief introduction to discos"
 => gemini://gem.johanbove.info/gemlog/2020-11-29-lagrange-v0.11.gmi Lagrange v0.11 released
-=> gemini://perso.pw/blog Solène's Blog
+=> gemini://perso.pw/blog/index.md Solène's Blog
 
 ## 2020-11-29, Sunday
 
