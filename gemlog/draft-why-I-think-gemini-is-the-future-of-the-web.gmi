@@ -1,0 +1,50 @@
+# My reasons to support Gemini
+
+Why do I believe Gemini is great for personal Internet presences?
+
+First of all, it's a real grass-roots initiative which I am very excited about.
+
+If you're reading this, changes are high you are already using Gemini.
+
+But for history reasons and to share my opinions of Gemini I would like to offer you here some views of mine.
+
+Collecting some of the strong-points of Gemini.
+
+## Fast and lightweight
+
+- It works on slower hardware without any problems. Hosting on a Raspberry Pi3 is easy-peasy.
+- It's very easy on the system resources.
+- Optimized for low bandwidth.
+- Should even work fine on a feature-phone.
+
+## Simple yet complete
+
+- The specifications provide enough functionality to do basically what you would expect to be able to do online.
+- Even-though the syntax is limited, it still gives enough playroom for creative expression.
+- Use of TLS certificates promises security.
+- It supports UTF-8 character set so any language can be used to publish sites in.
+
+## Easy to publish
+
+- Content will be probably first of all stored in static text files which are future-proof and easy to maintain.
+- Many servers already available that require minimal technical skills.
+- Yes, you still need a server, but there are many collectives which you can join to facilitate this.
+
+## Focus
+
+- No popups, animations, videos, sound effects.
+- Focus on actual content instead of fluff and effects.
+- No advertisemens and commercial tracking.
+- No Facebook, Google or Twitter.
+
+## Accessible
+
+- It's pure text, has simple navigation rules, so should be great for people with disabilities.
+
+
+And on top of this, the young Gemini community is driven to make this a success!
+
+
+————————————————————
+
+=> / go home
