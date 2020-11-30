@@ -2,8 +2,10 @@
 
 Very cool to see ongoing development in Lagrange!
 
-I welcome the integration of the Atom feed reader.
+So this new "feed" development is even better than I initially thought!
+Turns out you can actually follow _any_ file for changes, even on Gopher.
 
-Going to give this new version a go later.
+Go get it:
 
+=> gemini://skyjake.fi/lagrange/ Lagrange's Gemini Capsule
 => https://git.skyjake.fi/skyjake/lagrange/releases Lagrange Releases
