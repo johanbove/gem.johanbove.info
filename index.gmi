@@ -20,7 +20,7 @@ Estd. November 2020 in Düsseldorf, Germany
 
 This is Johan's first Gemini capsule. Please join him while he explores the newly discovered _Geminispace_.
 
-Everything you see here is hand-crafted text. This site contains mostly logs and journal on Johan's experience with getting started with Gemini.
+This site contains mostly logs and journal on Johan's experience with getting started with Gemini.
 
 ## Contact
 
@@ -41,7 +41,7 @@ Twitter: @johanbove
 
 Johan is easily found on the Internet. 
 
-Here are his online presences about him.
+Here are his other Internet presences:
 
 => https://johanbove.info HTTPS Home Page
 => https://social.johanbove.info Social Site
