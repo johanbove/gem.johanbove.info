@@ -15,7 +15,7 @@ Bullet-journal style notes, tidbits and blurbs.
 
 ## 2020-11-26, Thursday
 
-* Darn, I fell into a Finger protocol rabbit/gopher hole after visting baud.baby's gopherhole. And now I'm learning all about the _inetd_ Super-Server.
+* Darn, I fell into a Finger protocol rabbit/gopher hole after visiting baud.baby's gopherhole. And now I'm learning all about the _inetd_ Super-Server.
 * Oh hi 👋 Windows Terminal, long time no upgrade and update. Why do you want these files in chmod 755 when WSL wants them in 644? Argh! Problems when trying to mix up two different systems together.
 * Fixed it by setting `git config --global core.fileMode false`.
 * Id like to think of Gemini as the spaced out, more relax little nephew (or niece) from Gopher.
