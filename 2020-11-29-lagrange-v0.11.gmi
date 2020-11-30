@@ -1,0 +1,9 @@
+# Lagrange v0.11 released by Skyjake
+
+Very cool to see ongoing development in Lagrange!
+
+I welcome the integration of the Atom feed reader.
+
+Going to give this new version a go later.
+
+=> https://git.skyjake.fi/skyjake/lagrange/releases Lagrange Releases
