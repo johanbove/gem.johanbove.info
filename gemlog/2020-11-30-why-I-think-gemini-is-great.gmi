@@ -2,7 +2,7 @@
 
 Why do I believe Gemini is great for personal Internet presences? First of all, it's a real grass-roots initiative which I am very excited about.
 
-If you're reading this, changes are high you are already using Gemini. But for history reasons and to share my opinions of Gemini I would like to offer you here some views of mine.
+If you're reading this, chances are high you are already using Gemini. But for history reasons and to share my opinions of Gemini I would like to offer you here some views of mine.
 
 Collecting some of the strong-points of Gemini from my perspective of having some experience with Gopher and running personal websites.
 
