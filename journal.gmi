@@ -2,6 +2,17 @@
 
 Bullet-journal style notes, tidbits and blurbs.
 
+## 2020-11-30, Monday
+
+* Discovered the excellent band called "Masaladosa".
+* Wrote about why I think Gemini is excellent in my gemlog.
+* Discovered the "awesome-gemini" collection on Github.
+* I need to try to understand what DISCOS are.
+
+=> https://www.last.fm/music/Masaladosa Masaladosa on Last.fm
+=> https://github.com/kr1sp1n/awesome-gemini Awesome Gemini
+=> https://hackernoon.com/last-night-a-distributed-cooperative-organization-saved-my-life-a-brief-introduction-to-discos-4u5cv2zmn "A brief introduction to discos"
+
 ## 2020-11-29, Sunday
 
 * Publishing my gemlog with the gemlog.sh script by nytpu with one addition to publish to my twtxt.txt feed.
