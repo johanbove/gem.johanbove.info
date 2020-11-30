@@ -4,7 +4,7 @@ Bullet-journal style notes, tidbits and blurbs.
 
 ## 2020-11-30, Monday
 
-* Discovered the excellent band called "Masaladosa".
+* Discovered the eclectical hindi music by "Masaladosa".
 * Wrote about why I think Gemini is excellent in my gemlog.
 * Discovered the "awesome-gemini" collection on Github.
 * I need to try to understand what DISCOS are.
