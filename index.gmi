@@ -26,9 +26,11 @@ Everything you see here is hand-crafted text. This site contains mostly logs and
 
 The preferred way of reaching out to him is by classic e-mail. 
 
-IRC Freenode: jbove
 E-mail: hello@johanbove.info
 PGP: 4AAE 11D0 B6A8 D5E8
+
+IRC Freenode: jbove
+IRC Tilde.chat: johan
 
 Keybase: @johanbove
 Twitter: @johanbove
