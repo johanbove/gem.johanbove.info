@@ -13,7 +13,7 @@ Bullet-journal style notes, tidbits and blurbs.
 => https://www.last.fm/music/Masaladosa Masaladosa on Last.fm
 => https://github.com/kr1sp1n/awesome-gemini Awesome Gemini
 => https://hackernoon.com/last-night-a-distributed-cooperative-organization-saved-my-life-a-brief-introduction-to-discos-4u5cv2zmn "A brief introduction to discos"
-=> gemini://gem.johanbove.info/gemlog/2020-11-29-lagrange-v0.11.gmi
+=> gemini://gem.johanbove.info/gemlog/2020-11-29-lagrange-v0.11.gmi Lagrange v0.11 released
 
 ## 2020-11-29, Sunday
 
