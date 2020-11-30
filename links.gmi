@@ -25,6 +25,9 @@ Other capsules and sites in no particular order.
 => https://git.sr.ht/~sircmpwn/gmnisrv gmnisrv Basic server
 => gemini://twins.rocketnine.space/ Twins Gemini Server
 
+## Collection of cool Gemini stuff
+
+=> https://github.com/kr1sp1n/awesome-gemini Awesome Gemini
 
 ──────────────────
 
