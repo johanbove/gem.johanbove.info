@@ -6,6 +6,9 @@ Bullet-journal style notes, tidbits and blurbs.
 
 * Last month of this crazy year just started of.
 * Enjoying the "feed" functionality of the Lagrange. It's great how it also allows me to keep up with Gopherholes.
+* Discovered James Tomasino made a pretty informative and complete video on Gemini
+
+=> https://www.youtube.com/watch?v=DoEI6VzybDk James Tomasino explains what Gemini is on Youtube
 
 ## 2020-11-30, Monday
 
