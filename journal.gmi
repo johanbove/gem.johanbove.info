@@ -10,10 +10,12 @@ Bullet-journal style notes, tidbits and blurbs.
 * Going to check out *Astrobotany* to test out TOFU (self signed certificates) in Gemini.
 * It's ironic that I work on the Web for a living, writing HTML, CSS and JavaScript, while enjoying Gemini so much. I guess Gemini is providing me an escape from that.
 * Astrobotany is fantastic! I love it. Started my own seedling and visited some other people's plants and watered some wilting ones. Checked out the source code and it has some fancy programming.
+* The *Perkeep* Project is alive! The latest release was 2020-11-11, version 0.11 "Seattle".
 
 => https://www.youtube.com/watch?v=DoEI6VzybDk James Tomasino explains what Gemini is on Youtube
 => gemini://astrobotany.mozz.us/ Astrobotany Space Flowers
 => https://github.com/michael-lazar/astrobotany "Astrobotany" source code
+=> https://perkeep.org/ "Perkeep lets you permanently keep your stuff, for life"
 
 ## 2020-11-30, Monday
 
