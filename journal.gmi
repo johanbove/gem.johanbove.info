@@ -13,10 +13,14 @@ Bullet-journal style notes, tidbits and blurbs.
 * Wrote about why I think Gemini is excellent in my gemlog.
 * Discovered the "awesome-gemini" collection on Github.
 * I need to try to understand what DISCOS are.
+* Installed the latest Lagrange v0.11 release and enjoying the "feed subscriptions".
+* Solène did some pretty cool things with Gemini and FreeBSD.
 
 => https://www.last.fm/music/Masaladosa Masaladosa on Last.fm
 => https://github.com/kr1sp1n/awesome-gemini Awesome Gemini
 => https://hackernoon.com/last-night-a-distributed-cooperative-organization-saved-my-life-a-brief-introduction-to-discos-4u5cv2zmn "A brief introduction to discos"
+=> gemini://gem.johanbove.info/gemlog/2020-11-29-lagrange-v0.11.gmi Lagrange v0.11 released
+=> gemini://perso.pw/blog/index.md Solène's Blog
 
 ## 2020-11-29, Sunday
 
@@ -26,8 +30,8 @@ Bullet-journal style notes, tidbits and blurbs.
 * Reading Drew Devault's Gemini capsule. He explains it well what Gemini is about in his blogpost.
 
 => https://tildegit.org/nytpu/gemlog.sh "gemlog.sh" by nytpu
-=> https://creativecommons.org/licenses/by-sa/4.0/
-=> gemini://drewdevault.com/2020/11/01/What-is-Gemini-anyway.gmi
+=> https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0
+=> gemini://drewdevault.com/2020/11/01/What-is-Gemini-anyway.gmi Drew Devault writes "What is Gemini anyway?"
 
 ## 2020-11-26, Thursday
 
