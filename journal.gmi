@@ -4,7 +4,7 @@ Bullet-journal style notes, tidbits and blurbs.
 
 ## 2020-12-02, Wednesday
 
-* My family is in a state of shock of what happened in Trier yesterday. It's hard to comprehend what motivates another human to step into a car and to try to kill as many people as possible. This "inhuman" killed 5 people, of which a nine month old baby, the father and the mother and injured many more for life. My heart is broken. I need to believe still that most people are good and want to bring joy and love to everyone.
+* My family is in a state of shock of what happened in Trier yesterday. It's hard to comprehend what goes through the sick mind of a human to step into a car and to try to kill as many people as possible. This "inhuman" killed 5 people, of which a nine month old baby, the father and the mother and injured many more for life. My heart is broken. I need to believe still that most people are good and want to bring joy and love to everyone.
 * Changed the background color of my social.johanbove.info site to a something more neutral. Got tired of the ugly green. And I also removed the web font which was actually totally unnecessary. Hurray for one dependency on Google less.
 * Reading and watching the "SolarPunk" content gathered in the excellent "The Dork Web" article.
 * Pocket released their "Best of 2020" articles list.
