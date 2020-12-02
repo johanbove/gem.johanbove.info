@@ -4,7 +4,7 @@
 
 Estd. November 2020 in Düsseldorf, Germany
 
-  Last modified: 2020-12-01
+  Last modified: 2020-12-02
 
 => about.gmi About
 => gemlog/ Gemlog
