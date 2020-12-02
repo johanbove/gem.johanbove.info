@@ -4,6 +4,7 @@ Bullet-journal style notes, tidbits and blurbs.
 
 ## 2020-12-02, Wednesday
 
+* Joined the CirclesUBI "Berlin" Circles Bazaar assembly today. Introduced myself and learned more about the plans with the market place.
 * Updated Scuttlebutt *OASIS* client/server again on my home PC. Waiting for the indexing to finish.
 * Copied over the content of my last gemlog entry by hand into an HTML page and I disliked every minute of it. Spent too much time fiddling on HTML tags and then getting the formatting right. Gemini/txt is bliss.
 * Rebooted my Cabal.chat setup. I keep my own channel around. Just in case someone tries to reach out to me over the peer-to-peer p2p web.
@@ -12,6 +13,7 @@ Bullet-journal style notes, tidbits and blurbs.
 * Reading and watching the "SolarPunk" content gathered in the excellent "The Dork Web" article.
 * Pocket released their "Best of 2020" articles list.
 
+=> https://berlin.circles.market The Berlin Circles Market place
 => https://github.com/fraction/oasis "Fraction Oasis is a free, open-source p2p social application on Secure Scuttlebutt (SSB)"
 => https://en.wikipedia.org/wiki/Secure_Scuttlebutt Wiki for Secure Scuttlebutt
 => https://cabal.chat "Cabal.chat" is an experimental p2p community chat platform.
