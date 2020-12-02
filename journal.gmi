@@ -4,11 +4,13 @@ Bullet-journal style notes, tidbits and blurbs.
 
 ## 2020-12-02, Wednesday
 
+* Rebooted my Cabal.chat setup
 * My family is in a state of shock of what happened in Trier yesterday. It's hard to comprehend what goes through the sick mind of a human to step into a car and to try to kill as many people as possible. This "inhuman" killed 5 people, of which a nine month old baby, the father and the mother and injured many more for life. My heart is broken. I need to believe still that most people are good and want to bring joy and love to everyone.
 * Changed the background color of my social.johanbove.info site to a something more neutral. Got tired of the ugly green. And I also removed the web font which was actually totally unnecessary. Hurray for one dependency on Google less.
 * Reading and watching the "SolarPunk" content gathered in the excellent "The Dork Web" article.
 * Pocket released their "Best of 2020" articles list.
 
+=> https://cabal.chat "Cabal.chat" is an experimental p2p community chat platform
 => https://www.nytimes.com/2020/12/01/world/europe/germany-car-pedestrians.html Drama in Trier
 => https://social.johanbove.info
 => https://thedorkweb.substack.com/p/the-dork-web-roundup "The Dork Web Roundup"
