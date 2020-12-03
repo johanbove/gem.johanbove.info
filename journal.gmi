@@ -10,8 +10,8 @@ Bullet-journal style notes, tidbits and blurbs.
 * How the Internet became Meytal Cohen's stage.
 
 => https://beakerbrowser.com
-=> https://www.youtube.com/watch?v=-yYKMFsKNSM
-=> https://www.youtube.com/watch?v=ouJzx76FFAI
+=> https://www.youtube.com/watch?v=-yYKMFsKNSM Paul Frazee livecoding
+=> https://www.youtube.com/watch?v=ouJzx76FFAI Meytal Cohen's story
 
 ## 2020-12-02, Wednesday
 
