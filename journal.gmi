@@ -6,7 +6,7 @@ Bullet-journal style notes, tidbits and blurbs.
 
 * Wanted to thank Solderpunk and the Gemini community, including the p2p (ipfs, hyperdrive, dat) and SSB communities for offering ways out of the corporate control of the Internet.
 * Thinking of adding some robustness to my home server by setting up *Fail2ban* to monitor all traffic.
-* Reading more about *Sardex" 
+* Reading more about the "Sardex" currency. 
 
 => gemini://alexschroeder.ch/wiki/2019-01-20_fail2ban_to_watch_over_my_sites "Use fail2ban to watch over your sites" by Alex Schroeder
 => https://monneta.org/en/sardex/ Read about the "Sardex" currency of Sardinia
