@@ -2,6 +2,15 @@
 
 Bullet-journal style notes, tidbits and blurbs.
 
+## 2020-12-04, Friday
+
+* Wanted to thank Solderpunk and the Gemini community, including the p2p (ipfs, hyperdrive, dat) and SSB communities for offering ways out of the corporate control of the Internet.
+* Thinking of adding some robustness to my home server by setting up *Fail2ban* to monitor all traffic.
+* Reading more about *Sardex" 
+
+=> gemini://alexschroeder.ch/wiki/2019-01-20_fail2ban_to_watch_over_my_sites "Use fail2ban to watch over your sites" by Alex Schroeder
+=> https://monneta.org/en/sardex/ Read about the "Sardex" currency of Sardinia
+
 ## 2020-12-03, Thursday
 
 * BeakerBrowser v1.0 was released!
