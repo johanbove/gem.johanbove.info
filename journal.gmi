@@ -2,6 +2,13 @@
 
 Bullet-journal style notes, tidbits and blurbs.
 
+## 2020-12-05, Saturday
+
+* Knowing how complex peer-to-peer solutions like Hyperdrives and Scuttlebutt's systems are, it's good to know we can also rely on simpler ways to keep in touch online through classic e-mail and retro protocols like Gemini and Gopher.
+* Felt really gloomy and doomy today. Christmas shopping with masks on just still feels like we're stuck in a dystopian story that actually became real-life.
+* Beakerbrowser v1.0 doesn't want to run on my PC anymore. Not sure why not.
+* Re-installed ManyVerse on my Android phone and after a couple of hours of syncing, it's almost usable again. It is cool how one can restore their access through the 24 word password phrase. Something that really get into Beakerbrowser too. If only I had the time and the skills to add that in the app myself.
+
 ## 2020-12-04, Friday
 
 * Wanted to thank Solderpunk and the Gemini community, including the p2p (ipfs, hyperdrive, dat) and SSB communities for offering ways out of the corporate control of the Internet.
