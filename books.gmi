@@ -1,7 +1,7 @@
 # Books And Short Stories
 
 ## "The Machine Stops" by E.M. Forster (1909)
-=> http://www.visbox.com/prajlich/forster.html
+=> files/story-the_machine_stops.gmi
 
 ## "The Debian Administrator's Handbook" by Raphael Hertzog and Roland Mas
 => https://debian-handbook.info/
