@@ -10,6 +10,7 @@ Bullet-journal style notes, tidbits and blurbs.
 * Re-installed ManyVerse on my Android phone and after a couple of hours of syncing, it's almost usable again. It is cool how one can restore their access through the 24 word password phrase. Something that really get into Beakerbrowser too. If only I had the time and the skills to add that in the app myself.
 * Messing with folder permissions on a backup system of over 700GB of private pictures is playing with fire.
 * Really impressed with Jake's work on Lagrange. Yesterday he released v0.12. Testing out the subscription feature.
+* Google Recaptcha just got a whole lot more annoying with its "Click verify once there are none left.". WTF
 
 ## 2020-12-04, Friday
 
