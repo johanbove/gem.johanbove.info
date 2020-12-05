@@ -8,6 +8,7 @@ Bullet-journal style notes, tidbits and blurbs.
 * Felt really gloomy and doomy today. Christmas shopping with masks on just still feels like we're stuck in a dystopian story that actually became real-life.
 * Beakerbrowser v1.0 doesn't want to run on my PC anymore. Not sure why not.
 * Re-installed ManyVerse on my Android phone and after a couple of hours of syncing, it's almost usable again. It is cool how one can restore their access through the 24 word password phrase. Something that really get into Beakerbrowser too. If only I had the time and the skills to add that in the app myself.
+* Messing with folder permissions on a backup system of over 700GB of private pictures is playing with fire.
 
 ## 2020-12-04, Friday
 
