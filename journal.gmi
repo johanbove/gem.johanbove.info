@@ -9,7 +9,8 @@ Bullet-journal style notes, tidbits and blurbs.
 * Put up the Christmas lights outside so we can show all our neighbours that it's the season to at least try to be a little jolly.
 * We had a great day today!
 * But on the other hand. I'm having weird issues with SSB Patchwork since I installed Oasis. Also Manyverse doesn't seem to sync my profile message anymore. Sigh. Peer-to-peer programming is hard. 
-* Also, after unstalling some game today it seems Google Play Store experienced some form of weird corruption and I got the "Error checking for updates" error. Force quiting the Play Store and uninstalling some things I didn't need helped. Also uninstalled ManyVerse again as it I am honestly not enjoying use it. Too many issues and I cannot afford wasting time with it. I use "Oasis" for now to check on SSB updates from time to time now. Will still keep my financial support for ManyVerse flowing hoping the performance will improve soon with the latest changes as announced in the latest ManyVerse newsletter.
+* Also, after unstalling some game today it seems Google Play Store experienced some form of weird corruption and I got the "Error checking for updates" error. Force quiting the Play Store and uninstalling some things I didn't need helped.
+* Also uninstalled ManyVerse again as it I am honestly not enjoying use it. Too many issues with extremely long loading times, even when syncing on the same Wi-fi. I cannot afford _wasting_ my time with it any longer. So I will use "Oasis" for now to check on SSB updates occassionally. I will still keep my financial support for ManyVerse flowing, hoping the performance will improve soon with the latest changes as announced in the latest ManyVerse newsletter.
 
 => https://forst-graf-spee.de
 => https://github.com/fraction/oasis "Fraction/Oasis" on Github
