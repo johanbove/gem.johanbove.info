@@ -2,6 +2,18 @@
 
 Bullet-journal style notes, tidbits and blurbs.
 
+## 2020-12-07, Monday
+
+* Love it when my son says "See you alligator" and he expects me to say "...in a while crocodile".
+* Spent some time on "Secure Scuttlebutt" and the "Oasis" client.
+* After my father in law stopped drinking alcohol I drank a whole lot more #alcoholfree drinks myself. And I've come to enjoy it too. We tried many different brands and kinds, but my favorite alcohol-free #beer are the ones from the German brewery "Wunderbraeu" based in München. It's probably impossible to find outside of Germany unfortunately. The brewery also prides itself about being bio, sustainable and CO2 neutral.
+
+=> https://github.com/fraction/oasis/issues/548 Oasis issue: "Make Oasis the most accessible SSB client"
+=> https://github.com/fraction/oasis/issues/274 Oasis issue: "Try the new user flow"
+=> https://github.com/fraction/oasis/issues/543 Oasis issue: "Width on desktops is too restrictive"
+=> https://wunderbraeu.de/
+
+
 ## 2020-12-06, Sunday
 
 * It is "Sinterklaas" or Saint-Nicolas today. My almost three year old has the pretty sweet situation where he is enjoying the culture of Flandres, Germany, Italy and the US. So today Sinterklaas brought him sweets and new toys since he has been a very good boy. I'm sure his friend, Santa Claus, will think of him the same in a couple of weeks.
