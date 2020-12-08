@@ -2,6 +2,15 @@
 
 Bullet-journal style notes, tidbits and blurbs.
 
+## 2020-12-08, Tuesday
+
+* Really tired. Had a bad night. Going to bed now.
+* Why is the *Matrix* chat network not more popular?
+* Discovered my little Gemini Capsule has been indexed by the GUS.Guru search bot.
+
+=> https://matrix.to/#/@jbove:matrix.org I'm jbove:matrix.org
+=> gemini://gus.guru Gemini Universal Search - gus.suru
+
 ## 2020-12-07, Monday
 
 * Love it when my son says "See you alligator" and he expects me to say "...in a while crocodile".
@@ -9,6 +18,7 @@ Bullet-journal style notes, tidbits and blurbs.
 * After my father in law stopped drinking alcohol I drank a whole lot more #alcoholfree drinks myself. And I've come to enjoy it too. We tried many different brands and kinds, but my favorite alcohol-free #beer are the ones from the German brewery "Wunderbraeu" based in München. It's probably impossible to find outside of Germany unfortunately. The brewery also prides itself about being bio, sustainable and CO2 neutral.
 
 => https://github.com/fraction/oasis/issues/548 Oasis issue: "Make Oasis the most accessible SSB client"
+=> https://www.w3.org/TR/html-aria/ HTML-ARIA specs
 => https://github.com/fraction/oasis/issues/274 Oasis issue: "Try the new user flow"
 => https://github.com/fraction/oasis/issues/543 Oasis issue: "Width on desktops is too restrictive"
 => https://wunderbraeu.de/
