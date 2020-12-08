@@ -8,9 +8,11 @@ Bullet-journal style notes, tidbits and blurbs.
 * Why is the *Matrix* chat network not more popular?
 * Discovered my little Gemini Capsule has been indexed by the GUS.Guru search bot.
 * Installed Lagrange v0.12.1
+* Played a couple of "Among Us" games. Preparing for a company party. Being "The Impostor" is harder than it seems.
 
 => https://matrix.to/#/@jbove:matrix.org I'm jbove:matrix.org
 => gemini://gus.guru Gemini Universal Search - gus.suru
+=> gemini://lord.re/21-Among-Us.gmi French description of the "Among Us" game.
 
 ## 2020-12-07, Monday
 
