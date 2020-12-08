@@ -7,6 +7,7 @@ Bullet-journal style notes, tidbits and blurbs.
 * Really tired. Had a bad night. Going to bed now.
 * Why is the *Matrix* chat network not more popular?
 * Discovered my little Gemini Capsule has been indexed by the GUS.Guru search bot.
+* Installed Lagrange v0.12.1
 
 => https://matrix.to/#/@jbove:matrix.org I'm jbove:matrix.org
 => gemini://gus.guru Gemini Universal Search - gus.suru
