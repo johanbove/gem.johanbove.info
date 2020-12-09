@@ -7,8 +7,10 @@ Bullet-journal style notes, tidbits and blurbs.
 * Had a great night thanks to a nice cup of camomille tea!
 * Enjoying spending time on ScuttleButt Oasis. Talking about Minidisc and stuff.
 * Thinking about trying out "The Web Minidisc Application" by Stefano Brilli.
+* Wondering how long the "Gemini Space Cycle" will last?
 
 => https://stefano.brilli.me/webminidisc
+=> gopher://baud.baby:70/0/phlog/fs20191030.txt "The Gopherspace Cycle" by baud.baby
 
 ## 2020-12-08, Tuesday
 
