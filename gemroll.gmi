@@ -13,7 +13,8 @@ Links to cool Geminispaces and gemlogs.
 => gemini://konpeito.media/ KONPEITO is a quarterly Lo-fi hip hop & chill bootleg mixtape 🎶
 => gemini://perso.pw/ Solène's Gemini Capsule
 => gemini://port1965.eu Kas's Gemini Capsule (currently offline?)
-=> gemini://tilde.team/~emilis/ Emilis's Gemini Capsule
+=> gemini://tilde.team/~emilis/ Emilis's Gemini Capsule on Tilde.team
+=> gemini://tilde.team/~ew0k/ ew0k's Gemini Capsule on Tilde.team
 
 ──────────────────
 

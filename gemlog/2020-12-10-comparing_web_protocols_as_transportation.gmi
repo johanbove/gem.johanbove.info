@@ -1,0 +1,11 @@
+# Comparing Web Protocols with transportation vehicles
+
+A vehicle's primary function is to get one or more people safely from location A to location B.
+
+Now if the HTTP Web was a vehicle, it would look a lot like a Porsche Cayenne SUV, it's big, comfortable, fits five people at least and is fast. But it's very expensive to keep and maintain and not very sustainable because of its very high energy footprint. And it has many features that are not really required for its primary function. It's essentially 90% luxury.
+
+Compared to HTTP, the Gemini protocol is more like an electrically powered "bak fiets" bicycle. It's energy footprint is low, you need to do some work yourself, but you can get to where you need to be as well. It's a 95% efficiency.
+
+And compared to that, the Gopher protocol is a classic bicycle.
+
+=> gemini://tilde.team/~ew0k/posts/the-size-of-gemini.gmi "The Size Of Gemini" by ew0k
