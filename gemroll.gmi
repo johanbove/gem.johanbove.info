@@ -8,7 +8,7 @@ Links to cool Geminispaces and gemlogs.
 => gemini://gemini.circumlunar.space/users/hundredrabbits/ Hunderdrabbits Digital Collective
 => gemini://gemini.circumlunar.space/users/shufei/ Shufei's Gemini Capsule
 => gemini://gemini.circumlunar.space/~solderpunk/ Solderpunk, BDFL of Gemini Protocol
-=> gemini://gemini.ctrl-c.club/ The "ctrl-c Club" is A collective of personal gemrolls.
+=> gemini://gemini.ctrl-c.club/ The "ctrl-c Club" is a collective of personal gemrolls.
 => gemini://gmi.skyjake.fi/gemlog/ Skyjake is the creator of the Lagrange Gemini client
 => gemini://konpeito.media/ KONPEITO is a quarterly Lo-fi hip hop & chill bootleg mixtape 🎶
 => gemini://perso.pw/ Solène's Gemini Capsule
