@@ -6,6 +6,7 @@ Bullet-journal style notes, tidbits and blurbs.
 
 * Comparing HTTP, Gopher and Gemini with transportation vehicles.
 * Installed the pretty cool ScuttleButt client called *Planetary* as a beta release app on my iOS phone today. It's probably the most _commercially_ oriented Scuttlebutt client. It's well made and looks great. It seems faster than ManyVerse, although I cannot really say yet if it is really faster. Reported a couple of obvious "todos" for improvements. Pretty slick.
+* Meanwhile I'm not sure what is going on with *Patchwork* on my PC. It seems to be stuck in a "Scuttling" phase. Update: So I have uninstalled *Patchwork* as it seems that causing havoc in the Scuttlebutt internals in combination with Oasis. If Oasis keeps performing nicely, I won't have the need to Patchwork anymore anyway. 
 
 => gemini://gem.johanbove.info/gemlog/2020-12-10-comparing_web_protocols_as_transportation.gmi "Comparing Web Protocols As Transportation Vehicles" post
 => https://planetary.social/ Planetary.social
