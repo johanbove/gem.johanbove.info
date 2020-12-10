@@ -3,7 +3,7 @@
 Links to cool Geminispaces and gemlogs.
 
 => gemini://alexschroeder.ch Alex Schroeder's interactive Wiki/Blog on Gemini 😎
-=> gemini://breadpunk.club/~bagel/ Nico's Gemini Capsule
+=> gemini://breadpunk.club/~bagel/ Nico's Gemini Capsule is tag based
 => gemini://drewdevault.com/ Drew Devault's site on Gemini
 => gemini://gemini.circumlunar.space/users/hundredrabbits/ Hunderdrabbits Digital Collective
 => gemini://gemini.circumlunar.space/users/shufei/ Shufei's Gemini Capsule
