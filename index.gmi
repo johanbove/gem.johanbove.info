@@ -6,6 +6,10 @@ Estd. November 2020 in Düsseldorf, Germany
 
   Last modified: 2020-12-10
 
+Welcome to Johan's Gemini capsule. Please join him while he explores the newly discovered Geminispace.
+
+This site consists of mostly logs and a journal on Johan's experience with Gemini and Life.
+
 => about.gmi About
 => gemlog/ Gemlog
 => journal.gmi Journal
@@ -15,12 +19,6 @@ Estd. November 2020 in Düsseldorf, Germany
 => books.gmi Books
 => quotes.gmi Quotes
 => playlist.gmi Playlist
-
-## Intro
-
-Welcome to Johan's Gemini capsule. Please join him while he explores the newly discovered Geminispace.
-
-This site consists of mostly logs and a journal on Johan's experience with Gemini and Life.
 
 ## Contact
 
