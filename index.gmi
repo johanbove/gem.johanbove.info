@@ -18,9 +18,9 @@ Estd. November 2020 in Düsseldorf, Germany
 
 ## Intro
 
-This is Johan's first Gemini capsule. Please join him while he explores the newly discovered _Geminispace_.
+Welcome to Johan's Gemini capsule. Please join him while he explores the newly discovered Geminispace.
 
-This site contains mostly logs and journal on Johan's experience with getting started with Gemini.
+This site consists of mostly logs and a journal on Johan's experience with Gemini and Life.
 
 ## Contact
 
@@ -29,18 +29,17 @@ The preferred way of reaching out to him is by classic e-mail.
 E-mail: hello@johanbove.info
 PGP: 4AAE 11D0 B6A8 D5E8
 
+=> files/E44E71105E920276ED1693294AAE11D0B6A8D5E8.asc PGP Public Key
+
 IRC Freenode: jbove
 IRC Tilde.chat: johan
 
 Keybase: @johanbove
 Twitter: @johanbove
 
-=> files/E44E71105E920276ED1693294AAE11D0B6A8D5E8.asc PGP Public Key
-
 ## Elsewhere
 
 Johan is easily found on the Internet. 
-
 Here are his other Internet presences:
 
 => https://johanbove.info HTTPS Home Page
