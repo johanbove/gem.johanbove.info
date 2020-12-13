@@ -1,6 +1,6 @@
 # Johan's Gemini Capsule
 
-This is my own Geminispace "capsule" hosted at <gemini://gem.johanbove.info>.
+This is a copy of my own Geminispace "capsule" hosted at <gemini://gem.johanbove.info>.
 
 ([HTTP proxy](https://portal.mozz.us/gemini/gem.johanbove.info/))
 
