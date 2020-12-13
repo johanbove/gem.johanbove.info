@@ -158,3 +158,5 @@
 2020-11-26T15:49:05+0100	@<prologic https://prologic.github.io/twtxt.txt> Could you make the polling of your server a little slower please? Thanks.
 2020-11-29T15:53:36+01:00	New gemlog post: ["Towards a Solarpunk future"](gemini://gem.johanbove.info/gemlog/2020-11-23-solarpunk.gmi)
 2020-11-29T18:43:00+01:00	New gemlog post: ["Blogging" by Rakhim](gemini://gem.johanbove.info/gemlog/2020-11-29-rakhim-blogging.gmi)
+2020-12-13T14:43:50+01:00	New gemlog post: [Sad End Of Year festivities](gemini://gem.johanbove.info/gemlog/2020-12-13-sad-christmas.gmi)
+2020-12-13T14:54:53+01:00	Wishing everyone a wonderful, happy and healthy end-of-year time after all.
