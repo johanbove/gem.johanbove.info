@@ -5,8 +5,10 @@ Bullet-journal style notes, tidbits and blurbs.
 ## 2020-12-13, Sunday
 
 * Ranting about people not following the rules during pandemics.
+* Sad to see there seems to be something wrong with the gemini://konpeito.media/ site. Hopefully it's only temporarily.
 
 => /gemlog/2020-12-13-sad-christmas.gmi "Sad End Of Year festivities" post
+=> gemini://konpeito.media/
 
 ## 2020-12-11, Friday
 
