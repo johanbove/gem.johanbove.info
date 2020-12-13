@@ -7,7 +7,6 @@ Short notes and blog posts by Johan Bové.
 
 => gemini://gem.johanbove.info/gemlog/2020-12-13-sad-christmas.gmi 2020-12-13 — Sad End Of Year festivities
 => gemini://gem.johanbove.info/gemlog/2020-12-10-comparing_web_protocols_as_transportation.gmi 2020-12-10 — Comparing Web Protocols with transportation vehicles
-
 => gemini://gem.johanbove.info/gemlog/2020-11-30-why-I-think-gemini-is-great.gmi 2020-11-30 — My reasons to support the Gemini Internet Protocol
 => gemini://gem.johanbove.info/gemlog/2020-11-29-rakhim-blogging.gmi 2020-11-29 — "Blogging" by Rakhim
 => gemini://gem.johanbove.info/gemlog/2020-11-29-lagrange-v0.11.gmi 2020-11-29 — Lagrange v0.11 released by Skyjake
