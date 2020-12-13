@@ -2,9 +2,7 @@
 
 This is a copy of my own Geminispace "capsule" hosted at <gemini://gem.johanbove.info>.
 
-([HTTP proxy](https://portal.mozz.us/gemini/gem.johanbove.info/))
-
-The site is currently running on a _Raspberry Pi 3B+_ at my own house.
+([HTTP proxy](https://portal.mozz.us/gemini/gem.johanbove.info/)
 
 ## What is the Gemini Protocol?
 
