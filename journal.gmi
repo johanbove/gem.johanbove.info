@@ -7,7 +7,7 @@ Bullet-journal style notes, tidbits and blurbs.
 * Had a very intense working morning and I only got a break and some lunch around 15:00.
 * Feeling rather pessimistic still; I do feel better after a nice warm cup of Darjeeling tea. Trying to cut down on coffee, because tea makes me feel more relaxed.
 * Received some Circles from @alanz. Thanks Dude! Not sure why I deserved them, but all positivity is welcome these days.
-* Skyjake is on a role with the next Lagrange rollout as version 13.1!
+* Skyjake is on a role with the next Lagrange rollout as version 0.13.1!
 * Enjoyed watching "Alien Worlds" on Netflix, but it's way too short! Needs more episodes stat! Loved how the show introduced me to new "famous" scientists I had never heard of before.
 
 => gemini://skyjake.fi/gemlog/2020-12_idns-in-lagrange.gmi Lagrange v0.13 on skyjake.fi
