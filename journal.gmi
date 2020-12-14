@@ -2,6 +2,17 @@
 
 Bullet-journal style notes, tidbits and blurbs.
 
+## 2020-12-14, Monday
+
+* Had a very intense working morning and I only got a break and some lunch around 15:00.
+* Feeling rather pessimistic still; I do feel better after a nice warm cup of Darjeeling tea. Trying to cut down on coffee, because tea makes me feel more relaxed.
+* Received some Circles from @alanz. Thanks Dude! Not sure why I deserved them, but all positivity is welcome these days.
+* Skyjake is on a role with the next Lagrange rollout as version 13.1!
+* Enjoyed watching *"Alien Worlds"* on Netflix, but it's way too short! Needs more episodes stat! Loved how the show introduced me to new "famous" scientists I had never heard of before.
+
+=> gemini://skyjake.fi/lagrange/ Lagrange on Gemini
+=> https://www.netflix.com/de-en/title/80221410 "Alien Worlds" on Netflix.com
+
 ## 2020-12-13, Sunday
 
 * Ranting about people not following the rules during pandemics.
@@ -12,7 +23,7 @@ Bullet-journal style notes, tidbits and blurbs.
 * Learned today about "Gitcoin.co" through the "Circles UBI" "grant" or "crowd-sourcing" - It's an intriguing scene. I'm still sceptical about the tech and I'm definitely a newbie in the crypto World. But I do understand this technology has and will have an impact on the "real world" more every day. So to not be completely left in the dark I decided to get to know the tools and the people involved.
 
 => /gemlog/2020-12-13-sad-christmas.gmi "Sad End Of Year festivities" post
-=> gemini://konpeito.media/
+=> gemini://konpeito.media/ Konpeito.media
 => https://gitcoin.co/grants/331/circles-ubi Circles UBI grant on Gitcoin.co
 => https://gitcoin.co/about Gitcoin.co looks like a cool place to work ;)
 
