@@ -25,7 +25,7 @@ Bullet-journal style notes, tidbits and blurbs.
 => /gemlog/2020-12-13-sad-christmas.gmi "Sad End Of Year festivities" post
 => gemini://konpeito.media/ Konpeito.media
 => https://gitcoin.co/grants/331/circles-ubi Circles UBI grant on Gitcoin.co
-=> https://gitcoin.co/about Gitcoin.co looks like a cool place to work ;)
+=> https://gitcoin.co/about Gitcoin.co looks like a cool place to work 😅
 
 ## 2020-12-11, Friday
 
