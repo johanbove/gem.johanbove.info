@@ -9,9 +9,12 @@ Bullet-journal style notes, tidbits and blurbs.
 * I do not know anyone in real life who owns a Gemini Space or Gopherhole. Having a sense of FOMO regarding people I know irl, as the World happily keeps on posting their stuff on FaceTwitGram and I'm not. Just feels like the corporate Web is just all most people will know of what is going on and possible on the Internet, and I find that a real shame.
 * Wondering how long it will take before I see someone who I know in real life here on Gemini?
 * Seems like part of Gemini will be how ephermeral Gemini Spaces and Capsules will be. It highly likely that one day a Gemini server is up and the next it isn't anymore. Part of the adventure of moving into a new space on the Web.
+* Learned today about "Gitcoin.co" through the "Circles UBI" "grant" or "crowd-sourcing" - It's an intriguing scene. I'm still sceptical about the tech and I'm definitely a newbie in the crypto World. But I do understand this technology has and will have an impact on the "real world" more and more. So to not be completely left in the dark I decided to get to know the tools and the people involved.
 
 => /gemlog/2020-12-13-sad-christmas.gmi "Sad End Of Year festivities" post
 => gemini://konpeito.media/
+=> https://gitcoin.co/grants/331/circles-ubi Circles UBI grant on Gitcoin.co
+=> https://gitcoin.co/about Gitcoin.co looks like a cool place to work ;)
 
 ## 2020-12-11, Friday
 
