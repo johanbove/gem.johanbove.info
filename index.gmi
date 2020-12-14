@@ -10,15 +10,15 @@ Welcome to Johan's Gemini capsule. Please join him while he explores the newly d
 
 This site consists of mostly logs and a journal on Johan's experience with Gemini and Life.
 
-=> 😎 about.gmi About
-=> 📚 books.gmi Books
-=> 📰 gemlog/ Gemlog
-=> 📓 journal.gmi Journal
-=> 🌐 links.gmi Links
-=> 🛠 plans.gmi Plans
-=> 💽 playlist.gmi Playlist
-=> 📖 quotes.gmi Quotes
-=> 📢 twtxt.txt Twtxt
+=> about.gmi 😎 About
+=> books.gmi 📚 Books
+=> gemlog/ 📰 Gemlog
+=> journal.gmi 📓 Journal
+=> links.gmi 🌐 Links
+=> plans.gmi 🛠 Plans
+=> playlist.gmi 💽 Playlist
+=> quotes.gmi 📖 Quotes
+=> twtxt.txt 📢 Twtxt
 
 ## Contact
 
