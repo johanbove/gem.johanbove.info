@@ -1,0 +1,17 @@
+# TOFU on Gemini
+
+Gathering links and information on TOFU or Trust-On-First-Usage TLS
+
+## Articles
+
+=> gemini://makeworld.gq/gemlog/2020-07-03-tofu-rec.gmi
+=> gemini://drewdevault.com/2020/09/21/Gemini-TOFU.gmi
+
+## Wiki
+
+=> https://en.wikipedia.org/wiki/Trust_on_first_use TOFU on Wikipedia
+
+## Clients
+
+=> https://github.com/makeworld-the-better-one/amfora Amfora
+=> gemini://skyjake.fi/lagrange/ Lagrange
