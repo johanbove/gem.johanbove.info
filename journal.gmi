@@ -6,6 +6,7 @@ Bullet-journal style notes, tidbits and blurbs.
 
 * Reading more about the "Small Web" or "smol web", or "slow web".
 * Gathering links to how TOFU on Gemini works
+* Keeping my cup of tea away from the desk so I need to stand up and walk around to have a sip. I'm so out of shape since the lock-downs started.
 
 => gemini://talon.computer/log/small-web/ "Small Web" by Wu Wei.
 => tofu.gmi Resources on TOFU TLS
