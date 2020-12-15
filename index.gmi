@@ -43,6 +43,8 @@ The preferred way of reaching out to him is by classic e-mail.
 IRC Freenode: jbove
 IRC Tilde.chat: johan
 
+Secure Scuttlebutt (SSB): @4XHLGF4UDOGiS5oqiDUjN97cKVBExloikIIGMiNjHq0=.ed25519
+
 Keybase: @johanbove
 Twitter: @johanbove
 
