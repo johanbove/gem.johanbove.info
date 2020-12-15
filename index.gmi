@@ -8,6 +8,7 @@ Estd. November 2020 in Düsseldorf, Germany
 
 Welcome to Johan's Gemini capsule. Please join him while he explores the newly discovered Geminispace.
 
+```
            [38;5;34m|[0m             
           [38;5;34m\|/[0m   [38;5;34m|[0m        
           [38;5;34m\|/,[0m [38;5;34m\|/[0m       
@@ -16,6 +17,7 @@ Welcome to Johan's Gemini capsule. Please join him while he explores the newly d
        [38;5;34m\\/,\|/|l///,[0m     
 [38;5;95m.[0m  [38;5;95m,[0m [38;5;95m_[0m [38;5;95m.[0m[38;5;34m`\[0m[38;5;95m,[0m[38;5;34m\lv/[0m[38;5;95m_[0m[38;5;34m//[0m  [38;5;95m_[0m [38;5;95m.[0m  
   [38;5;95m^[0m      [38;5;95m'[0m        [38;5;95m`[0m    [38;5;95m'[0m 
+```
 
 This site consists of mostly logs and a journal on Johan's experience with Gemini and Life.
 
