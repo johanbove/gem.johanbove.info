@@ -6,6 +6,7 @@ Gathering links and information on TOFU or Trust-On-First-Usage TLS
 
 => gemini://makeworld.gq/gemlog/2020-07-03-tofu-rec.gmi
 => gemini://drewdevault.com/2020/09/21/Gemini-TOFU.gmi
+=> gemini://tilde.team/~ew0k/posts/certificate-security.gmi
 
 ## Wiki
 
