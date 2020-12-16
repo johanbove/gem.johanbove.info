@@ -21,6 +21,7 @@ Other capsules and sites in no particular order.
 ## Gemini Clients
 
 => gemini://skyjake.fi/lagrange/ Lagrange is a desktop GUI for Gemini
+=> https://github.com/makeworld-the-better-one/amfora Amfora terminal client
 
 ## Gemini Servers
 
