@@ -4,10 +4,11 @@ Bullet-journal style notes, tidbits and blurbs.
 
 ## 2020-12-16, Wednesday
 
-* Reinstalled Beaker Browser v1.1.0 and threw out all my previous files.
+* Reinstalled "Beaker Browser" v1.1.0 and threw out all my previous files.
 * Figuring out how to mirror this Gemini space on Hyperdrive.
 * The Beaker Browser folder sync to Hyperdrive still has some issues on Windows, so I can only sync one way. From my PC to the Hyperdrive. Changes made on the Hyperdrive do not persist. But that's okay for now.
 
+=> https://beakerbrowser.com/2020/12/08/beaker-1.1.html Beaker Browser v1.1
 => hyper://18a00729203eb3d60be56370ed0fcc9ce2baf784e7ba6d0bd4181de26b0df651 Hyperdrive copy of gem.johanbove.info
 
 ## 2020-12-15, Tuesday
@@ -119,8 +120,8 @@ Bullet-journal style notes, tidbits and blurbs.
 
 * Knowing how complex peer-to-peer solutions like Hyperdrives and Scuttlebutt's systems are, it's good to know we can also rely on simpler ways to keep in touch online through classic e-mail and retro protocols like Gemini and Gopher.
 * Felt really gloomy and doomy today. Christmas shopping with masks on just still feels like we're stuck in a dystopian story that actually became real-life.
-* Beakerbrowser v1.0 doesn't want to run on my PC anymore. Not sure why not.
-* Re-installed ManyVerse on my Android phone and after a couple of hours of syncing, it's almost usable again. It is cool how one can restore their access through the 24 word password phrase. Something that really get into Beakerbrowser too. If only I had the time and the skills to add that in the app myself.
+* Beaker Browser v1.0 doesn't want to run on my PC anymore. Not sure why not.
+* Re-installed ManyVerse on my Android phone and after a couple of hours of syncing, it's almost usable again. It is cool how one can restore their access through the 24 word password phrase. Something that really get into Beaker Browser too. If only I had the time and the skills to add that in the app myself.
 * Messing with folder permissions on a backup system of over 700GB of private pictures is playing with fire.
 * Really impressed with Jake's work on Lagrange. Yesterday he released v0.12. Testing out the subscription feature.
 * Google Recaptcha just got a whole lot more annoying with its "Click verify once there are none left.". WTF
@@ -139,12 +140,12 @@ Bullet-journal style notes, tidbits and blurbs.
 
 ## 2020-12-03, Thursday
 
-* BeakerBrowser v1.0 was released!
+* Beaker Browser v1.0 was released!
 * Watching Paul Frazee Live Code "Uplink" on his Youtube channel.
 * Busy day today. N. wasn't feeling well and had to go pick him up.
 * How the Internet became Meytal Cohen's stage.
 
-=> https://beakerbrowser.com
+=> https://beakerbrowser.com/2020/12/02/beaker-1-0.html Beaker Browser v1.0
 => https://www.youtube.com/watch?v=-yYKMFsKNSM Paul Frazee livecoding
 => https://www.youtube.com/watch?v=ouJzx76FFAI Meytal Cohen's story
 
