@@ -16,6 +16,7 @@ Other capsules and sites in no particular order.
 
 => https://thedorkweb.substack.com/p/gopher-gemini-and-the-smol-internet
 => gemini://gem.vectorpoem.com/server.gmi "How I set up this Gemini host" by Vectorpoem
+=> https://toffelblog.xyz/blog/gemini-overview/ "Gemini Overview" by Toffelblog
 
 ## Gemini Clients
 
