@@ -6,7 +6,7 @@ Bullet-journal style notes, tidbits and blurbs.
 
 * Reinstalled Beaker Browser v1.1.0 and threw out all my previous files.
 * Figuring out how to mirror this Gemini space on Hyperdrive.
-* And it worked, I can now edit this space in Beaker Browser too.
+* The Beaker Browser folder sync to Hyperdrive still has some issues on Windows, so I can only sync one way. From my PC to the Hyperdrive. Changes made on the Hyperdrive do not persist. But that's okay for now.
 
 => hyper://18a00729203eb3d60be56370ed0fcc9ce2baf784e7ba6d0bd4181de26b0df651 Hyperdrive copy of gem.johanbove.info
 
