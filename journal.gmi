@@ -2,6 +2,14 @@
 
 Bullet-journal style notes, tidbits and blurbs.
 
+## 2020-12-16, Wednesday
+
+* Reinstalled Beaker Browser v1.1.0 and threw out all my previous files.
+* Figuring out how to mirror this Gemini space on Hyperdrive.
+* And it worked, I can now edit this space in Beaker Browser too.
+
+=> hyper://18a00729203eb3d60be56370ed0fcc9ce2baf784e7ba6d0bd4181de26b0df651 Hyperdrive copy of gem.johanbove.info
+
 ## 2020-12-15, Tuesday
 
 * Reading more about the "Small Web" or "smol web", or "slow web".

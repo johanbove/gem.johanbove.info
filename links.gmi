@@ -9,6 +9,8 @@ Other capsules and sites in no particular order.
 ## Gemini Info
 
 => gemini://gemini.circumlunar.space/docs/faq.gmi Project Gemini FAQ
+=> gemini://rawtext.club/~sloum/geminilist/ The Gemini Mailing List Archives
+=> https://lists.orbitalfox.eu/archives/gemini/ (Also on HTTPS)
 
 ## Gemini Articles
 
