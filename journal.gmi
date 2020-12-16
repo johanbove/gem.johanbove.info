@@ -7,9 +7,13 @@ Bullet-journal style notes, tidbits and blurbs.
 * Reinstalled "Beaker Browser" v1.1.0 and threw out all my previous files.
 * Figuring out how to mirror this Gemini space on Hyperdrive.
 * The Beaker Browser folder sync to Hyperdrive still has some issues on Windows, so I can only sync one way. From my PC to the Hyperdrive. Changes made on the Hyperdrive do not persist. But that's okay for now.
+* Created a ticket in Lagrange project for "hyper://" link support.
+* Discovered that Cat released a new Konpeito mix tape for Winter 2021, marking a one year anniversary of the project.
 
 => https://beakerbrowser.com/2020/12/08/beaker-1.1.html Beaker Browser v1.1
 => hyper://18a00729203eb3d60be56370ed0fcc9ce2baf784e7ba6d0bd4181de26b0df651 Hyperdrive copy of gem.johanbove.info
+=> https://github.com/skyjake/lagrange/issues/103 'Identify "hyper://" hyperdrive addresses in links' #103
+=> gemini://konpeito.media/
 
 ## 2020-12-15, Tuesday
 
