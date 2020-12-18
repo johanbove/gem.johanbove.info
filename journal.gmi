@@ -4,7 +4,7 @@ Bullet-journal style notes, tidbits and blurbs.
 
 ## 2020-12-18, Friday
 
-* I'm a little superstituous, but not religious. I believe there could be a curse on my head that whenever I dare to brag about something I have or do, it turns against me and the subject of my brag will suffer from it. It's mostly _just_ stuff luckily. So the other day I said that I really could rely on the sturdy old Sony MZ-R500 device I use to record music on; well today it started to make weird noises and vibrations when recording. I HOPE it's only the disc I am using right now. Too late to try with other disks. Will see in the next recording if it behaves the same way.
+* I'm a little superstituous, but not religious. I believe there could be a curse on my head that whenever I dare to brag about something I have or do, it turns against me and the subject of my brag will suffer from it. It's mostly _just_ stuff luckily. So the other day I said that I really could rely on the sturdy old Sony MZ-R500 device I use to record music on; well today it started to make weird noises and vibrations when recording. I HOPE it's only the disc I am using right now. Too late to try with other disks. Will see in the next recording if it behaves the same way. And if the Minidisc recorder does fail, then that is part of the charm of still using technology that was deemed redundant over 7 years ago.
 * The Mandalorian ended with a cool bridge to the rest of the Star Wars universe. Again, Storm Troopers "die" too easily. 
 * Still feeling like I want to replace my personal PC with a newer, second device, but then I realize I'm still good with what I have. Especially since joining the Small Web, the system resources have lowered. It's only when I want to do things on Beaker Browser that I can tell my hardware from 2014 is starting to show its age a bit.
 * I want to enjoy the "Planetary" SSB app, but since a couple of days it stopped syncing with the network and it is unclear why.
@@ -13,6 +13,7 @@ Bullet-journal style notes, tidbits and blurbs.
 
 => https://planetary.social/ Planetary.social
 => https://www.deezer.com/en/album/303639 Deezer Album 303639
+=> https://en.wikipedia.org/wiki/MiniDisc Wikipedia page for MiniDisc
 
 ## 2020-12-17, Thursday
 
