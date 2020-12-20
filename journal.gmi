@@ -2,6 +2,12 @@
 
 Bullet-journal style notes, tidbits and blurbs.
 
+## 2020-12-20, Sunday
+
+* Excited about the v1.0 release of Lagrange - Really cool how I found about the release using the subscription feature of this excellent Gemini client.
+
+=> gemini://skyjake.fi/gemlog/2020-12_lagrange-1.0.gmi
+
 ## 2020-12-18, Friday
 
 * I'm a little superstituous, but not religious. I believe there could be a curse on my head that whenever I dare to brag about something I have or do, it turns against me and the subject of my brag will suffer from it. It's mostly _just_ stuff luckily. So the other day I said that I really could rely on the sturdy old Sony MZ-R500 device I use to record music on; well today it started to make weird noises and vibrations when recording. I HOPE it's only the disc I am using right now. Too late to try with other disks. Will see in the next recording if it behaves the same way. And if the Minidisc recorder does fail, then that is part of the charm of still using technology that was deemed redundant over 7 years ago.
