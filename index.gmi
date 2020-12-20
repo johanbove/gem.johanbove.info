@@ -4,7 +4,7 @@
 
 Estd. November 2020 in Düsseldorf, Germany
 
-  Last modified: 2020-12-18
+  Last modified: 2020-12-20
 
 Welcome to Johan's Gemini capsule. Please join him while he explores the newly discovered Geminispace.
 
@@ -60,6 +60,7 @@ Here are his other Internet presences:
 => gemini://gem.johanbove.info This Gemini capsule
 => https://github.com/johanbove
 => ssb://4xhlgf4udogis5oqidujn97ckvbexloikiigminjhq0=.ed25519/ @johan on Secure Scuttlebutt 
+=> hyper://18a00729203eb3d60be56370ed0fcc9ce2baf784e7ba6d0bd4181de26b0df651/ This Gemini Capsule as a Hyperdrive with Beaker Browser
 
 
 More to come later for sure...
