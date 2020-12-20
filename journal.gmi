@@ -13,7 +13,7 @@ Bullet-journal style notes, tidbits and blurbs.
 => gemini://skyjake.fi/gemlog/2020-12_lagrange-1.0.gmi
 => gemini://gardengnome.ml/ Garden Gnome Society
 => https://en.wikipedia.org/wiki/Solarpunk Solarpunk on Wikipedia
-=> journal-2020-11-21-2020-12-20.gmi Journal Archive 2020-11-21 to 2020-12-20
+=> journal_2020-11-21-2020-12-20.gmi Journal Archive 2020-11-21 to 2020-12-20
 
 ## 2020-12-18, Friday
 
