@@ -5,7 +5,7 @@ Bullet-journal style notes, tidbits and blurbs.
 ## 2020-12-20, Sunday
 
 * Excited about the v1.0 release of Lagrange - Really cool how I found about the release using the subscription feature of this excellent Gemini client.
-* Since a couple of days I also joined the "Garden Gnome Society" where we keep each other's "Astrobotany" plants alive and watered. The page allows allows us to check which plants have not had any water and in what state they are in. It's a wonderful community zen-experience.
+* Since a couple of days I also joined the "Garden Gnome Society" where we keep each other's "Astrobotany" plants alive and watered. The page allows us to check which plants have not had any water and in what state they are in. It's a wonderful community zen-experience.
 * "Astrobotany" now also allows players / members to send each other post-cards.
 
 => gemini://skyjake.fi/gemlog/2020-12_lagrange-1.0.gmi
