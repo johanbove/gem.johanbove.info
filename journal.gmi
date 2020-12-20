@@ -7,7 +7,7 @@ Bullet-journal style notes, tidbits and blurbs.
 * Excited about the v1.0 release of Lagrange - Really cool how I found about the release using the subscription feature of this excellent Gemini client.
 * Since a couple of days I also joined the "Garden Gnome Society" where we keep each other's "Astrobotany" plants alive and watered. The page allows us to check which plants have not had any water and in what state they are in. It's a wonderful community zen-experience.
 * "Astrobotany" now also allows players / members to send each other post-cards.
-* Funny how being on Gemini feels very Solarpunk, especially compared to anything else on the Web these days. It's new alternative indie tech, and with a very low energy usage footprint.
+* Funny how being on Gemini feels very Solarpunk, especially compared to anything else on the Web these days with its power-hungry applications and bloated web pages. Gemini is a new alternative indie tech, with a very low energy usage footprint, so it fits well in the Solarpunk philosophie.
 
 => gemini://skyjake.fi/gemlog/2020-12_lagrange-1.0.gmi
 => gemini://gardengnome.ml/ Garden Gnome Society
