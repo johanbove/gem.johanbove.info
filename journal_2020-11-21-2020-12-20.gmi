@@ -2,7 +2,7 @@
 
 Bullet-journal style notes, tidbits and blurbs.
 
-=> journal.gmi Latest entries
+=> journal.gmi Current journal
 
 ## 2020-12-20, Sunday
 
