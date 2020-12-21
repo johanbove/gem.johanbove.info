@@ -18,7 +18,16 @@ Save this page to export them, or you can copy them to the clipboard.
 => gopher://gopher.black:70/1/phlog gopher.black
 => gopher://gopher.black/ gopher.black
 
+## Articles
+=> gemini://tilde.team/~ew0k/posts/certificate-security.gmi
+=> gemini://gemini.sensorstation.co/computing/gemini.gmi
+
 ## Unsorted
+=> gemini://gemini.sensorstation.co/
+=> gemini://talon.computer/log/small-web/
+=> gemini://makeworld.gq/gemlog/2020-07-03-tofu-rec.gmi
+=> gemini://drewdevault.com/2020/09/21/Gemini-TOFU.gmi
+=> gemini://celehner.com/ Charles E. Lehner
 => gemini://drewdevault.com/ Drew DeVault's geminispace
 => gemini://gardengnome.ml/ Garden Gnome Society
 => gemini://gemini.ctrl-c.club/ gemini.ctrl-c.club
