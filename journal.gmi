@@ -7,6 +7,7 @@ Bullet-journal style notes, tidbits and blurbs.
 * My son is sleeping in his "big boy's" bed for the first time tonight. Spent a lot of time and effort proofing his room and cleaning it up. Putting the bed together also took a little more time than I expected.
 * Received the Aureon Fire8 HD I got from ebay. No drivers necessary apparently. The ones you find online cannot be installed on Windows 10. But it all works without. Planning to use it to record some music to the minidisc.
 * The "Privacy Not Included" list published and maintained by Mozilla is basically making me hate most new tech available today.
+* So tired too of having to log into sites like Youtube - all the freakin' time - just because I don't want to accept those damned cookies. Really, the Web sucks.
 
 => https://foundation.mozilla.org/en/privacynotincluded/
 
