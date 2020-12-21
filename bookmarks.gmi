@@ -1,0 +1,49 @@
+# Bookmarks
+
+You have 32 bookmarks.
+
+Save this page to export them, or you can copy them to the clipboard.
+
+## Aggregators
+=> gemini://gemini.circumlunar.space/capcom/ CAPCOM Geminispace aggregator
+
+## Gemblogs
+=> gemini://gemini.circumlunar.space/users/left_adjoint/ A space for moths and simple things — left_adjoint
+
+## Games
+=> gemini://lord.re/21-Among-Us.gmi /home/lord/gemlog/21-Among-Us - Among Us
+=> gemini://astrobotany.mozz.us/ Astrobotany
+
+## Gopher
+=> gopher://gopher.black:70/1/phlog gopher.black
+=> gopher://gopher.black/ gopher.black
+
+## Unsorted
+=> gemini://drewdevault.com/ Drew DeVault's geminispace
+=> gemini://gardengnome.ml/ Garden Gnome Society
+=> gemini://gemini.ctrl-c.club/ gemini.ctrl-c.club
+=> gemini://gus.guru/ GUS - Gemini Universal Search
+=> gemini://gem.johanbove.info/ Johan's Gemini Capsule
+=> gemini://gem.johanbove.info/gemlog/ Johan's Gemlog
+=> gemini://gem.johanbove.info/journal.gmi Johan's Journal
+=> gemini://konpeito.media/ konpeito.media
+=> gemini://skyjake.fi/lagrange/ Lagrange
+=> gemini://tilde.team/~ew0k/posts/mount-your-tilde.gmi Mount Your Tilde — ew0k
+=> gemini://perso.pw/blog/index.md perso.pw
+=> gemini://gemini.circumlunar.space/ Project Gemini
+=> gemini://gemini.trans-neptunian.space/~smog/ Saturday Morning News — smog
+=> gemini://gemini.circumlunar.space:1965/~shufei/phlog/index.gmi Shufei! — shufei
+=> gemini://skyjake.fi/gemlog/ skyjake's Gemlog
+=> gemini://rawtext.club:1965/~sloum/spacewalk.gmi sloum spacewalk
+=> gemini://gemini.circumlunar.space:1965/~solderpunk/gemlog/ Solderpunk versus the windmills: a Gemlog
+=> gemini://rawtext.club/~sloum/geminilist/ The Gemini Mailing List: 2020 Archives by date — sloum
+=> gemini://tilde.team/~ew0k/posts/the-size-of-gemini.gmi The Size of Gemini — ew0k
+=> gemini://gemini.circumlunar.space:1965/~shufei/phlog/Shufei-ThisAndThat-Weiphlog.gmi The 微phlog (Weiphlog)
+=> gemini://gemini.circumlunar.space/users/shufei/phlog/Shufei-ThisAndThat-Weiphlog.gmi The 微phlog (Weiphlog) — shufei
+=> gopher://uninformativ.de:70/ uninformativ.de
+=> gemini://perso.pw/ Warm welcome !
+=> gemini://tilde.team/~emilis/ ~emilis Site — emilis
+=> gemini://gem.vectorpoem.com/projects_log.gmi 🛠 JP's Project Log
+=> gemini://gem.vectorpoem.com/ 🪐 Welcome to my Gemini capsule
+
+Each link represents a bookmark. Folder structure is defined by level 2/3 headings. Bullet lines and quotes are reserved for additional information about the preceding bookmark. Text lines and preformatted text are considered comments and should be ignored.
