@@ -5,6 +5,14 @@ Bullet-journal style notes, tidbits and blurbs.
 2020-12-22, Tuesday
 
 * My three year old boy watched the beginning of Wall-E and got really emotional when Wall-E had to say goodbye to his friend HAL the cockroach after chasing after EVE. We stopped the movie there and tried to console him. It's so sweet to see how pure-of-heart he is.
+* He misses his Nonna & Nonna a lot. We have a routine where the jumps on our bed, something he started doing while being at his grandparent's house and today he stopped after a couple of jumps and got really sad. He told me later why. He's such a beautiful sensitive kid. I love him with all of my being.
+* Finally able to record TOSLINK digital in to MiniDisc thanks to the "new" external sound card. Seems to be working well to keep tracks separated. Can't tell if the quality is any better. Later I would also like to try the microphone recording.
+* I realize that I got really tired of the HTTP Web because of how stupid commercial it all is. Social-media influencers, live streamers, cookie advertisements, it's all big bucks. Luckily there is still some of a section of the Web left for actual people. I keep repeating myself, but this is exactly why I am here on Gemini (and Beaker Browser). Oh, and if you're reading this on my Github back up repo, then thanks for dropping by, but you should really get a nice Gemini client and experience what this is all about.
+* The Gemini mailing list can get fierce sometimes. I guess this is to be expected when many people, like myself, see an emotional way-out of the state of the Web with Gemini. It's all good drame and well-behaved still. Personally I believe Gemini should be kept as simple as possible, and only patches of clear failures and issues can happen in the specs. I'm not one to write specs really, so will not go into the topic any further.
+* Wondering to set up a Beaker Browser hyperdrive to store a copy of the minidisc.org website. There is a ton of information on that site. Let's not all just bet on the "Internet Archive" alone.
+
+=> https://www.minidisc.org/ minidisc.org
+=> https://www.reddit.com/r/minidisc/ reddit.com/r/minidisc
 
 2020-12-21, Monday
 
