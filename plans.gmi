@@ -11,6 +11,7 @@ Sharing the ideas I have for this site.
 * ✔ Link the content from my Gopherhole here.
 * ✔ Improve the gemlog publishing script so I don't need to manually add the footer.
 * ✔ Add more emoji's to the content and the menus to spruce up the space a bit.
+* ✔ Mirror the files in the gemini capsule on a Hyperdrive.
 
 ──────────────────
 
