@@ -12,6 +12,7 @@ Sharing the ideas I have for this site.
 * ✔ Improve the gemlog publishing script so I don't need to manually add the footer.
 * ✔ Add more emoji's to the content and the menus to spruce up the space a bit.
 * ✔ Mirror the files in the gemini capsule on a Hyperdrive.
+* ✔ Keep a copy of the capsule's source on a Github repository.
 
 ──────────────────
 
