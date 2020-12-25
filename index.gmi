@@ -19,8 +19,8 @@ Welcome to Johan's Gemini capsule. Please join him while he explores the newly d
 ```
 
 > "It is the secret of the world that all things subsist and do not die, but retire a little from sight and afterwards return again."
-> — Ralph Waldo Emerson, Essays: Second Series
-```
+> ~ Ralph Waldo Emerson, Essays: Second Series
+
 
 This site consists of mostly logs and a journal on Johan's experience with Gemini and Life.
 
