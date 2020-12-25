@@ -8,16 +8,18 @@ Estd. November 2020 in Düsseldorf, Germany
 
 Welcome to Johan's Gemini capsule. Please join him while he explores the newly discovered Geminispace.
 
-```My Astrobotany plant called "Vita" - she is a fern.
-           [38;5;226m%[0m             
-           [38;5;222m%[0m             
-          [38;5;34m\|/[0m   [38;5;226m%[0m        
-          [38;5;34m\|/,[0m [38;5;34m\[0m[38;5;222m%[0m[38;5;34m/[0m       
-       [38;5;226m.[0m[38;5;226m%[0m  [38;5;34m\|/,\//[0m [38;5;226m.[0m     
-       [38;5;34m\[0m[38;5;222m%[0m[38;5;34m/[0m [38;5;34m\|/[0m [38;5;226m%[0m[38;5;34m/[0m [38;5;34m|/[0m[38;5;226m%[0m    
-       [38;5;34m\\/,\|/|l///,[0m     
-[38;5;95m.[0m  [38;5;95m,[0m [38;5;95m_[0m [38;5;95m.[0m[38;5;34m`\[0m[38;5;95m,[0m[38;5;34m\lv/[0m[38;5;95m_[0m[38;5;34m//[0m  [38;5;95m_[0m [38;5;95m.[0m  
-  [38;5;95m^[0m      [38;5;95m'[0m        [38;5;95m`[0m    [38;5;95m'[0m 
+```My Astrobotany plant called "Vita" bloomed and a new seedline planted
+                 [38;5;34m.;;.[0m     
+     [38;5;34m_[0m   [38;5;34m||[0m      
+     [38;5;34m>'.[0m [38;5;34m||[0m  [38;5;34m_[0m   
+     [38;5;34m`>[0m [38;5;34m\||.'<[0m   
+       [38;5;34m`>|/[0m [38;5;34m<`[0m   
+        [38;5;34m`||/`[0m    
+  [38;5;95m^jgs^^^^^^^^^^^[0m
+```
+
+> "It is the secret of the world that all things subsist and do not die, but retire a little from sight and afterwards return again."
+> — Ralph Waldo Emerson, Essays: Second Series
 ```
 
 This site consists of mostly logs and a journal on Johan's experience with Gemini and Life.

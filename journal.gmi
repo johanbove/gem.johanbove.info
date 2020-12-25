@@ -2,12 +2,18 @@
 
 Bullet-journal style notes, tidbits and blurbs.
 
-2020-12-24, Wednesday
+## 2020-12-25, Thursday
+
+* Feeling fortunate and #grateful to be able to spend this wonderful time together with my #family. Thinking of everyone who cannot be with us this year. Makes me realize to make sure to make the best of every moment we have together.
+* Wonderful time with the family today. My son is the reason why I am alive.
+* My Astrobotany plan "Vita" gave a seedling "Timothy".
+
+## 2020-12-24, Wednesday
 
 * This Christmas period I spent about €100 on shipping costs to get presents to our #family which we otherwise would have brought ourselves. Very happy to have the #post still functioning as normally as it can be. This kinda must have been how it felt like when people were not so mobile and had to rely on the post to deliver their things.
 * But it's frustrating to see how the packages get stuck while in transit. The sheer volume of packages this year makes it a real challenge to get anything delivered on time apparently.
 
-2020-12-22, Tuesday
+## 2020-12-22, Tuesday
 
 * My three year old boy watched the beginning of Wall-E and got really emotional when Wall-E had to say goodbye to his friend HAL the cockroach after chasing after EVE. We stopped the movie there and tried to console him. It's so sweet to see how pure-of-heart he is.
 * He misses his Nonna & Nonna a lot. We have a routine where he jumps on our bed, something he started doing while being at his grandparent's house and today he stopped after a couple of jumps and got really sad. He told me later why. He's such a beautiful sensitive kid. I love him with all of my being.
@@ -28,7 +34,7 @@ johan@Surface:.../gemini/gem.johanbove.info$ du -h --exclude .git
 => https://www.minidisc.org/ minidisc.org
 => https://www.reddit.com/r/minidisc/ reddit.com/r/minidisc
 
-2020-12-21, Monday
+## 2020-12-21, Monday
 
 * My son is sleeping in his "big boy's" bed for the first time tonight. Spent a lot of time and effort proofing his room and cleaning it up. Putting the bed together also took a little more time than I expected.
 * Received the Aureon Fire8 HD I got from ebay. No drivers necessary apparently. The ones you find online cannot be installed on Windows 10. But it all works without. Planning to use it to record some music to the minidisc.
