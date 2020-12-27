@@ -2,10 +2,11 @@
 
 This guide will teach you a basic surveillance self-defense skill: email encryption. 
 
-I literally copy-pasted this from the emailselfdefences page on fsf.org.
+I literally copy-pasted this from the emailselfdefence page on fsf.org.
 
 > Even if you have nothing to hide, using encryption helps protect the privacy of people you communicate with, and makes life difficult for bulk surveillance systems. If you do have something important to hide, you're in good company; these are the same tools that whistleblowers use to protect their identities while shining light on human rights abuses, corruption and other crimes.
 
 => ../images/2020-12-25-email-self-defence-full-infographic.png Email Self Defence Full Infographic
 
 => https://emailselfdefense.fsf.org
+=> https://www.fsf.org
