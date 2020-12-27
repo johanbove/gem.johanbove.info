@@ -5,6 +5,7 @@ Short notes and blog posts by Johan Bové.
 
 ## 2020
 
+=> gemini://gem.johanbove.info/gemlog/2020-12-27-v-tech-download-manager.gmi 2020-12-27 — V-Tech Download Manager issues
 => gemini://gem.johanbove.info/gemlog/2020-12-25-email-self-defence.gmi 2020-12-25 — "Email Self Defence" by Free Software Foundation
 => gemini://gem.johanbove.info/gemlog/2020-12-13-sad-christmas.gmi 2020-12-13 — Sad End Of Year festivities
 => gemini://gem.johanbove.info/gemlog/2020-12-10-comparing_web_protocols_as_transportation.gmi 2020-12-10 — Comparing Web Protocols with transportation vehicles

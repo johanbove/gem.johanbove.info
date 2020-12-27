@@ -1,0 +1,11 @@
+# V-Tech Download Manager issues
+
+Had a really bad experience trying to get the V-Tech "Download Manager" for their Magic Book 3D to work on Windows 10 - the application window did not resize and I had to put the screen size to a ridiculous 480x640 pixels to be able to get to some point where I could actually use the buttons in the application.
+
+Somehow it detected the 3D Magibook on USB, but then, after waiting for the app to "load", and I was able to see the books to add the media of, the USB connection all of sudden disappeared and I was stuck again. I tried four times to get through the process to no avail.
+
+Luckily I have a Macbook from work. I am not really supposed to use it for private applications, but in this case I was a little desperate. So I installed the "Download Manager" for Mac on it and had to mess a bit with disk access for it work, but was happy to see that all worked well on the Mac version of the application. First of all, a "firmware upgrade" window popped up and I had to go through the whole process.
+
+I am suspecting that this firmware issue is the cause of the Windows problems. After the firmware upgrade, I was able to get the media for the new book we got our son.
+
+Disappointing that the process on Windows 10 is so bad.
