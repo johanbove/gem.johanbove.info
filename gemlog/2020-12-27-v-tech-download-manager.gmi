@@ -6,6 +6,6 @@ Somehow it detected the 3D Magibook on USB, but then, after waiting for the app 
 
 Luckily I have a Macbook from work. I am not really supposed to use it for private applications, but in this case I was a little desperate. So I installed the "Download Manager" for Mac on it and had to mess a bit with disk access for it work, but was happy to see that all worked well on the Mac version of the application. First of all, a "firmware upgrade" window popped up and I had to go through the whole process.
 
-I am suspecting that this firmware issue is the cause of the Windows problems. After the firmware upgrade, I was able to get the media for the new book we got our son.
+I am suspecting that this firmware issue is the cause of the Windows problems. After the firmware upgrade, I was able to get the media for the new book we got our son, using the Mac app. But haven't tried with the Windows 10 version of the app.
 
-Disappointing that the process on Windows 10 is so bad.
+Disappointing that the experience with the application on Windows 10 is so bad. So I wrote the customer service about it. Let's see what happens next.
