@@ -2,7 +2,7 @@
 
 I honestly can relate to this graph, perhaps even too much.
 
-=> ../images/2020-11-23-rakhim-blogging.jpg
+=> gemini://gem.johanbove.info/images/2020-11-23-rakhim-blogging.jpg
 
 => https://rakhim.org/images/honestly-undefined/blogging.jpg Original file
 => https://rakhim.org
