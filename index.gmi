@@ -8,7 +8,7 @@ Estd. November 2020 in Düsseldorf, Germany
 
 Welcome to Johan's Gemini capsule. Please join him while he explores the newly discovered Geminispace.
 
-This site consists of mostly logs and a journal on Johan's experience with Gemini and Life.
+This capsule consists of mostly logs and a journal on Johan's experience with Gemini and Life.
 
 => about.gmi 😎 About
 => books.gmi 📚 Books
