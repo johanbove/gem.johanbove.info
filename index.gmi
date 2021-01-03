@@ -4,7 +4,7 @@
 
 Estd. November 2020 in Düsseldorf, Germany
 
-  Last modified: 2020-12-31
+  Last modified: 2021-01-03
 
 Welcome to Johan's Gemini capsule. Please join him while he explores the newly discovered Geminispace.
 
@@ -25,7 +25,7 @@ This capsule consists of mostly logs and a journal on Johan's experience with Ge
 The preferred way of reaching out to him is by classic e-mail. 
 
 📧 E-mail: hello@johanbove.info
-🔏 PGP: 4AAE 11D0 B6A8 D5E8
+🔏 PGP Key: E44E 7110 5E92 0276 ED16 9329 4AAE 11D0 B6A8 D5E8
 
 => files/E44E71105E920276ED1693294AAE11D0B6A8D5E8.asc PGP Public Key
 
