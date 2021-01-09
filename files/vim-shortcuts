@@ -1,0 +1,51 @@
+# Vim Tips & Shortcuts ###############################################
+
+Set a word-wrap column break:
+
+  :set tw=80
+
+Show white-space characters:
+
+  :set list
+  :set nolist
+
+Explore a folder:
+
+  :Explore
+
+or:
+
+  :e .
+
+Formatting a paragraph:
+
+  gwip
+
+Search and Replace string in the full file:
+
+  :%s/search/replace/g
+
+Repeat the * characters 17 times:
+
+  17a*<Esc>
+
+Duplicate a line to below/above:
+
+   yyp/P
+
+Select until end of line:
+
+  v$
+
+Show tab characters:
+
+  :set list
+
+Enter real tab character:
+
+  On Windows / WSL:
+
+     ctrl+q TAB
+
+
+EOF

@@ -4,6 +4,7 @@ Sharing the ideas I have for this site.
 
 * Find out how TLS Client certificates can be used to authenticate. -> See Molly Brown.
 * Update this site's TLS certificate to use TLS 1.3 instead of TLS 1.2.
+* ✔ Move the "files" from my old defunct Hyperdrive to here.
 * ✔ Set up my own - basic - Gemini server.
 * ✔ Move the Gemini server to a more robust, complete system.
 * ✔ Find out how to make Gemini pages dynamic.
