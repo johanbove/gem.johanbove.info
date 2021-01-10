@@ -21,6 +21,16 @@ Short notes and blog posts by Johan Bové.
 => gemini://gem.johanbove.info/gemlog/2020-11-22-gemlog-structure.gmi 2020-11-22 — Considering a gemlog structure
 => gemini://gem.johanbove.info/gemlog/2020-11-22-gemini-subscription.gmi 2020-11-22 — Reading about Gemini subscription
 => gemini://gem.johanbove.info/gemlog/2020-11-22-gemini-bash-scripts.gmi 2020-11-22 — Gemini bash commands
+=> gemini://gem.johanbove.info/gemlog/2020-06-21-testing-hyperdrive-daemon.gmi 2020-06-21 — Testing Hyperdrive-daemon
+=> gemini://gem.johanbove.info/gemlog/2020-04-22-corona-ramblings-of-a-tired-parent.gmi 2020-04-22 — Corona Ramblings of a Tired Parent
+=> gemini://gem.johanbove.info/gemlog/2020-04-19-ssb-remove-blob.gmi 2020-04-19 — Removing a blob on Secure Scuttlebutt
+=> gemini://gem.johanbove.info/gemlog/2020-04-19-online-auctions-as-spectator-sport.gmi 2020-04-19 — Online Auctions as Spectator Sport
+=> gemini://gem.johanbove.info/gemlog/2020-04-16-ivo-bissoli.gmi 2020-04-16 — Ivo Bissoli
+
+## 2019
+
+=> gemini://gem.johanbove.info/gemlog/2019-11-28-docker-sonarqube.gmi 2019-11-28 — How to get SonarQube running with Docker
+=> gemini://gem.johanbove.info/gemlog/2019-11-22-werner-goeman.gmi 2019-11-22 — Werner Goeman
 
 
 ──────────────────
