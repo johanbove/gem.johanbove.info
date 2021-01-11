@@ -4,5 +4,12 @@ Find the total file-size of all the folders in this Gopherhole:
 
    du -ch --exclude='.git'
 
+Remove files modified on a specific date and save to a file:
+
+    find . -type f -ls |grep 'Jan 10 18:04' | awk '{print $11}' >> to_delete
+
+Delete all files listed in that file:
+
+    rm `cat to_delete`
 
 EOF
