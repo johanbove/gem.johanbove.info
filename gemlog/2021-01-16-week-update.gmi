@@ -35,6 +35,7 @@ Got a lot of links in this entry, so I've split them by topic:
 => https://www.tampermonkey.net/ Tampermonkey lets you _hack_ other people's sites.
 => https://www.basicattentiontoken.org/ The Basic Attention Token site by Brave
 => https://support.uphold.com/hc/en-us/articles/360043664731-Interledger-Protocol-ILP- "The Interledger Protocol (ILP)"
+=> https://www.pumabrowser.com/ The Puma web browser
 
 ### Dweb links
 
