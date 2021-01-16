@@ -14,7 +14,7 @@ Since my daily entries have been less frequent, today's journal post is a full g
 * Also Daniel Aleksandersen and Ranger Mauve helped with my Web 3 research.
 * Enjoyed watching "Tenet" from Christopher Nolan. It's a mind bending story and excellently made sci-fi action-thriller.
 
-```The SATER palindrome
+```The SATOR palindrome
 SATOR
 AREPO
 TENET
@@ -48,5 +48,5 @@ Got a lot of links in this entry, so I've split them by topic:
 
 ### Others
 
-=> https://www.vox.com/culture/21419050/tenet-explained-sator-square-nolan The Sater palindrom as inspiration to Tenet by Christopher Nolan.
+=> https://www.vox.com/culture/21419050/tenet-explained-sator-square-nolan The SATOR palindrom as inspiration to Tenet by Christopher Nolan.
 => https://github.com/noffle/art-of-readme "The Art of Readme" by Noffle / Kira
