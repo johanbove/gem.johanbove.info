@@ -16,6 +16,10 @@ Gemini is a new internet protocol which:
 
 <https://portal.mozz.us/gemini/gemini.circumlunar.space/>
 
+## Decentralized Mirrors
+
+- Hyperdrive: hyper://18a00729203eb3d60be56370ed0fcc9ce2baf784e7ba6d0bd4181de26b0df651/
+- IPFS: https://ipfs.io/ipfs/QmP9Ht2XLAoMQXqh5aKSTA9qYzXCSrSipidaCr3EMKUZJm
 
 ## Setup
 ### post receive hook
