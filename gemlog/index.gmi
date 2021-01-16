@@ -3,6 +3,11 @@
 Short notes and blog posts by Johan Bové.
 
 
+## 2021
+
+=> gemini://gem.johanbove.info/gemlog/2021-01-16-week-update.gmi 2021-01-16 — Week update of 2021-01-16
+
+
 ## 2020
 
 => gemini://gem.johanbove.info/gemlog/2020-12-31-idea-for-kaufhof-duesseldorf.gmi 2020-12-31 — Idea for Kaufhof Düsseldorf
@@ -10,6 +15,7 @@ Short notes and blog posts by Johan Bové.
 => gemini://gem.johanbove.info/gemlog/2020-12-25-email-self-defence.gmi 2020-12-25 — "Email Self Defence" by Free Software Foundation
 => gemini://gem.johanbove.info/gemlog/2020-12-13-sad-christmas.gmi 2020-12-13 — Sad End Of Year festivities
 => gemini://gem.johanbove.info/gemlog/2020-12-10-comparing_web_protocols_as_transportation.gmi 2020-12-10 — Comparing Web Protocols with transportation vehicles
+
 => gemini://gem.johanbove.info/gemlog/2020-11-30-why-I-think-gemini-is-great.gmi 2020-11-30 — My reasons to support the Gemini Internet Protocol
 => gemini://gem.johanbove.info/gemlog/2020-11-29-rakhim-blogging.gmi 2020-11-29 — "Blogging" by Rakhim
 => gemini://gem.johanbove.info/gemlog/2020-11-29-lagrange-v0.11.gmi 2020-11-29 — Lagrange v0.11 released by Skyjake
@@ -21,11 +27,14 @@ Short notes and blog posts by Johan Bové.
 => gemini://gem.johanbove.info/gemlog/2020-11-22-gemlog-structure.gmi 2020-11-22 — Considering a gemlog structure
 => gemini://gem.johanbove.info/gemlog/2020-11-22-gemini-subscription.gmi 2020-11-22 — Reading about Gemini subscription
 => gemini://gem.johanbove.info/gemlog/2020-11-22-gemini-bash-scripts.gmi 2020-11-22 — Gemini bash commands
+
 => gemini://gem.johanbove.info/gemlog/2020-06-21-testing-hyperdrive-daemon.gmi 2020-06-21 — Testing Hyperdrive-daemon
+
 => gemini://gem.johanbove.info/gemlog/2020-04-22-corona-ramblings-of-a-tired-parent.gmi 2020-04-22 — Corona Ramblings of a Tired Parent
 => gemini://gem.johanbove.info/gemlog/2020-04-19-ssb-remove-blob.gmi 2020-04-19 — Removing a blob on Secure Scuttlebutt
 => gemini://gem.johanbove.info/gemlog/2020-04-19-online-auctions-as-spectator-sport.gmi 2020-04-19 — Online Auctions as Spectator Sport
 => gemini://gem.johanbove.info/gemlog/2020-04-16-ivo-bissoli.gmi 2020-04-16 — Ivo Bissoli
+
 
 ## 2019
 
