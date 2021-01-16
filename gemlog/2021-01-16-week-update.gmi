@@ -1,0 +1,42 @@
+# Week update of 2021-01-16
+
+Since my daily entries have been less frequent, today's journal post is a full gemlog entry,
+
+* In the process of moving bank accounts. It's been more of a hassle than I wanted it to be. Changing SEPA payments could be much easier but requires a bit of formality still. I am keeping a to do list at hand to keep an eye on any missing services we need to change.
+* Last day on my current work assignment was yesterday. Looking forward to the new, sad to leave the old behind.
+* Looking at Web Monetization because I do strongly believe content creators and writers are entitled to renumeration for their work. But I'm tired of getting overloaded with ads online. So that's why I'm using Firefox and have a PiHole proxy on my home network. So I need an alternative way to contribute to the sites I enjoy and depend on. I've been testing Brave (Basic Attention Token) and Coil. I especially like Coil as by principle it could potentially replace the whole advertisement eco system with direct micropayments to creators. We have many digital subscriptions already, but can't pay every site individually, the need for each site to have it's own registration and subscription is not realistic, so Coil.com offers a really interesting solution to this.
+* The Brave system is much more controversial as their system replaces other network's advertisements with their own and there is something wrong about that imho.
+* Because of all of the micro payment integration I signed up with Uphold.com to be able to use the "interledger protocol" system.
+* Web Monetization is being proposed as a W3C standard at the Web Platform Incubator Community Group.
+* Started using Puma browser on my Android phone too.
+* I've also gotten started with IPFS. Thinking of ways to practically use in for my digital assets.
+* Found a great presentation by Tony Aubé about Web 3 or the decentralized web, which I want to share at work.
+* Also Daniel Aleksandersen and Ranger Mauve helped with my Web 3 research.
+
+Got a lot of links in this entry, so I've split them by topic:
+
+### Web Monetization links
+
+=> https://coil.com/learn-more "Coil in a nutshell": Coil offers an effortless way to share content online and getting paid for it.
+=> https://webmonetization.org/ Web Monetization: "A JavaScript browser API that allows the creation of a payment stream from the user agent to the website"
+=> https://discourse.wicg.io/t/proposal-web-monetization-a-new-revenue-model-for-the-web/3785
+=> https://www.ctrl.blog/entry/brave-ipfs.html "Brave adds support for IPFS distributed P2P websites" by Daniel Aleksandersen
+=> https://www.ctrl.blog/entry/coil-web-monetization.html "How Coil and Web Monetization works compared to Flattr" by Daniel Aleksandersen
+=> https://davidwalsh.name/3-great-ways-to-monetize-content "3 Great Ways to Monetize Content" by David Walsh
+=> https://www.tampermonkey.net/ Tampermonkey lets you _hack_ other people's sites.
+=> https://www.basicattentiontoken.org/ The Basic Attention Token site by Brave
+=> https://support.uphold.com/hc/en-us/articles/360043664731-Interledger-Protocol-ILP- "The Interledger Protocol (ILP)"
+
+### Dweb links
+
+=> https://ipfs.io "InterPlanetary File System"
+=> https://www.ctrl.blog/entry/the-dweb.html "Why we need the distributed web" by Daniel Aleksandersen
+=> https://medium.com/@tonyob/the-3-revolutions-of-web-3-7165ed6b3036 "The 3 Revolutions of Web 3"
+=> https://www.youtube.com/watch?v=PQHEwuUOplQ "Introduction to Web 3 - Tony Aube at WAQ19" on Youtube
+=> https://www2.slideshare.net/tonyaube1/waq19-web3enyou-tube "Web 3.0" Slideshare by Tony Aubé
+=> https://www.tonyaube.com/ Tony Aubé's personal site
+=> https://blog.mauve.moe/posts/killer-p2p-app "A Killer App for P2P" by Ranger Mauve
+
+### Others
+
+=> https://github.com/noffle/art-of-readme "The Art of Readme" by Noffle / Kira
