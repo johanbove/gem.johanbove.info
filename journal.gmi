@@ -14,7 +14,9 @@ Bullet-journal style notes, tidbits and blurbs.
 * So now I have a Twitter account were I have more followers than "following" connections.
 * Going through the "following" list on Twitter is like a trip down memory lane as Twitter lists them in chronologic order.
 
-```~/.ipfs/config for with more low hardware specs friendly settings
+~/.ipfs/config for with more low hardware specs friendly settings
+
+```~/.ipfs/config excerpt
 ...
   "Swarm": {
     "AddrFilters": null,
