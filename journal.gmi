@@ -2,6 +2,35 @@
 
 Bullet-journal style notes, tidbits and blurbs.
 
+## 2021-01-18, Monday
+
+* Extremely busy today for work as I'm in the process of ramping on a new project. Going to be building "Smart Edit" component on the Hybris Ecommerce system. We're also using React.js.
+* After one and a half years working with completely different tools the main challenge is now catching again with the latest developments and also getting the local machine to run all the servers and tools.
+* Daniel from ctrl.blog helped me fix the annoying issue of my home router crashing when I had the IPFS daemon running.
+* Have been learning more about how IPFS works. Intriguing stuff. Managed to get this modest gem capsule also on IPFS. Still need to see how IPNS addresses work in more detail. Thinking that making a "profile" drive, as in Beaker Browser shouldn't be too hard to set up in IPFS using IPNS.
+* Heydon Pickering's article on recreating hyperlinks using HTML divs and JavaScript is both hilarious and sad at the same time as I have actually seen people do this.
+* Haven't been on SSB in a couple of days because even-though there are really nice people on their, the last couple of days have seen a lot of new activity. And I just don't feel it at the moment.
+* On that note I also cleared up about a thousand Twitter "following" accounts that I really didn't need any longer.
+* So now I have a Twitter account were I have more followers than "following" connections.
+* Going through the "following" list on Twitter is like a trip down memory lane as Twitter lists them in chronologic order.
+
+```~/.ipfs/config for with more low hardware specs friendly settings
+...
+  "Swarm": {
+    "AddrFilters": null,
+    "ConnMgr": {
+      "GracePeriod": "20s",
+      "HighWater": 900,
+      "LowWater": 600,
+      "Type": "basic"
+    },
+}
+...
+```
+=> https://ctrl.blog
+=> https://docs.ipfs.io/concepts/ipns/#example-ipns-setup-with-cli "Example IPNS setup with cli"
+=> https://heydonworks.com/article/reinventing-the-hyperlink/ "Reinventing the hyperlink" by Heydon Pickering
+
 ## 2021-01-16, Saturday
 
 => gemlog/2021-01-16-week-update.gmi Since my daily entries have been less frequent, today's journal post is a full gemlog entry
@@ -104,5 +133,8 @@ johan@Surface:.../gemini/gem.johanbove.info$ du -h --exclude .git
 
 ──────────────────
 
-=> journal_2020-11-21-2020-12-20.gmi Journal Archive 2020-11-21 to 2020-12-20
 => / go home
+
+## Journal Archive
+
+=> journal_2020-11-21-2020-12-20.gmi 2020-11-21 to 2020-12-20

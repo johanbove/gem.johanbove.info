@@ -4,7 +4,7 @@
 
 Estd. November 2020 in Düsseldorf, Germany
 
-  Last modified: 2021-01-16
+  Last modified: 2021-01-18
 
 Welcome to Johan's Gemini capsule. Please join him while he explores the newly discovered Geminispace.
 
@@ -32,7 +32,7 @@ The preferred way of reaching out to him is by classic e-mail.
 IRC Freenode: jbove
 IRC Tilde.chat: johan
 
-SSB: @4XHLGF4UDOGiS5oqiDUjN97cKVBExloikIIGMiNjHq0=.ed25519
+Secure Scuttlebutt: @4XHLGF4UDOGiS5oqiDUjN97cKVBExloikIIGMiNjHq0=.ed25519
 
 Keybase: @johanbove
 Twitter: @johanbove
