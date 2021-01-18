@@ -19,7 +19,7 @@ Gemini is a new internet protocol which:
 ## Decentralized Mirrors
 
 - Hyperdrive: hyper://18a00729203eb3d60be56370ed0fcc9ce2baf784e7ba6d0bd4181de26b0df651/
-- IPFS: https://bafybeieybpbrlnv3uk27o5ymuprctjgy3krpjl3i7kn67fqv4rofbqkwy4.ipfs.dweb.link/
+- IPFS: https://k51qzi5uqu5dlaed085rfbn40f7z24buvngfeb4mmxnyac2yhpk48eo259ntyc.ipns.dweb.link/
 
 ## Setup
 ### post receive hook

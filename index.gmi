@@ -48,8 +48,13 @@ Here are his other Internet presences:
 => gemini://gem.johanbove.info This Gemini capsule
 => https://github.com/johanbove
 => ssb://4xhlgf4udogis5oqidujn97ckvbexloikiigminjhq0=.ed25519/ @johan on Secure Scuttlebutt 
-=> hyper://18a00729203eb3d60be56370ed0fcc9ce2baf784e7ba6d0bd4181de26b0df651/ This Gemini Capsule as a Hyperdrive with Beaker Browser
 
+## Site Mirros
+
+=> hyper://18a00729203eb3d60be56370ed0fcc9ce2baf784e7ba6d0bd4181de26b0df651/ Hyperdrive on the Hyperswarm with Beaker Browser
+=> https://k51qzi5uqu5dlaed085rfbn40f7z24buvngfeb4mmxnyac2yhpk48eo259ntyc.ipns.dweb.link/ IPFS mirror
+
+## Thank you!
 
 More to come later for sure...
 Thanks for visiting! 😎
