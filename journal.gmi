@@ -4,7 +4,7 @@ Bullet-journal style notes, tidbits and blurbs.
 
 ## 2021-01-18, Monday
 
-* Extremely busy today for work as I'm in the process of ramping on a new project. Going to be building "Smart Edit" component on the Hybris Ecommerce system. We're also using React.js.
+* Extremely busy today for work as I'm in the process of ramping up on a new project. Going to be building "Smart Edit" component on the Hybris Ecommerce system. We're also using React.js.
 * After one and a half years working with completely different tools the main challenge is now catching again with the latest developments and also getting the local machine to run all the servers and tools.
 * Daniel from ctrl.blog helped me fix the annoying issue of my home router crashing when I had the IPFS daemon running.
 * Have been learning more about how IPFS works. Intriguing stuff. Managed to get this modest gem capsule also on IPFS. Still need to see how IPNS addresses work in more detail. Thinking that making a "profile" drive, as in Beaker Browser shouldn't be too hard to set up in IPFS using IPNS.
@@ -23,9 +23,9 @@ Bullet-journal style notes, tidbits and blurbs.
   "Swarm": {
     "AddrFilters": null,
     "ConnMgr": {
-      "GracePeriod": "20s",
-      "HighWater": 900,
-      "LowWater": 600,
+      "GracePeriod": "60s",
+      "HighWater": 450,
+      "LowWater": 300,
       "Type": "basic"
     },
 }
