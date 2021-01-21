@@ -2,6 +2,25 @@
 
 Bullet-journal style notes, tidbits and blurbs.
 
+## 2021-01-21, Thurday
+
+* The proxy.vulpes.one Gemini and Gopher proxy is really excellent.
+* Catching up with the SAP Commerce / Hybris developments. The SAP documentation is challenging. Not easy to find what you need by simply searching. The URLs is not human friendly at all. It's a labyrinth with hints scathered here and there.
+* Installed Brave Browser. Totally supported the decentralized cause.
+* But as fellow "indiewebbers" pointed out, is the challenge of keeping data "pinned". Even with pinning-services like Pinata, it seems that reaching files is not straightforward. Also, the often scited and used Wikipedia Van Gogh page hasn't changed in the last three years. Sharing 88GB worth of data over IPFS is a challenge on its own.
+* Personally I believe IPFS really shines for exchanging data between trusted and known parties, like between friends and families. No need for any third party service for sharing messages, family pictures and even videos. Just need to find the right decentralized app to use.
+* Getting the hang of publishing files on IPFS with IPNS. Planning to try out _dyndns links too.
+* Created a personal IPNS "presence"
+* I'm going to have to redo my Apache SSI homepage to a statically generated site to be able to host it on IPFS.
+* Learning about Merkle-Dags.
+* Followed the inauguration yesterday. I'm not going to do politics here, but let's say it filled me with joy and warmth in my heart to see people really care for what they stand for and work hard with their entire soul and body to protect democracy and fight the blight on humanity that is fascism.
+
+=> https://proxy.vulpes.one/
+=> https://proto.school/merkle-dags/
+=> ipns://k51qzi5uqu5dhvw5e389n9c02e34sbipwungdz7uie5ykw9kwk05c7b2nrrq4l Me on the IPFS network
+=> https://dweb.link/ipns/k51qzi5uqu5dhvw5e389n9c02e34sbipwungdz7uie5ykw9kwk05c7b2nrrq4l HTTPS -> IPFS gateway proxy to my IPFS presence
+=> https://www.11ty.dev/docs/getting-started/ "Getting started" with Eleventy
+
 ## 2021-01-18, Monday
 
 * Extremely busy today for work as I'm in the process of ramping up on a new project. Going to be building "Smart Edit" component on the Hybris Ecommerce system. We're also using React.js.
