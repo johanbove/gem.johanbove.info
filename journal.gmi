@@ -2,7 +2,16 @@
 
 Bullet-journal style notes, tidbits and blurbs.
 
-## 2021-01-21, Thurday
+## 2021-01-24, Sunday
+
+* After spending some time setting up an Eleventy markdown to HTML parsing blog system, I really appreciate again what the gemini protocol is trying to achieve. If your goal is to simply publish your writing or share something online, you don't really need to look at HTML actually. You can just start typing in a text file and simply put that online as well. The gemini protocol just makes that file look a little friendlier and easier to achieve. No build process needed whatsoever is enlightening!
+* This is probably the reason why there are so many blog posts about setting up a blog. It's the first thing that really occupies the authors mind...
+* But I'm actually doing this exercise to provide an IPFS mirror of my private site over at https://johanbove.info. The plan is to replace the SSI Apache includes with fancy "Front Matter Data" and "collections" and layouts and such.
+
+=> https://www.11ty.dev/docs/ 11ty Docs
+=> https://www.11ty.dev/docs/data-cascade/ 11ty Data-Cascade
+
+## 2021-01-21, Thursday
 
 * The proxy.vulpes.one Gemini and Gopher proxy is really excellent.
 * Catching up with the SAP Commerce / Hybris developments. The SAP documentation is challenging. Not easy to find what you need by simply searching. The URLs is not human friendly at all. It's a labyrinth with hints scathered here and there.
