@@ -2,6 +2,16 @@
 
 Bullet-journal style notes, tidbits and blurbs.
 
+## 2021-01-28, Thursday
+
+* Got caught up with learning how to create a site with Eleventy and Nunjucks templates and also how to share files on IPFS with pinning services like Pinata.cloud.
+* Also work has been challenging... Lots of new things to learn!
+* Learning how to use TypeScript and create Storybook stories.
+
+=> https://mozilla.github.io/nunjucks/templating.html#if
+=> https://www.typescriptlang.org/
+=> https://storybook.js.org/
+
 ## 2021-01-24, Sunday
 
 * After spending some time setting up an Eleventy markdown to HTML parsing blog system, I really appreciate again what the gemini protocol is trying to achieve. If your goal is to simply publish your writing or share something online, you don't really need to look at HTML actually. You can just start typing in a text file and simply put that online as well. The gemini protocol just makes that file look a little friendlier and easier to achieve. No build process needed whatsoever is enlightening!
