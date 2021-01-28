@@ -1,4 +1,6 @@
-# Books And Short Stories
+# 📚 Books And Short Stories
+
+Not written by me. Just a couple of interesting reads I wanted to share.
 
 ## "The Machine Stops" by E.M. Forster (1909)
 => files/story-the_machine_stops.gmi

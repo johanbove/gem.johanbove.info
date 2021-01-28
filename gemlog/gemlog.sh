@@ -20,7 +20,7 @@
 # change configuration variables here to suit you
 ### be sure to also change the header and footer in build_entries! ###
 make_globals() {
-	global_title="Johan's Gemlog"
+	global_title="📰 Johan's Gemlog"
 	global_description="Short notes and blog posts by Johan Bové."
 	global_url="gemini://gem.johanbove.info/gemlog/" # link to base url of gemlog
 	global_author="Johan"
