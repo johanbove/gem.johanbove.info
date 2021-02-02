@@ -1,7 +1,11 @@
-# 📰 Johan's Gemlog
+# Johan's Gemlog
 
 Short notes and blog posts by Johan Bové.
+
+
 ## 2021
+
+=> gemini://gem.johanbove.info/gemlog/2021-02-01-considering-new-internet-connection.gmi 2021-02-01 — Considering changing our home internet connection
 
 => gemini://gem.johanbove.info/gemlog/2021-01-16-week-update.gmi 2021-01-16 — Week update of 2021-01-16
 

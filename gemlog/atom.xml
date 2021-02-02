@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Johan's Gemlog</title>
+  <title>📰 Johan's Gemlog</title>
   <subtitle>Short notes and blog posts by Johan Bové.</subtitle>
   <link rel='self' href='gemini://gem.johanbove.info/gemlog/atom.xml'/>
   <link rel='alternate' href='gemini://gem.johanbove.info/gemlog/index.gmi'/>
-  <updated>2021-01-16T16:40:14+01:00</updated>
+  <updated>2021-02-02T20:45:07+01:00</updated>
   <author>
     <name>Johan</name>
     <email>hello@johanbove.info</email>
@@ -13,6 +13,14 @@
   <id>gemini://gem.johanbove.info/gemlog/</id>
   <generator uri='https://tildegit.org/nytpu/gemlog.sh'>gemlog.sh</generator>
   <rights>© Johan - CC BY 4.0</rights>
+
+  <entry>
+    <title>Considering changing our home internet connection</title>
+    <id>gemini://gem.johanbove.info/gemlog/2021-02-01-considering-new-internet-connection.gmi</id>
+    <link rel='alternate' href='gemini://gem.johanbove.info/gemlog/2021-02-01-considering-new-internet-connection.gmi'/>
+    <updated>2021-02-01T12:00:00+01:00</updated>
+    <summary>You need a gemini client to view this post. If you have one installed, here is the link to the post: gemini://gem.johanbove.info/gemlog/2021-02-01-considering-new-internet-connection.gmi</summary>
+  </entry>
 
   <entry>
     <title>Week update of 2021-01-16</title>
