@@ -27,6 +27,6 @@ Bullet-journal style notes, tidbits and blurbs.
 
 ## Journal Archive
 
-=> journal_2020-11-21-2020-12-20.gmi 2020-11-21 to 2020-12-20
 => journal_2020-12-21-2021-01-28.gmi 2020-12-21 to 2021-01-28
+=> journal_2020-11-21-2020-12-20.gmi 2020-11-21 to 2020-12-20
 

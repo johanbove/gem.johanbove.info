@@ -181,4 +181,5 @@ johan@Surface:.../gemini/gem.johanbove.info$ du -h --exclude .git
 
 ## Journal Archive
 
+=> journal_2020-12-21-2021-01-28.gmi 2020-12-21 to 2021-01-28
 => journal_2020-11-21-2020-12-20.gmi 2020-11-21 to 2020-12-20
