@@ -2,176 +2,24 @@
 
 Bullet-journal style notes, tidbits and blurbs.
 
-## 2021-01-28, Thursday
+## 2021-02-07, Sunday
 
-* Got caught up with learning how to create a site with Eleventy and Nunjucks templates and also how to share files on IPFS with pinning services like Pinata.cloud.
-* Also work has been challenging... Lots of new things to learn!
-* Learning how to use TypeScript and create Storybook stories.
+* In the process of moving PC hardware.
+* Impressed by how easy it is through the Microsoft account and OneDrive. Didn't have to set up much, except for disabling some of their advertising / tracking attempts.
+* Got two HP Elite Desk 800 GM 2 (HP ELITEDESK 800 G2 DM) devices to replace our aging TV computer and my "old" Surface Pro 3 for about €400 each - for that money I got Intel Core i5 6.  Generation CPUs (4 x 3.20Ghz), 8 GB Ram and 500GB Samsung EVO 860 drives. The small form factor of these devices works well on my desk and for our TV computer. Max SDRam is 32GB so I have possibility for expansion and these devices come with an USB Type-C connector and M.2 slot.
+* Got these refurbished from RETEQ or Green Panda. RETEQ is a "Microsoft Authorized Refurbisher" since 2009. 
+* The devices come with only Acronis and Bullguard installed. No other annoying software, except for some Windows Store apps are "offered" with the purchase. Needless to stay I do not have the need for either package. I trust Microsoft Defender and my own private judgement for the security part and keep everything fairly backed up.
+* The idea is that I actually do not need a laptop privately and using a small desktop still makes the device portable in case I want to use it at my parent's in law place while also allowing the hardware to be easily upgraded. At least much easier than with the "tablet" style everything is glued device like the Surface. I just need a screen at their place and bring over a keyboard and mouse.
+* The catch with these devices is that the version I purchased did not include the "wireless connection" module. Not a biggy as I use cable connected ethernet. I got UB wireless dongles nevertheless in case I need it. Oh, and there is no bluetooth either.
+* When I was in the process of setting up the PCs I accidentally dropped a 2TB Toshiba external hard-drive from my desk and it passed away... Good thing the drive was my local storage back up drive of my NAS, so I still have all files backed up on another drive and in the cloud. It is annoying however that I lost this storage hardware so I need to replace it soon. Thinking of getting an "internal" hard-drive and using an enclosure instead of fixed external USB drive style device I broke.
+* Archived the logs in my journal to their own archive file. This file will be up for another twenty days or so.
+* Worked on my private site's migration to Eleventy as a static site generator. Figured I could also fix some styling and other issues.
+* Thinking of moving the now.johanbove.info sub domain also to the Eleventy site generator as this is currently a PHP template running on the web server - or I retire the whole thing as I'm not really keeping up with the tasks I mention on there.
 
-=> https://mozilla.github.io/nunjucks/templating.html#if
-=> https://www.typescriptlang.org/
-=> https://storybook.js.org/
-
-## 2021-01-24, Sunday
-
-* After spending some time setting up an Eleventy markdown to HTML parsing blog system, I really appreciate again what the gemini protocol is trying to achieve. If your goal is to simply publish your writing or share something online, you don't really need to look at HTML actually. You can just start typing in a text file and simply put that online as well. The gemini protocol just makes that file look a little friendlier and easier to achieve. No build process needed whatsoever is enlightening!
-* This is probably the reason why there are so many blog posts about setting up a blog. It's the first thing that really occupies the authors mind...
-* But I'm actually doing this exercise to provide an IPFS mirror of my private site over at https://johanbove.info. The plan is to replace the SSI Apache includes with fancy "Front Matter Data" and "collections" and layouts and such.
-
-=> https://www.11ty.dev/docs/ 11ty Docs
-=> https://www.11ty.dev/docs/data-cascade/ 11ty Data-Cascade
-
-## 2021-01-21, Thursday
-
-* The proxy.vulpes.one Gemini and Gopher proxy is really excellent.
-* Catching up with the SAP Commerce / Hybris developments. The SAP documentation is challenging. Not easy to find what you need by simply searching. The URLs is not human friendly at all. It's a labyrinth with hints scathered here and there.
-* Installed Brave Browser. Totally supported the decentralized cause.
-* But as fellow "indiewebbers" pointed out, is the challenge of keeping data "pinned". Even with pinning-services like Pinata, it seems that reaching files is not straightforward. Also, the often scited and used Wikipedia Van Gogh page hasn't changed in the last three years. Sharing 88GB worth of data over IPFS is a challenge on its own.
-* Personally I believe IPFS really shines for exchanging data between trusted and known parties, like between friends and families. No need for any third party service for sharing messages, family pictures and even videos. Just need to find the right decentralized app to use.
-* Getting the hang of publishing files on IPFS with IPNS. Planning to try out _dyndns links too.
-* Created a personal IPNS "presence"
-* I'm going to have to redo my Apache SSI homepage to a statically generated site to be able to host it on IPFS.
-* Learning about Merkle-Dags.
-* Followed the inauguration yesterday. I'm not going to do politics here, but let's say it filled me with joy and warmth in my heart to see people really care for what they stand for and work hard with their entire soul and body to protect democracy and fight the blight on humanity that is fascism.
-
-=> https://proxy.vulpes.one/
-=> https://proto.school/merkle-dags/
-=> ipns://k51qzi5uqu5dhvw5e389n9c02e34sbipwungdz7uie5ykw9kwk05c7b2nrrq4l Me on the IPFS network
-=> https://dweb.link/ipns/k51qzi5uqu5dhvw5e389n9c02e34sbipwungdz7uie5ykw9kwk05c7b2nrrq4l HTTPS -> IPFS gateway proxy to my IPFS presence
-=> https://www.11ty.dev/docs/getting-started/ "Getting started" with Eleventy
-
-## 2021-01-18, Monday
-
-* Extremely busy today for work as I'm in the process of ramping up on a new project. Going to be building "Smart Edit" component on the Hybris Ecommerce system. We're also using React.js.
-* After one and a half years working with completely different tools the main challenge is now catching again with the latest developments and also getting the local machine to run all the servers and tools.
-* Daniel from ctrl.blog helped me fix the annoying issue of my home router crashing when I had the IPFS daemon running.
-* Have been learning more about how IPFS works. Intriguing stuff. Managed to get this modest gem capsule also on IPFS. Still need to see how IPNS addresses work in more detail. Thinking that making a "profile" drive, as in Beaker Browser shouldn't be too hard to set up in IPFS using IPNS.
-* Heydon Pickering's article on recreating hyperlinks using HTML divs and JavaScript is both hilarious and sad at the same time as I have actually seen people do this.
-* Haven't been on SSB in a couple of days because even-though there are really nice people on their, the last couple of days have seen a lot of new activity. And I just don't feel it at the moment.
-* On that note I also cleared up about a thousand Twitter "following" accounts that I really didn't need any longer.
-* So now I have a Twitter account were I have more followers than "following" connections.
-* Going through the "following" list on Twitter is like a trip down memory lane as Twitter lists them in chronologic order.
-
-### ipfs config snippet
-
-~/.ipfs/config for with more low hardware specs friendly settings
-
-```~/.ipfs/config excerpt
-...
-  "Swarm": {
-    "AddrFilters": null,
-    "ConnMgr": {
-      "GracePeriod": "60s",
-      "HighWater": 450,
-      "LowWater": 300,
-      "Type": "basic"
-    },
-}
-...
-```
-=> https://ctrl.blog
-=> https://docs.ipfs.io/concepts/ipns/#example-ipns-setup-with-cli "Example IPNS setup with cli"
-=> https://heydonworks.com/article/reinventing-the-hyperlink/ "Reinventing the hyperlink" by Heydon Pickering
-
-## 2021-01-16, Saturday
-
-=> gemlog/2021-01-16-week-update.gmi Since my daily entries have been less frequent, today's journal post is a full gemlog entry
-
-
-## 2021-01-09, Saturday
-
-* Trying to make the switch to Signal. It's going to take a while for everyone in my contacts to make the move. The Signal blog is full of interesting topics.
-* Registered on "Mein Grundeinkommen" - my basic income and joined the raffle. Didn't realize this has been going on since 2014 already in Germany! Also started to share a little monthly contribution to this interesting experiment.
-
-=> https://signal.org/blog/secure-value-recovery/ "Secure Value Recovery" blog post
-=> https://www.mein-grundeinkommen.de/
-
-## 2021-01-08, Friday
-
-* Inspired by the “Doughnut Economy” book by Kate Raworth and others. Thinking about how I can contribute to this idea. The “Circular Economy” is really how we all should think about our daily lives and work. And the Donut is a great way to talk about this. Haven’t finished the book. Yet, but have been also watching many of the informative videos by the Doughnut Economics Action Lab.
-* A week just flew by.
-
-=> https://www.youtube.com/watch?v=Ziw-wK03TSw Short introduction and how the framework is being applied in Amsterdam.
-=> https://www.kateraworth.com/animations/ Animations explaining the economic principles of the Doughnut economy
-=> https://goodlife.leeds.ac.uk/ "A Good Life For All Within Planetary Boundaries"
-=> https://www.youtube.com/watch?v=ZZnyZuiesMY "Doughnut Economics" lecture by Kate Raworth
-=> https://www.youtube.com/watch?v=ZZnyZuiesMY TED Talk "A healthy economy should be designed to thrive, not grow"
-
-## 2021-01-04, Monday
-
-* Spent practically the whole day with my son together. It is both wonderful and so tiring. But it feels amazing to see him grow and become his own person.
-* Cancelling my Payback account after finally realizing it is all just a marketing scan to get your consumption data.
-* Changing bank accounts takes patience and resilience. Going through the process of switching banks and there are many things to consider. But getting somewhere.
-* Finally finished the "How To" book by Randal Munroe.
-* Started a challenge to read at least 20 books in 2021 and published it on Goodreads.
-
-## 2020-12-29, Tuesday
-
-* My son is three!
-* We visited a real castle with a cool playground in the morning and had a birthday party with his grand parents on Skype with lots of presents. And then he made his own pizzas. We had a real fun day, all things considering!
-* He got a Tonies Audiobook figuring speaker; designed in Düsseldorf.
-
-> The Toniebox is an imagination-building, screen-free digital listening experience that plays stories, songs, and more.
-
-=> https://tonies.de/
-=> https://us.tonies.com/
-
-## 2020-12-28, Monday
-
-* Even-though the weather is very unpleasant we managed to have some fun outside at the playground. N. loves it to run through the puddles and going on the swing.
-* We wrapped his presents for his birthday tomorrow. He's going to be three.
-* I am exhausted but have never been happier in my life.
-
-## 2020-12-27, Sunday
-
-* Got a bunch of cool old Mini-Discs and was planning to erase them for my own music, but they contain really nice German cultural radio (Kultur Radio "The Voice") recordings - so now I want to transfer these recordings first back to MP3.
-* Watched "The Gruffalo" stories on the movie version tonight with my son. He loves books and was really in this.
-* He also got visibly angry earlier today. So I tried to make him do the "Indian Stare" to cool him off. He's also good at break-dancing. He's full of energy and life.
-
-## 2020-12-25, Thursday
-
-* Feeling fortunate and grateful to be able to spend this wonderful time together with my family. Thinking of everyone who cannot be with us this year. Makes me realize to make sure to make the best of every moment we have together.
-* Wonderful time with the family today. My son is the reason why I am alive.
-* My Astrobotany plan "Vita" gave a seedling "Timothy".
-* I miss hand-writing in my bullet journal. But I simply haven't found the time to do so; mostly the cost of also wanting to keep this digital version of this journal.
-* Intrigued by the "100 Year Old Computer" post by Steve Lord on the "The Dork Web"; to bad it doesn't exist and would have to be build by hand. A lot of points in the article are near to my fears and worries in the sense that if all software comes "as a service", we'll be forever dependent on corporations to provide us access to that software - unless we take things into our hands through open-source. It's even worse when it comes down to building your own hardware.
-
-=> https://thedorkweb.substack.com/p/the-100-year-computer "The 100 Year Old Heirloom Computer"
-
-## 2020-12-24, Wednesday
-
-* This Christmas period I spent about €100 on shipping costs to get presents to our #family which we otherwise would have brought ourselves. Very happy to have the #post still functioning as normally as it can be. This kinda must have been how it felt like when people were not so mobile and had to rely on the post to deliver their things.
-* But it's frustrating to see how the packages get stuck while in transit. The sheer volume of packages this year makes it a real challenge to get anything delivered on time apparently.
-
-## 2020-12-22, Tuesday
-
-* My three year old boy watched the beginning of Wall-E and got really emotional when Wall-E had to say goodbye to his friend HAL the cockroach after chasing after EVE. We stopped the movie there and tried to console him. It's so sweet to see how pure-of-heart he is.
-* He misses his Nonna & Nonna a lot. We have a routine where he jumps on our bed, something he started doing while being at his grandparent's house and today he stopped after a couple of jumps and got really sad. He told me later why. He's such a beautiful sensitive kid. I love him with all of my being.
-* Finally able to record TOSLINK digital in to MiniDisc thanks to the "new" external sound card. Seems to be working well to keep tracks separated. Can't tell if the quality is any better. Later I would also like to try the microphone recording.
-* I realize that I got really tired of the HTTP Web because of how stupid commercial it all is. Social-media influencers, live streamers, cookie advertisements, it's all big bucks. Luckily there is still some of a section of the Web left for actual people. I keep repeating myself, but this is exactly why I am here on Gemini (and Beaker Browser). Oh, and if you're reading this on my Github back up repo, then thanks for dropping by, but you should really get a nice Gemini client and experience what this is all about.
-* The Gemini mailing list can get fierce sometimes. I guess this is to be expected when many people, like myself, see an emotional way-out of the state of the Web with Gemini. It's all good drama and well-behaved still. Personally I believe Gemini should be kept as simple as possible, and only patches for clear failures and security issues should happen in the specs. I'm not one to write specs really, or protocols in general, so will not go into the topic any further.
-* Wondering to set up a Beaker Browser hyperdrive to store a copy of the minidisc.org website. There is a ton of information on that site. Let's not all just bet on the "Internet Archive" alone.
-* You know what is again so cool about Gemini? It's mostly pure plain text so my whole Gemini Capsule is not even a Megabyte in size in total.
-
-```bash
-johan@Surface:.../gemini/gem.johanbove.info$ du -h --exclude .git
-96K     ./files
-53K     ./gemlog
-448K    ./images
-678K    .
-```
-
-=> https://www.minidisc.org/ minidisc.org
-=> https://www.reddit.com/r/minidisc/ reddit.com/r/minidisc
-
-## 2020-12-21, Monday
-
-* My son is sleeping in his "big boy's" bed for the first time tonight. Spent a lot of time and effort proofing his room and cleaning it up. Putting the bed together also took a little more time than I expected.
-* Received the Aureon Fire8 HD I got from ebay. No drivers necessary apparently. The ones you find online cannot be installed on Windows 10. But it all works without. Planning to use it to record some music to the minidisc.
-* The "Privacy Not Included" list published and maintained by Mozilla is basically making me hate most new tech available today.
-* So tired too of having to log into sites like Youtube - all the freakin' time - just because I don't want to accept those damned cookies. Really, the Web sucks.
-
-=> https://foundation.mozilla.org/en/privacynotincluded/
+=> https://greenpanda.de
+=> https://www.reteq.eu/
+=> https://www.greenpanda.de/gebrauchte-pc/HP-ELITEDESK-800-G2-DM/?card=21261&variant=001A
+=> https://now.johanbove.info
 
 ──────────────────
 
@@ -180,3 +28,5 @@ johan@Surface:.../gemini/gem.johanbove.info$ du -h --exclude .git
 ## Journal Archive
 
 => journal_2020-11-21-2020-12-20.gmi 2020-11-21 to 2020-12-20
+=> journal_2020-12-21-2021-01-28.gmi 2020-12-21 to 2021-01-28
+
