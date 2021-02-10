@@ -4,6 +4,7 @@ Bullet-journal style notes, tidbits and blurbs.
 
 ## 2021-02-07, Sunday
 
+* Had fun with my son in the snow going down the hill in the sled.
 * In the process of moving PC hardware.
 * Impressed by how easy it is through the Microsoft account and OneDrive. Didn't have to set up much, except for disabling some of their advertising / tracking attempts.
 * Got two HP Elite Desk 800 GM 2 (HP ELITEDESK 800 G2 DM) devices to replace our aging TV computer and my "old" Surface Pro 3 for about €400 each - for that money I got Intel Core i5 6.  Generation CPUs (4 x 3.20Ghz), 8 GB Ram and 500GB Samsung EVO 860 drives. The small form factor of these devices works well on my desk and for our TV computer. Max SDRam is 32GB so I have possibility for expansion and these devices come with an USB Type-C connector and M.2 slot.
