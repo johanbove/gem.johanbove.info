@@ -2,6 +2,26 @@
 
 Bullet-journal style notes, tidbits and blurbs.
 
+
+## 2021-02-15, Monday
+
+- We're still under the COVID ban in Germany - the lockdown has been extended for another two weeks at least. It is starting to wear down on us.
+- My son is the light in my life at the moment. He is so full of wonder, innocence and joy. I am really proud to be his dad.
+- We are having good fun playing together with the blocks and building train tracks. He also loves to chase and play "Paw Patrol".
+- He's talking alot and we love it when he explains things to us and sings songs.
+- We started doing Khan Academy Kids some time ago and I think he likes doing the exercises and games. It is a really well made application. It works good even on the otherwise really slow DragonTouch kids tablet we got him.
+- The new HP PC has been holding up. Got a new external keyboard too. A Thinkpad Compact keyboard with built-in TrackPoint. Trying using the computer without an additional mouse and relying only on the TrackPoint. It is a bit of slow getting used to. If you stay within "text" world, the TrackPoint is enough. It's only while browsing the Web when it takes a bit of patience to get around. Still hopeful that soon I'll be faster with it. Also missing lighted keys a bit. I often find myself having to look at the keyboard to find the right keys. The left Fn and CTRL keys are tricky.
+- Wondering what to do with my old Surface Pro 3 now. The keyboard is frayed, but otherwise it still functions as good as you can expect. The battery life is really low and the fan spins like crazy, but otherwise it could still be used. Perhaps I keep it as it is the only device we have in the house that has a pen input and N. likes to draw on it using Freshpaint.
+- Learning more about IPFS and FileCoin.
+- Also registered on Flattr.com and the Brave Creators Network. Essentially to try these tools out. Not expecting any real "income" from these services.
+- Using Brave Browser as my primary browser now since a couple of weeks. I like how many new technologies it bolsters.
+- Installed Delta.chat on my PC and Android phone. It's an applciation layer on top of Email with an UI that behaves like an instant messaging application.
+- Got Dai today for €20 worth. Earlier this week also bought €20 worth of BAT. Gave €10 to Daniel from ctrl.blog for his help and his interesting articles.  
+
+=> https://delta.chat
+=> https://flattr.com/faq#what-is-flattr What is Flattr?
+=> https://proto.school/verifying-storage-on-filecoin "Proto School: Verifying storage on Filecoin"
+
 ## 2021-02-07, Sunday
 
 * Had fun with my son in the snow going down the hill in the sled.
