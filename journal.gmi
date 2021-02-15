@@ -13,14 +13,16 @@ Bullet-journal style notes, tidbits and blurbs.
 - The new HP PC has been holding up. Got a new external keyboard too. A Thinkpad Compact keyboard with built-in TrackPoint. Trying using the computer without an additional mouse and relying only on the TrackPoint. It is a bit of slow getting used to. If you stay within "text" world, the TrackPoint is enough. It's only while browsing the Web when it takes a bit of patience to get around. Still hopeful that soon I'll be faster with it. Also missing lighted keys a bit. I often find myself having to look at the keyboard to find the right keys. The left Fn and CTRL keys are tricky.
 - Wondering what to do with my old Surface Pro 3 now. The keyboard is frayed, but otherwise it still functions as good as you can expect. The battery life is really low and the fan spins like crazy, but otherwise it could still be used. Perhaps I keep it as it is the only device we have in the house that has a pen input and N. likes to draw on it using Freshpaint.
 - Learning more about IPFS and FileCoin.
-- Also registered on Flattr.com and the Brave Creators Network. Essentially to try these tools out. Not expecting any real "income" from these services.
+- Also registered on Flattr.com and the Brave Creators Network. Essentially to try these tools out. Not expecting any real "income" from these services. Also installed Flattr to start supporting "content creators" directly instead of ads. Since I'm blocking most ads it only seemed fair to provide a different way of supporting the sources I enjoy and rely on. Next to our subscriptions which we have for a lot of news papers and publications, I think we're doing our share in supporting the industry. And for once the money is not going to Google as well. Let's give the smaller companies also a chance.
 - Using Brave Browser as my primary browser now since a couple of weeks. I like how many new technologies it bolsters.
-- Installed Delta.chat on my PC and Android phone. It's an applciation layer on top of Email with an UI that behaves like an instant messaging application.
+- Installed Delta.chat on my PC and Android phone. It's an application layer on top of Email with an UI that behaves like an instant messaging application.
 - Got Dai today for €20 worth. Earlier this week also bought €20 worth of BAT. Gave €10 to Daniel from ctrl.blog for his help and his interesting articles.  
 
 => https://delta.chat
 => https://flattr.com/faq#what-is-flattr What is Flattr?
+=> https://docs.filecoin.io/
 => https://proto.school/verifying-storage-on-filecoin "Proto School: Verifying storage on Filecoin"
+=> https://brave.com
 
 ## 2021-02-07, Sunday
 
