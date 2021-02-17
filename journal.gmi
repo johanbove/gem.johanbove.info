@@ -6,7 +6,8 @@ Bullet-journal style notes, tidbits and blurbs.
 
 * Feeling bad how I have been neglecting writing in my paper bullet journal since months now. Wrote some sentences today just because and my hand-writing deteriorated terribly. It's such a good practice to do instead of typing. Forming the words by hand feels more sincere. However the medium of a flat piece, with all its advantages, has a hard time competing with the power of digital files and the Internet.
 * Also, I forgot in my previous entry that lists in Gemini syntax start with the asterix and not a minus.
-
+* Found that the Delta Chat people over on the #deltachat Freenode chat room are nice and helpful. Seems like a great project.
+* Listened to the Flemish Nerdland Maandoverzicht of February 2021 today.
 
 ## 2021-02-15, Monday
 
