@@ -2,34 +2,45 @@
 
 Bullet-journal style notes, tidbits and blurbs.
 
+## 2021-02-17, Wednesday
+
+* Feeling bad how I have been neglecting writing in my paper bullet journal since months now. Wrote some sentences today just because and my hand-writing deteriorated terribly. It's such a good practice to do instead of typing. Forming the words by hand feels more sincere. However the medium of a flat piece, with all its advantages, has a hard time competing with the power of digital files and the Internet.
+* Also, I forgot in my previous entry that lists in Gemini syntax start with the asterix and not a minus.
+
 
 ## 2021-02-15, Monday
 
-- We're still under the COVID ban in Germany - the lockdown has been extended for another two weeks at least. It is starting to wear down on us.
-- My son is the light in my life at the moment. He is so full of wonder, innocence and joy. I am really proud to be his dad.
-- We are having good fun playing together with the blocks and building train tracks. He also loves to chase and play "Paw Patrol".
-- He's talking alot and we love it when he explains things to us and sings songs.
-- We started doing Khan Academy Kids some time ago and I think he likes doing the exercises and games. It is a really well made application. It works good even on the otherwise really slow DragonTouch kids tablet we got him.
-- The new HP PC has been holding up. Got a new external keyboard too. A Thinkpad Compact keyboard with built-in TrackPoint. Trying using the computer without an additional mouse and relying only on the TrackPoint. It is a bit of slow getting used to. If you stay within "text" world, the TrackPoint is enough. It's only while browsing the Web when it takes a bit of patience to get around. Still hopeful that soon I'll be faster with it. Also missing lighted keys a bit. I often find myself having to look at the keyboard to find the right keys. The left Fn and CTRL keys are tricky.
-- Wondering what to do with my old Surface Pro 3 now. The keyboard is frayed, but otherwise it still functions as good as you can expect. The battery life is really low and the fan spins like crazy, but otherwise it could still be used. Perhaps I keep it as it is the only device we have in the house that has a pen input and N. likes to draw on it using Freshpaint.
-- Learning more about IPFS and FileCoin.
-- Also registered on Flattr.com and the Brave Creators Network. Essentially to try these tools out. Not expecting any real "income" from these services. Also installed Flattr to start supporting "content creators" directly instead of ads. Since I'm blocking most ads it only seemed fair to provide a different way of supporting the sources I enjoy and rely on. Next to our subscriptions which we have for a lot of news papers and publications, I think we're doing our share in supporting the industry. And for once the money is not going to Google as well. Let's give the smaller companies also a chance.
-- Using Brave Browser as my primary browser now since a couple of weeks. I like how many new technologies it bolsters.
-- Installed Delta.chat on my PC and Android phone. It's an application layer on top of Email with an UI that behaves like an instant messaging application.
-- Got Dai today for €20 worth. Earlier this week also bought €20 worth of BAT. Gave €10 to Daniel from ctrl.blog for his help and his interesting articles.  
+* We're still under the COVID ban in Germany; the lockdown has been extended for another two weeks at least. It is starting to wear down on us.
+* My son is the light in my life at the moment. He is so full of wonder, innocence and joy. I am really proud to be his dad.
+* We are having good fun playing together with the blocks and building train tracks. He also loves to chase and play "Paw Patrol".
+* He's talking alot and we love it when he explains things to us and sings songs.
+* We started doing Khan Academy Kids some time ago and I think he likes doing the exercises and games. It is a really well made application. It works good even on the otherwise really slow DragonTouch kids tablet we got him.
+* The new HP PC has been holding up. Got a new external keyboard too. A Thinkpad Compact keyboard with built-in TrackPoint. Trying using the computer without an additional mouse and relying only on the TrackPoint. It is a bit of slow getting used to. If you stay within "text" world, the TrackPoint is enough. It's only while browsing the Web when it takes a bit of patience to get around. Still hopeful that soon I'll be faster with it. Also missing lighted keys a bit. I often find myself having to look at the keyboard to find the right keys. The left Fn and CTRL keys are tricky.
+* Wondering what to do with my old Surface Pro 3 now. The keyboard is frayed, but otherwise it still functions as good as you can expect. The battery life is really low and the fan spins like crazy, but otherwise it could still be used. Perhaps I keep it as it is the only device we have in the house that has a pen input and N. likes to draw on it using Freshpaint.
+* Learning more about IPFS and FileCoin.
+* Also registered on Flattr.com and the Brave Creators Network. Essentially to try these tools out. Not expecting any real "income" from these services. Also installed Flattr to start supporting "content creators" directly instead of ads. Since I'm blocking most ads it only seemed fair to provide a different way of supporting the sources I enjoy and rely on. Next to our subscriptions which we have for a lot of news papers and publications, I think we're doing our share in supporting the industry. And for once the money is not going to Google as well. Let's give the smaller companies also a chance.
+* Using Brave Browser as my primary browser now since a couple of weeks. I like how many new technologies it bolsters.
+* Installed Delta.chat on my PC and Android phone. It's an application layer on top of Email with an UI that behaves like an instant messaging application.
+* Got Dai today for €20 worth. Earlier this week also bought €20 worth of BAT. Gave €10 to Daniel from ctrl.blog for his help and his interesting articles.
+* Also received the new 2TB hard drive and the aluminium enclosure to keep our photographs in safely.
+* Ordered an USB 3 extension and SD card reader over USB Type-C on Ebay. Trying to avoid Amazon as much as I can.
+* Got the "Designing an Internet" book by Dave C. Clarke today. Putting it high on my to-read list.
+* Still reading the "Weaving the Web" book by Sir Tim Berners Lee... It's amazing to read about things like _Xanadu_ by Ted Nelson which basically describes the micro-payments idea now being implied in Brave and the other tools I recently started with.
 
 => https://delta.chat
 => https://flattr.com/faq#what-is-flattr What is Flattr?
 => https://docs.filecoin.io/
 => https://proto.school/verifying-storage-on-filecoin "Proto School: Verifying storage on Filecoin"
 => https://brave.com
+=> https://en.wikipedia.org/wiki/Project_Xanadu
+
 
 ## 2021-02-07, Sunday
 
 * Had fun with my son in the snow going down the hill in the sled.
 * In the process of moving PC hardware.
 * Impressed by how easy it is through the Microsoft account and OneDrive. Didn't have to set up much, except for disabling some of their advertising / tracking attempts.
-* Got two HP Elite Desk 800 GM 2 (HP ELITEDESK 800 G2 DM) devices to replace our aging TV computer and my "old" Surface Pro 3 for about €400 each - for that money I got Intel Core i5 6.  Generation CPUs (4 x 3.20Ghz), 8 GB Ram and 500GB Samsung EVO 860 drives. The small form factor of these devices works well on my desk and for our TV computer. Max SDRam is 32GB so I have possibility for expansion and these devices come with an USB Type-C connector and M.2 slot.
+* Got two HP Elite Desk 800 GM 2 (HP ELITEDESK 800 G2 DM) devices to replace our aging TV computer and my "old" Surface Pro 3 for about €400 each * for that money I got Intel Core i5 6.  Generation CPUs (4 x 3.20Ghz), 8 GB Ram and 500GB Samsung EVO 860 drives. The small form factor of these devices works well on my desk and for our TV computer. Max SDRam is 32GB so I have possibility for expansion and these devices come with an USB Type-C connector and M.2 slot.
 * Got these refurbished from RETEQ or Green Panda. RETEQ is a "Microsoft Authorized Refurbisher" since 2009. 
 * The devices come with only Acronis and Bullguard installed. No other annoying software, except for some Windows Store apps are "offered" with the purchase. Needless to stay I do not have the need for either package. I trust Microsoft Defender and my own private judgement for the security part and keep everything fairly backed up.
 * The idea is that I actually do not need a laptop privately and using a small desktop still makes the device portable in case I want to use it at my parent's in law place while also allowing the hardware to be easily upgraded. At least much easier than with the "tablet" style everything is glued device like the Surface. I just need a screen at their place and bring over a keyboard and mouse.
@@ -37,7 +48,7 @@ Bullet-journal style notes, tidbits and blurbs.
 * When I was in the process of setting up the PCs I accidentally dropped a 2TB Toshiba external hard-drive from my desk and it passed away... Good thing the drive was my local storage back up drive of my NAS, so I still have all files backed up on another drive and in the cloud. It is annoying however that I lost this storage hardware so I need to replace it soon. Thinking of getting an "internal" hard-drive and using an enclosure instead of fixed external USB drive style device I broke.
 * Archived the logs in my journal to their own archive file. This file will be up for another twenty days or so.
 * Worked on my private site's migration to Eleventy (11ty) as a static site generator. Figured I could also fix some styling and other issues.
-* Thinking of moving the now.johanbove.info sub domain also to the Eleventy site generator as this is currently a PHP template running on the web server - or I retire the whole thing as I'm not really keeping up with the tasks I mention on there.
+* Thinking of moving the now.johanbove.info sub domain also to the Eleventy site generator as this is currently a PHP template running on the web server * or I retire the whole thing as I'm not really keeping up with the tasks I mention on there.
 
 => https://greenpanda.de
 => https://www.reteq.eu/
