@@ -4,7 +4,7 @@
 
 Estd. November 2020 in Düsseldorf, Germany
 
-  Last modified: 2021-02-17
+  Last modified: 2021-02-23
 
 Welcome to Johan's Gemini capsule. Please join him while he explores the newly discovered Geminispace.
 
@@ -51,7 +51,7 @@ Here are his other Internet presences:
 
 ## Site Mirrors
 
-=> hyper://18a00729203eb3d60be56370ed0fcc9ce2baf784e7ba6d0bd4181de26b0df651/ Hyperdrive on the Hyperswarm with Beaker Browser
+=> ipns://gem.johanbove.info IPNS mirror
 => https://k51qzi5uqu5dlaed085rfbn40f7z24buvngfeb4mmxnyac2yhpk48eo259ntyc.ipns.dweb.link/ IPFS mirror
 
 ## Thank you!
