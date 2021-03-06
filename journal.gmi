@@ -2,6 +2,31 @@
 
 Bullet-journal style notes, tidbits and blurbs.
 
+## 2021-03-06, Saturday
+
+A collection of things I shared elsewhere and here.
+
+* Extremely Covid-lockdown tired. I really feel it's been enough now and long to be free again. But we're staying strong in face of my son and family. I'm dreaming about being able to visit places again normally.
+* Dad's operation has been post-poned to next week.
+* My son is growing up so fast.
+* I have fond memories of browsing through my parent's record collection as a kid. We had a record player and I just was amazed by putting on records and looking at the needle following the groove. How can this feeling of discovery and wonder ever by recreated digitally in this streaming age? 
+* Dragons Rescue Riders by DreamWorks on Netflix is witty, original, charming and my son loves it. Recommended.
+* My 3-year old son called me with my first name after I didn't respond fast enough while I was doing dishes. He seemed so grown-up all of a sudden.
+* Idea: muting milked-out memes on social-media to avoid timelines filling up with too many repetitions / versions of the same thing over and over again.
+* I'm in a love-hate relationship with TypeScript since a couple of weeks.
+* I wish that people, who spent real money on #NFT s, would also donate some of that money to #charity . Like https://www.stbaldricks.org, a foundation which wants to eradicate childhood cancers.
+* My favourite karaoke songs are Three Doors Down 's "Kryptonite" And "The Pretender" by Foo Fighters. Which one's your staple shout-along song? 
+* My three year old said today for the first time that he wants to be a dump truck driver when he's "big".
+* Really proud of my son's comedic timing. He's only three but shows already that he has a great sense of humor.
+* Found a big bumble bee the other day already up and groggy. Perhaps it was a queen. Couldn't take a picture because I didn't have my phone on me. Tried to put the bee in safety. It felt like it was awake from hibernation way too soon!
+* Going Wire-less. Cancelling my Wired subscription. Have been a bit disappointed by the articles and the site. Also, Condé Nast's "subscription" system is a mess. Couldn't really get to the "cancelling" page easily. Luckily Paypal made it easy to stop the recurring payments. Feeling sad about this actually. Feels like the end of an era to me.
+* Spent time reading and learning about Cardano. It's an interesting project for sure. Wondering again what to do with this.
+* Having some trouble with Brave and the IPFS companion. The IPFs Companion app no longer shows the status of the IPFS server within Brave. The companion still works in Firefox.
+* At first I thought to give this browser a try, but it's advertisement model is actually more annoying than other browsers as these don't have the ads built into them. Brave boasts that it blocks ads, you still see ads in the browser, plus on top you get these notifications within your OS of mostly crypto / fintech related ads. Supposedly you get "paid" for having this active, but the amount is simply not worth the distraction it generates.
+* Again, enjoying how easy it is to write on Gemini as the classic Web is so heavy on "design" and "features", that people lose track of what really matters.
+
+=> https://cardano.org/
+
 ## 2021-02-23, Tuesday
 
 * This week is turning out to be one of those periods where it would be really nice to have family nearby.
