@@ -2,6 +2,15 @@
 
 Bullet-journal style notes, tidbits and blurbs.
 
+## 2021-03-07, Sunday
+
+* Watched the Perseverance Mars landing highlights with my son for the first time today and we both got emotional about it. I because of the fact that I was able to share such an important moment with him. He got sad because of how he realized that Perseverance is all alone there. I tried to console by telling him we are constantly in connection with the robot and he has satellite and the little helicopter to keep the robot company. He has such a big heart.
+* He also loved the Boston Dynamics robots dancing video a lot.
+
+=> https://www.youtube.com/watch?v=fn3KWM1kuAw "Do You Love Me?" Boston Dynamics robots dancing
+=> https://mars.nasa.gov/news/8881/media-telecon-materials-march-5-2021/
+=> https://spaceplace.nasa.gov/mars-2020/en/ Spaceplace Nasa For Kids
+
 ## 2021-03-06, Saturday
 
 A collection of things I shared elsewhere and here.
@@ -22,7 +31,7 @@ A collection of things I shared elsewhere and here.
 * Going Wire-less. Cancelling my Wired subscription. Have been a bit disappointed by the articles and the site. Also, Condé Nast's "subscription" system is a mess. Couldn't really get to the "cancelling" page easily. Luckily Paypal made it easy to stop the recurring payments. Feeling sad about this actually. Feels like the end of an era to me.
 * Spent time reading and learning about Cardano. It's an interesting project for sure. Wondering again what to do with this.
 * Having some trouble with Brave and the IPFS companion. The IPFs Companion app no longer shows the status of the IPFS server within Brave. The companion still works in Firefox.
-* At first I thought to give this browser a try, but it's advertisement model is actually more annoying than other browsers as these don't have the ads built into them. Brave boasts that it blocks ads, you still see ads in the browser, plus on top you get these notifications within your OS of mostly crypto / fintech related ads. Supposedly you get "paid" for having this active, but the amount is simply not worth the distraction it generates.
+* At first I thought to give this browser a try, but its advertisement model is actually more annoying than other browsers as these don't have the ads built into them. Brave boasts that it blocks ads, you still see ads in the browser, plus on top you get these notifications within your OS of mostly crypto / fintech related ads. Supposedly you get "paid" for having this active, but the amount is simply not worth the distraction it generates.
 * Again, enjoying how easy it is to write on Gemini as the classic Web is so heavy on "design" and "features", that people lose track of what really matters.
 
 => https://cardano.org/
