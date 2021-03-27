@@ -1,0 +1,13 @@
+# Pausing my Gemini capsule
+
+It's a fact that most people consider the _World Wide Web_, on the familiar HTTP protocol, as the main Internet and only a very small number of people are aware of the existence of the Gemini protocol.
+
+The last weeks I have been neglecting my _Gemini_ capsule on the Gemini protocol to focus on my main "Web Presence". I have been enjoying working on my HTTP site's design again;
+doing so allowed me to refresh my CSS skills by experimenting with the latest techniques.
+
+So I made the decision to pause any new updates to my Gemini capsule for now. I won't take the server offline yet. However, it might go away entirely some day.
+
+The "Gemini" effort is still interesting and I see why many people will keep publishing there. I'm just putting my own focus back on the classic WWW again.
+
+At least for a while.
+
