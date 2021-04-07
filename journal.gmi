@@ -5,7 +5,8 @@ Bullet-journal style notes, tidbits and blurbs.
 ## 2021-04-07, Wednesday
 
 * Forgot how easy it was to simply jot things down in a file and throw it up on the Gemini capsule for writing something. So here we are with an update.
-* I got a finger nail infection on my left index finger, the condition is called _Paronychia_; it appeared suddenly and got swollen pretty fast and the infection became visible; so I went to the doctor and they decided to "drain" it. A bit painful, but it was good to have it done. Now my finger is wrapped in a lot of sterile gaze at least until next week. It's a bit annoying for typing. I was afraid of having more pain; but it has been manageable until now. Feeling fortunate about the German medical system. Apart from the pain killer, ibuprofen, I didn't have to pay a single Euro cent. 
+* I got a finger nail infection on my left index finger, the condition is called _Paronychia_; it appeared suddenly and got swollen pretty fast and the infection became visible; so I went to the doctor and they decided to "drain" it. A bit painful, but it was good to have it done. Now my finger is wrapped in a lot of sterile gaze at least until next week. It's a bit annoying for typing. I was afraid of having more pain; but it has been manageable until now. Feeling fortunate about the German medical system. Apart from the pain killer, ibuprofen, I didn't have to pay a single Euro cent.
+* Wanted to exchange some of the XLM I got through the Keybase Airdrops to Nano. Found swapzone.io which uses Exolix - so I got all the addresses ready after copying the values from the swapzone.io page - but forgot about the importance of the _memo_ field. I didn't copy paste the right number in there. The result: a rejected transaction - while my XLM coins did proceed happily to Exolix's address. Hoping I get to see some of the coins back some day...
 
 => https://en.wikipedia.org/wiki/Paronychia Paronychia on Wikipedia
 
