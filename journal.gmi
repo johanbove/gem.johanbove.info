@@ -2,112 +2,12 @@
 
 Bullet-journal style notes, tidbits and blurbs.
 
-## 2021-03-20, Saturday
+## 2021-04-07, Wednesday
 
-* Supported the SoloKeys v2 crowd-funding campaign today.
-* Received the DiceKeys and I've set up my master password. Playing around with the DiceKey apps in the various operating systems.
+* Forgot how easy it was to simply jot things down in a file and throw it up on the Gemini capsule for writing something. So here we are with an update.
+* I got a finger nail infection on my left index finger, the condition is called _Paronychia_; it appeared suddenly and got swollen pretty fast and the infection became visible; so I went to the doctor and they decided to "drain" it. A bit painful, but it was good to have it done. Now my finger is wrapped in a lot of sterile gaze at least until next week. It's a bit annoying for typing. I was afraid of having more pain; but it has been manageable until now. Feeling fortunate about the German medical system. Apart from the pain killer, ibuprofen, I didn't have to pay a single Euro cent. 
 
-=> https://www.indiegogo.com/projects/solo-v2-safety-net-against-phishing/x/1400455#/
-=> https://dicekeys.com/
-
-## 2021-03-07, Sunday
-
-* Watched the Perseverance Mars landing highlights with my son for the first time today and we both got emotional about it. I because of the fact that I was able to share such an important moment with him. He got sad because of how he realized that Perseverance is all alone there. I tried to console by telling him we are constantly in connection with the robot and he has satellite and the little helicopter to keep the robot company. He has such a big heart.
-* He also loved the Boston Dynamics robots dancing video a lot.
-
-=> https://www.youtube.com/watch?v=fn3KWM1kuAw "Do You Love Me?" Boston Dynamics robots dancing
-=> https://mars.nasa.gov/news/8881/media-telecon-materials-march-5-2021/
-=> https://spaceplace.nasa.gov/mars-2020/en/ Spaceplace Nasa For Kids
-
-## 2021-03-06, Saturday
-
-A collection of things I shared elsewhere and here.
-
-* Extremely Covid-lockdown tired. I really feel it's been enough now and long to be free again. But we're staying strong in face of my son and family. I'm dreaming about being able to visit places again normally.
-* Dad's operation has been post-poned to next week.
-* My son is growing up so fast.
-* I have fond memories of browsing through my parent's record collection as a kid. We had a record player and I just was amazed by putting on records and looking at the needle following the groove. How can this feeling of discovery and wonder ever by recreated digitally in this streaming age? 
-* Dragons Rescue Riders by DreamWorks on Netflix is witty, original, charming and my son loves it. Recommended.
-* My 3-year old son called me with my first name after I didn't respond fast enough while I was doing dishes. He seemed so grown-up all of a sudden.
-* Idea: muting milked-out memes on social-media to avoid timelines filling up with too many repetitions / versions of the same thing over and over again.
-* I'm in a love-hate relationship with TypeScript since a couple of weeks.
-* I wish that people, who spent real money on #NFT s, would also donate some of that money to #charity . Like https://www.stbaldricks.org, a foundation which wants to eradicate childhood cancers.
-* My favourite karaoke songs are Three Doors Down 's "Kryptonite" And "The Pretender" by Foo Fighters. Which one's your staple shout-along song? 
-* My three year old said today for the first time that he wants to be a dump truck driver when he's "big".
-* Really proud of my son's comedic timing. He's only three but shows already that he has a great sense of humor.
-* Found a big bumble bee the other day already up and groggy. Perhaps it was a queen. Couldn't take a picture because I didn't have my phone on me. Tried to put the bee in safety. It felt like it was awake from hibernation way too soon!
-* Going Wire-less. Cancelling my Wired subscription. Have been a bit disappointed by the articles and the site. Also, Condé Nast's "subscription" system is a mess. Couldn't really get to the "cancelling" page easily. Luckily Paypal made it easy to stop the recurring payments. Feeling sad about this actually. Feels like the end of an era to me.
-* Spent time reading and learning about Cardano. It's an interesting project for sure. Wondering again what to do with this.
-* Having some trouble with Brave and the IPFS companion. The IPFs Companion app no longer shows the status of the IPFS server within Brave. The companion still works in Firefox.
-* At first I thought to give this browser a try, but its advertisement model is actually more annoying than other browsers as these don't have the ads built into them. Brave boasts that it blocks ads, you still see ads in the browser, plus on top you get these notifications within your OS of mostly crypto / fintech related ads. Supposedly you get "paid" for having this active, but the amount is simply not worth the distraction it generates.
-* Again, enjoying how easy it is to write on Gemini as the classic Web is so heavy on "design" and "features", that people lose track of what really matters.
-
-=> https://cardano.org/
-
-## 2021-02-23, Tuesday
-
-* This week is turning out to be one of those periods where it would be really nice to have family nearby.
-* Just discovered that you can activate the programs you have pinned to the Windows 10 task-bar using the Windows-key + the number keys on your keyboard. Works from 0 to 9.
-* Avoiding as much "Novel Pains In The Buttestry" as possible building a new Web platform. Challenge accepted.
-* Had a wonderful and fun time playing with my son at the playground yesterday - this morning I really felt it in my back however. Becoming a dad at an older age has it benefits. He's keeping me in shape!
-* Wishing there was a way to prevent your own "Twitter Likes" to be so pushed so aggressively on to any followers.
-* The TrackPoint experiment is over. I'm giving up. I'm probably doing something wrong, but it's actually uncomfortable using it as the only input device. Cramp in my fingers and the skin on my index finger feels roughed up a bit. I guess it's good as a backup in case nothing else works or you forgot your mouse; but if I had a choice, I would still use a mouse or trackpad instead. So now looking for a decent mouse replacement.
-* I'm trying to avoid following accounts on Twitter with thousands of followers in preference to people I know and have less followers. The tweets of very popular accounts will pass through your timeline eventually anyway through your network. This way the algorithm makes some space for the lesser known people who also have interesting things to say.
-* "Less Despair. More Repair"
-
-## 2021-02-17, Wednesday
-
-* Feeling bad how I have been neglecting writing in my paper bullet journal since months now. Wrote some sentences today just because and my hand-writing deteriorated terribly. It's such a good practice to do instead of typing. Forming the words by hand feels more sincere. However the medium of a flat piece, with all its advantages, has a hard time competing with the power of digital files and the Internet.
-* Also, I forgot in my previous entry that lists in Gemini syntax start with the asterix and not a minus.
-* Found that the Delta Chat people over on the #deltachat Freenode chat room are nice and helpful. Seems like a great project.
-* Listened to the Flemish Nerdland Maandoverzicht of February 2021 today.
-
-## 2021-02-15, Monday
-
-* We're still under the COVID ban in Germany; the lockdown has been extended for another two weeks at least. It is starting to wear down on us.
-* My son is the light in my life at the moment. He is so full of wonder, innocence and joy. I am really proud to be his dad.
-* We are having good fun playing together with the blocks and building train tracks. He also loves to chase and play "Paw Patrol".
-* He's talking alot and we love it when he explains things to us and sings songs.
-* We started doing Khan Academy Kids some time ago and I think he likes doing the exercises and games. It is a really well made application. It works good even on the otherwise really slow DragonTouch kids tablet we got him.
-* The new HP PC has been holding up. Got a new external keyboard too. A Thinkpad Compact keyboard with built-in TrackPoint. Trying using the computer without an additional mouse and relying only on the TrackPoint. It is a bit of slow getting used to. If you stay within "text" world, the TrackPoint is enough. It's only while browsing the Web when it takes a bit of patience to get around. Still hopeful that soon I'll be faster with it. Also missing lighted keys a bit. I often find myself having to look at the keyboard to find the right keys. The left Fn and CTRL keys are tricky.
-* Wondering what to do with my old Surface Pro 3 now. The keyboard is frayed, but otherwise it still functions as good as you can expect. The battery life is really low and the fan spins like crazy, but otherwise it could still be used. Perhaps I keep it as it is the only device we have in the house that has a pen input and N. likes to draw on it using Freshpaint.
-* Learning more about IPFS and FileCoin.
-* Also registered on Flattr.com and the Brave Creators Network. Essentially to try these tools out. Not expecting any real "income" from these services. Also installed Flattr to start supporting "content creators" directly instead of ads. Since I'm blocking most ads it only seemed fair to provide a different way of supporting the sources I enjoy and rely on. Next to our subscriptions which we have for a lot of news papers and publications, I think we're doing our share in supporting the industry. And for once the money is not going to Google as well. Let's give the smaller companies also a chance.
-* Using Brave Browser as my primary browser now since a couple of weeks. I like how many new technologies it bolsters.
-* Installed Delta.chat on my PC and Android phone. It's an application layer on top of Email with an UI that behaves like an instant messaging application.
-* Got Dai today for €20 worth. Earlier this week also bought €20 worth of BAT. Gave €10 to Daniel from ctrl.blog for his help and his interesting articles.
-* Also received the new 2TB hard drive and the aluminium enclosure to keep our photographs in safely.
-* Ordered an USB 3 extension and SD card reader over USB Type-C on Ebay. Trying to avoid Amazon as much as I can.
-* Got the "Designing an Internet" book by Dave C. Clarke today. Putting it high on my to-read list.
-* Still reading the "Weaving the Web" book by Sir Tim Berners Lee... It's amazing to read about things like _Xanadu_ by Ted Nelson which basically describes the micro-payments idea now being implied in Brave and the other tools I recently started with.
-
-=> https://delta.chat
-=> https://flattr.com/faq#what-is-flattr What is Flattr?
-=> https://docs.filecoin.io/
-=> https://proto.school/verifying-storage-on-filecoin "Proto School: Verifying storage on Filecoin"
-=> https://brave.com
-=> https://en.wikipedia.org/wiki/Project_Xanadu
-
-
-## 2021-02-07, Sunday
-
-* Had fun with my son in the snow going down the hill in the sled.
-* In the process of moving PC hardware.
-* Impressed by how easy it is through the Microsoft account and OneDrive. Didn't have to set up much, except for disabling some of their advertising / tracking attempts.
-* Got two HP Elite Desk 800 GM 2 (HP ELITEDESK 800 G2 DM) devices to replace our aging TV computer and my "old" Surface Pro 3 for about €400 each * for that money I got Intel Core i5 6.  Generation CPUs (4 x 3.20Ghz), 8 GB Ram and 500GB Samsung EVO 860 drives. The small form factor of these devices works well on my desk and for our TV computer. Max SDRam is 32GB so I have possibility for expansion and these devices come with an USB Type-C connector and M.2 slot.
-* Got these refurbished from RETEQ or Green Panda. RETEQ is a "Microsoft Authorized Refurbisher" since 2009. 
-* The devices come with only Acronis and Bullguard installed. No other annoying software, except for some Windows Store apps are "offered" with the purchase. Needless to stay I do not have the need for either package. I trust Microsoft Defender and my own private judgement for the security part and keep everything fairly backed up.
-* The idea is that I actually do not need a laptop privately and using a small desktop still makes the device portable in case I want to use it at my parent's in law place while also allowing the hardware to be easily upgraded. At least much easier than with the "tablet" style everything is glued device like the Surface. I just need a screen at their place and bring over a keyboard and mouse.
-* The catch with these devices is that the version I purchased did not include the "wireless connection" module. Not a biggy as I use cable connected ethernet. I got USB wireless dongles nevertheless in case I need it. Oh, and there is no bluetooth either. Don't really use it either.
-* When I was in the process of setting up the PCs I accidentally dropped a 2TB Toshiba external hard-drive from my desk and it passed away... Good thing the drive was my local storage back up drive of my NAS, so I still have all files backed up on another drive and in the cloud. It is annoying however that I lost this storage hardware so I need to replace it soon. Thinking of getting an "internal" hard-drive and using an enclosure instead of fixed external USB drive style device I broke.
-* Archived the logs in my journal to their own archive file. This file will be up for another twenty days or so.
-* Worked on my private site's migration to Eleventy (11ty) as a static site generator. Figured I could also fix some styling and other issues.
-* Thinking of moving the now.johanbove.info sub domain also to the Eleventy site generator as this is currently a PHP template running on the web server * or I retire the whole thing as I'm not really keeping up with the tasks I mention on there.
-
-=> https://greenpanda.de
-=> https://www.reteq.eu/
-=> https://www.greenpanda.de/gebrauchte-pc/HP-ELITEDESK-800-G2-DM/?card=21261&variant=001A
-=> https://now.johanbove.info
+=> https://en.wikipedia.org/wiki/Paronychia Paronychia on Wikipedia
 
 ──────────────────
 
@@ -115,6 +15,7 @@ A collection of things I shared elsewhere and here.
 
 ## Journal Archive
 
+=> journal_2021-02-07-2021-03-20.gmi 2021-02-07 to 2021-03-20
 => journal_2020-12-21-2021-01-28.gmi 2020-12-21 to 2021-01-28
 => journal_2020-11-21-2020-12-20.gmi 2020-11-21 to 2020-12-20
 
