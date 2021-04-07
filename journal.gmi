@@ -7,8 +7,11 @@ Bullet-journal style notes, tidbits and blurbs.
 * Forgot how easy it was to simply jot things down in a file and throw it up on the Gemini capsule for writing something. So here we are with an update.
 * I got a finger nail infection on my left index finger, the condition is called _Paronychia_; it appeared suddenly and got swollen pretty fast and the infection became visible; so I went to the doctor and they decided to "drain" it. A bit painful, but it was good to have it done. Now my finger is wrapped in a lot of sterile gaze at least until next week. It's a bit annoying for typing. I was afraid of having more pain; but it has been manageable until now. Feeling fortunate about the German medical system. Apart from the pain killer, ibuprofen, I didn't have to pay a single Euro cent.
 * Wanted to exchange some of the XLM I got through the Keybase Airdrops to Nano. Found swapzone.io which uses Exolix - so I got all the addresses ready after copying the values from the swapzone.io page - but forgot about the importance of the _memo_ field. I didn't copy paste the right number in there. The result: a rejected transaction - while my XLM coins did proceed happily to Exolix's address. Hoping I get to see some of the coins back some day...
+* Had a great Easter day with my family; we didn't leave the house - but enjoyed the chocolates and had a lot of fun with the new toys the Easter Bunny brought in exchange for my son's pacifiers. He was really brave about giving the pacifiers to the Easter Bunny so the new babies could also have theirs. So proud of him.
+* Hadn't seen the "This Website is a Tech Talk" presentation by Zach Leatherman yet - highly recommended for every Web dev out there who understands English and dry humor.
 
 => https://en.wikipedia.org/wiki/Paronychia Paronychia on Wikipedia
+=> https://www.zachleat.com/web/this-website-is-a-tech-talk/ "The website is a tech talk" by Zach Leatherman
 
 ──────────────────
 
