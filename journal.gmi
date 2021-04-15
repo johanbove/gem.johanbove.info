@@ -2,6 +2,19 @@
 
 Bullet-journal style notes, tidbits and blurbs.
 
+## 2021-04-15, Thursday
+
+* Time flies!
+* The COVID situation is still ongoing in Germany - and it's not getting any easier or better, in contrary. The "measures" the German government is trying to use to control the outbreak have resulted in a pretty bad "jojo" effect.
+* I believe they should really enforce a two week full lock-down, a REAL lock down, where nobody can actually leave the house except for work or emergencies and food. - As long as they do these weak lock-downs the virus will keep mutating and we'll be stuck in these jojos. Getting sick of just the stress of it all.
+* After my finger healed nicely, I started to develop a sore in my right wrist. Kinda like carpal tunnel syndrome. So I got a gel-filled mouse pad and the awkwardness has settled.
+* Work has been challenging. Code quality issues are difficult to deal with.
+* What is better for a headless CMS / API: GraphQL or HATEOS?
+* My Sony MZ-R500 Minidisc recorder is having trouble recording more than 10-15 minutes in "STEREO" mode. Wondering why? Tried with different disk - perhaps it's due to the framerate and the spinning of the disc losing momentum? Minidiscs are cool tech, but the hardware is really getting old.
+* Got my OpenPGP Key email IDs certified with my European eID through the German AusweisApp2 software made by Governikus
+
+=> https://pgp.governikus.de/pgp/index.html www.governikus.de/pgp
+
 ## 2021-04-07, Wednesday
 
 * Forgot how easy it was to simply jot things down in a file and throw it up on the Gemini capsule for writing something. So here we are with an update.

@@ -5,6 +5,8 @@ Short notes and blog posts by Johan Bové.
 
 ## 2021
 
+=> gemini://gem.johanbove.info/gemlog/2021-04-04-crypto-wallets.gmi 2021-04-04 — How many crypto wallets do you currently manage?
+
 => gemini://gem.johanbove.info/gemlog/2021-03-27-pausing-gemini.gmi 2021-03-27 — Pausing my Gemini capsule
 
 => gemini://gem.johanbove.info/gemlog/2021-02-01-considering-new-internet-connection.gmi 2021-02-01 — Considering changing our home internet connection

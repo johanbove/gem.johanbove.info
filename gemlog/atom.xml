@@ -4,7 +4,7 @@
   <subtitle>Short notes and blog posts by Johan Bové.</subtitle>
   <link rel='self' href='gemini://gem.johanbove.info/gemlog/atom.xml'/>
   <link rel='alternate' href='gemini://gem.johanbove.info/gemlog/index.gmi'/>
-  <updated>2021-03-27T17:51:12+01:00</updated>
+  <updated>2021-04-15T21:44:19+02:00</updated>
   <author>
     <name>Johan</name>
     <email>hello@johanbove.info</email>
@@ -13,6 +13,14 @@
   <id>gemini://gem.johanbove.info/gemlog/</id>
   <generator uri='https://tildegit.org/nytpu/gemlog.sh'>gemlog.sh</generator>
   <rights>© Johan - CC BY 4.0</rights>
+
+  <entry>
+    <title>How many crypto wallets do you currently manage?</title>
+    <id>gemini://gem.johanbove.info/gemlog/2021-04-04-crypto-wallets.gmi</id>
+    <link rel='alternate' href='gemini://gem.johanbove.info/gemlog/2021-04-04-crypto-wallets.gmi'/>
+    <updated>2021-04-04T12:00:00+02:00</updated>
+    <summary>You need a gemini client to view this post. If you have one installed, here is the link to the post: gemini://gem.johanbove.info/gemlog/2021-04-04-crypto-wallets.gmi</summary>
+  </entry>
 
   <entry>
     <title>Pausing my Gemini capsule</title>
