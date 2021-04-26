@@ -2,6 +2,19 @@
 
 Bullet-journal style notes, tidbits and blurbs.
 
+## 2021-04-26, Monday
+
+* Had to deal with a nasty ransomware attack on my Qnap NAS last week. I had put too much trust in Qnap's system and had left the doors wide open for an remote code injection attack. It ended with my family's pictures volume being encrypted through a remote execution of z7. I would have had to pay up the ransom of about €500 if it wasn't for my 3-2-1 backup system which fortunately saved the day for me. Nevertheless I slept really badly the days afterwards and spent a good amount of effort closing down access to my network and resetting the NAS. I hope this won't happen again... *keeps fingers crossed and eyes on the system logs* Feeling sorry for everyone who lost files and or had to pay up that amount of money.
+* So no more port 80 or DLNA servers on my network and especially not from the remote World. If you want to read my stuff, ports 70 and 1965 are all you're getting.
+* Learned about pivpn and WireGuard after this. Both seem excellent tools to help secure remote access to ones home network. It was about time I actually did a review of my network set up.
+* Covid numbers are still high. The state of NRW in Germany now enforces a night curfey from 22:00 until 05:00 in the morning. My son can still go to Kita under emergency circumstances. Since my wife and I both need to work during the day and our jobs are demanding, the best thing we can do is still bring him to Kita. He's not alone there and can play with other kids. At home we just cannot give the same attention and fun. However, if the situation gets any worse, then one of us will have to take leave of abscence. Getting help from a baby sit or nanny would be worse in our opinion since at least at the Kita we know they are doing everything they can to avoid a Covid outbreak. With a nanny, we don't know, nor can control what this person does. If he had been older, we probably would think of it differently.
+* Half of his life he has been in a Covid situation now. Which is a terrible thought!
+* Work is more challenging than I was used to. But the change in pace keeps me busy and distracted from other problems. And I prefer a more complicated challenge than a boring stale mate. It has been very different every month since a couple of months now. Hoping the next project will be last longer than 4 weeks. Feels like I'm on "fire fighting" duty.
+
+=> gemini://nytpu.com/why-gemini.gmi Excellent summary on the current state of Gemini
+=> https://www.wireguard.com/#cryptokey-routing WireGuard CryptoKey Routing 
+=> https://github.com/pivpn/pivpn PiVPN
+
 ## 2021-04-15, Thursday
 
 * Time flies!
