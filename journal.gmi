@@ -2,6 +2,15 @@
 
 Bullet-journal style notes, tidbits and blurbs.
 
+## 2021-05-05, Wednesday
+
+* After last week's Qnap ransomware disaster I picked up my effort again to write all our valuable videos and pictures on m-disc immutable DVD-R and BD-R discs. I really hope that verbatim.com will keep making this excellent archive solution and won't phase them out completely. Imho discs like m-disc are real archival solutions, especially since these are ransomware proof.
+* Almost finished burning our family videos to disc. Next up: about 180 GB worth of pictures.
+* Discovering the excellent German band "Die Ärzte" only today - I have been living here ten years - after finding a live album on one of the mini discs I got second hand.
+* I'm drinking ashwagandha tea now, one cup a day, to help me relax and calm my nerves. Had some bad weeks before where I was tossing and turning in bed during the night. Seems to be working. But I'm not going to overdo it. A cup of camomille tea helps too every other day.
+* Kita closed for half the week this week and only ten kids can go per day of the normal 20 - it's tough, but we understand the situation as the kita needs to follow the rules it gets prescribed by the government.
+
+
 ## 2021-04-26, Monday
 
 * Had to deal with a nasty ransomware attack on my Qnap NAS last week. I had put too much trust in Qnap's system and had left the doors wide open for an remote code injection attack. It ended with my family's pictures volume being encrypted through a remote execution of z7. I would have had to pay up the ransom of about €500 if it wasn't for my 3-2-1 backup system which fortunately saved the day for me. Nevertheless I slept really badly the days afterwards and spent a good amount of effort closing down access to my network and resetting the NAS. I hope this won't happen again... *keeps fingers crossed and eyes on the system logs* Feeling sorry for everyone who lost files and or had to pay up that amount of money.
