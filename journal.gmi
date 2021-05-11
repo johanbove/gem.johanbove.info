@@ -2,6 +2,13 @@
 
 Bullet-journal style notes, tidbits and blurbs.
 
+## 2021-05-11, Tuesday
+
+* Got a new modem from Vodafone and an upgrade Internet connection. Theoretically we should have 1000 Mb/s down and 50 Mb/s up. Realistically we are getting about 800 Mb/s down and about 30 Mb/s up. Which still is nice. At these speeds, routers and networks cable conditions start to apply so I'm happy so far. It wasn't the easiest move, but altogher everything went fairly smoothly.
+* Work is still extremely busy. This project is challenging, yet rewarding because the client is not shy in showing gratitude. Worked late last night, but won't today. I feel the need for some sleep.
+* Family is doing good - for now - our parents are almost all vaccinated now as they are almost all above 60. We cannot wait to see them again! Hopefully travel restrictions will be lifted soon.
+* Decided the NAS will go into sleep mode every day and I've enable Wake-On-Lan - thinking it will conserve some energy and also keep the noise a little down for the night. Also got an UPS from APC this week (as B-ware) and now the NAS and my network are battery backed up. We experienced a power outage last week for the first time since we moved into the new place in 2017, yet I had wanted to get the UPS before. Just to keep the files a little safer on there.
+
 ## 2021-05-05, Wednesday
 
 * After last week's Qnap ransomware disaster I picked up my effort again to write all our valuable videos and pictures on m-disc immutable DVD-R and BD-R discs. I really hope that verbatim.com will keep making this excellent archive solution and won't phase them out completely. Imho discs like m-disc are real archival solutions, especially since these are ransomware proof.
@@ -9,7 +16,6 @@ Bullet-journal style notes, tidbits and blurbs.
 * Discovering the excellent German band "Die Ärzte" only today - I have been living here ten years - after finding a live album on one of the mini discs I got second hand.
 * I'm drinking ashwagandha tea now, one cup a day, to help me relax and calm my nerves. Had some bad weeks before where I was tossing and turning in bed during the night. Seems to be working. But I'm not going to overdo it. A cup of camomille tea helps too every other day.
 * Kita closed for half the week this week and only ten kids can go per day of the normal 20 - it's tough, but we understand the situation as the kita needs to follow the rules it gets prescribed by the government.
-
 
 ## 2021-04-26, Monday
 
