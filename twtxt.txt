@@ -171,3 +171,6 @@
 2021-06-25T14:22:59+0200	STAY SANE + STAY CALM + STAY HEALTHY
 2021-06-25T14:23:30+0200	Semper meliorem facio - Always do better
 2021-06-26T00:06:44+0200	This Loki show is pretty clever and really well-made. Enjoying watching it.
+2021-06-26T00:45:30+0200	Not sure why exactly, but I made sure my Twtxt HTML page renders okay on a Nokia 8110 4G 240px screen.
+2021-06-26T20:28:35+0200	@<darch https://twtxt.net/user/darch/twtxt.txt> Yes, nothing much to it. Full source code is free to use :-) I will probably add some analytics and sorting options later.
+2021-06-26T20:30:02+0200	@<prologic https://twtxt.net/user/prologic/twtxt.txt> Thanks. Nothing much to it. Perhaps I'll make it better later.
